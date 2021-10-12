@@ -1,0 +1,28 @@
+Os03t0752300-01_S_13	POT52	- - - t - c - - - a - - g - - - - - - - c - -	4M	LOC_Os01g10600.1 CDS|aquaporin protein, putative, expressed	739	-
+Os03t0752300-01_S_13	POT113	- a - - - c - t - g - - - - - - - - - - c - -	4M	LOC_Os01g21034.1 CDS|pectinesterase, putative, expressed	1042	+
+Os03t0752300-01_S_13	POT219	- t - - - - a - - - - - - - g g - - - - c - -	4M	LOC_Os01g39050.1 CDS|retrotransposon protein, putative, unclassified, expressed	448	-
+Os03t0752300-01_S_13	POT261	- - - c - - - - - - g a g - - g - - - - - - -	5M	LOC_Os01g45360.1 CDS|membrane associated DUF588 domain containing protein, putative, expressed	81	+
+Os03t0752300-01_S_13	POT283	- - - - - c - - - g - - - - - - t g - - c - -	4M	LOC_Os01g48010.1 CDS|expressed protein	298	-
+Os03t0752300-01_S_13	POT413	- - - - - - - - - g a - - - t - - a - - - - -	4M	LOC_Os01g71220.1 CDS|zinc finger protein, putative, expressed	1420	-
+Os03t0752300-01_S_13	POT461	- - t - c g - - - - - - - - - - - t a - - - -	5M	LOC_Os02g05120.1 CDS|expressed protein	47	+
+Os03t0752300-01_S_13	POT797	- - - - t g - - - - - - c - - - t - - - c - -	4M	LOC_Os02g57470.1 CDS|tetratricopeptide repeat containing protein, putative, expressed	436	+
+Os03t0752300-01_S_13	POT1257	- - - - - - - - - - c - t c - t - - c - - - -	5M	LOC_Os03g58170.1 CDS|stem-specific protein TSJT1, putative, expressed	176	+
+Os03t0752300-01_S_13	POT1358	- - - g c t - - - - - - - - - - - - - - g a -	4M	LOC_Os04g08680.1 CDS|retrotransposon protein, putative, unclassified, expressed	436	-
+Os03t0752300-01_S_13	POT1550	- - - c - c - a - - - - - g - - g - - - - - -	5M	LOC_Os04g37720.1 CDS|pentatricopeptide, putative, expressed	343	+
+Os03t0752300-01_S_13	POT1707	- - - g c c - - - - - - - - - - - - - - g a -	4M	LOC_Os05g03660.1 CDS|retrotransposon protein, putative, unclassified, expressed	679	-
+Os03t0752300-01_S_13	POT1754	- - - - - g - g - - - - - - - t - - a - t - -	4M	LOC_Os05g12030.1 CDS|expressed protein	218	-
+Os03t0752300-01_S_13	POT1941	- - - g t - - - - - - - - - t - - - - - g a -	4M	LOC_Os05g37750.1 CDS|retrotransposon protein, putative, unclassified, expressed	22	-
+Os03t0752300-01_S_13	POT2313	- t - - - - - - - a g - - - - g - - - - t - -	4M	LOC_Os06g48050.2 CDS|expressed protein	1389	+
+Os03t0752300-01_S_13	POT2314	- t - - - - - - - a g - - - - g - - - - t - -	4M	LOC_Os06g48050.1 CDS|expressed protein	1389	+
+Os03t0752300-01_S_13	POT2346	- - - - - c t - - - - - - c - t - - - - - a -	4M	LOC_Os07g01600.1 CDS|dirigent, putative, expressed	400	-
+Os03t0752300-01_S_13	POT2534	- - - - - - - - - - c t g - g - - t - - - - -	5M	LOC_Os07g25840.1 CDS|retrotransposon protein, putative, unclassified, expressed	273	-
+Os03t0752300-01_S_13	POT2566	- - - - - c t - - - - - g g - - - - - g - - -	5M	LOC_Os07g30010.1 CDS|expressed protein	40	+
+Os03t0752300-01_S_13	POT2604	- - - - - c - - - - - - - g - a - - - - c - -	3M	LOC_Os07g35350.3 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	193	-
+Os03t0752300-01_S_13	POT2605	- - - - - c - - - - - - - g - a - - - - c - -	3M	LOC_Os07g35350.2 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	193	-
+Os03t0752300-01_S_13	POT2607	- - - - - c - - - - - - - g - a - - - - c - -	3M	LOC_Os07g35350.1 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	196	-
+Os03t0752300-01_S_13	POT2920	- - - - - - - - - a g - g - a - a - - - - - -	5M	LOC_Os08g26500.1 CDS|retrotransposon protein, putative, unclassified, expressed	729	-
+Os03t0752300-01_S_13	POT3035	- - - t - - a - - - - - - - a - - t - - - - -	4M	LOC_Os08g41040.1 CDS|expressed protein	446	-
+Os03t0752300-01_S_13	POT3105	- - - - c c - - - - - - - - t - - - - - g a -	4M	LOC_Os09g08180.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	5659	-
+Os03t0752300-01_S_13	POT3570	- g g - - - c - - - a - - - - - - - - - c - -	4M	LOC_Os11g12530.1 CDS|receptor-like protein kinase 5 precursor, putative, expressed	1198	-
+Os03t0752300-01_S_13	POT3928	- - - g - c - - - - - - g g - g - - - - - - -	5M	LOC_Os12g23200.1 CDS|photosystem I reaction center subunit XI, chloroplast precursor, putative, expressed	367	+
+Os03t0752300-01_S_13	POT4056	- - - g c c - - - - - - - - - - - - - - g a -	4M	LOC_Os12g39590.1 CDS|retrotransposon protein, putative, unclassified, expressed	3025	-

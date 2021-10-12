@@ -1,0 +1,2 @@
+- g t - g - g - - - t - - - - - - - - - - - -	5M	Os03t0752300-01_S_97_POT325	LOC_Os01g55950.1 CDS|acetamidase, putative, expressed	847	+	regionI_ident	
+g - - - c c - - - g c - - - - - - - - - - - -	5M	Os03t0752300-01_S_97_POT3295	LOC_Os10g03760.1 CDS|OsFBX350 - F-box domain containing protein, expressed	776	-	regionI_ident	

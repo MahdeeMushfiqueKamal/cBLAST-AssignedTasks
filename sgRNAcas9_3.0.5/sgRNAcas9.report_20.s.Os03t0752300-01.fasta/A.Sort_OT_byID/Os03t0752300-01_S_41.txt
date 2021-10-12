@@ -1,0 +1,21 @@
+Os03t0752300-01_S_41	POT38	- - - - - - - t - - - - t t - - - g - - - a -	4M	LOC_Os01g08200.1 CDS|ubiquitin carboxyl-terminal hydrolase 14, putative, expressed	1335	+
+Os03t0752300-01_S_41	POT46	- g - - a - g - - - - - - a - - - - g - - - -	5M	LOC_Os01g09890.1 CDS|translation initiation factor SUI1, putative, expressed	453	+
+Os03t0752300-01_S_41	POT57	a - c - - - - - - - - - - - - - - g - g - - -	4M	LOC_Os01g11640.1 CDS|expressed protein	94	-
+Os03t0752300-01_S_41	POT927	a t - - g - t - - - - - - - - - c - - - - - -	5M	LOC_Os03g20340.1 CDS|SNF1-related protein kinase regulatory subunit beta-1, putative, expressed	309	+
+Os03t0752300-01_S_41	POT1145	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	120	+
+Os03t0752300-01_S_41	POT1198	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	120	+
+Os03t0752300-01_S_41	POT1398	- - - - - - - a - g a t - - - - - c - - - - -	5M	LOC_Os04g14340.1 CDS|retrotransposon protein, putative, unclassified, expressed	1503	-
+Os03t0752300-01_S_41	POT1995	- - - c - - - t - - - a t - - - - - - g - - -	5M	LOC_Os05g45340.1 CDS|ATP binding protein, putative, expressed	1133	+
+Os03t0752300-01_S_41	POT2056	- - - - - - t - - - - t - - t - - - - - g a -	4M	LOC_Os06g04510.2 CDS|enolase, putative, expressed	267	-
+Os03t0752300-01_S_41	POT2058	- - - - - - t - - - - t - - t - - - - - g a -	4M	LOC_Os06g04510.1 CDS|enolase, putative, expressed	546	-
+Os03t0752300-01_S_41	POT2386	- - g - - c - - - - - - g - - g - - - c - - -	5M	LOC_Os07g04520.1 CDS|protein kinase, putative, expressed	394	-
+Os03t0752300-01_S_41	POT2483	a g a - - t - - - - - - - - - - - - g - - - -	5M	LOC_Os07g17450.1 CDS|expressed protein	53	-
+Os03t0752300-01_S_41	POT2751	- t - - - - - - - - a - t t - - - - - g - - -	5M	LOC_Os08g03750.1 CDS|expressed protein	860	+
+Os03t0752300-01_S_41	POT2763	- - - - g - - t - - - - a - - - - c - - - a -	4M	LOC_Os08g05800.1 CDS|retrotransposon protein, putative, unclassified, expressed	1014	-
+Os03t0752300-01_S_41	POT2916	- t - - - - - - - - a - t t - - - - - g - - -	5M	LOC_Os08g25250.1 CDS|retrotransposon protein, putative, unclassified, expressed	527	+
+Os03t0752300-01_S_41	POT3131	- t - - - - - - - - a - t t - - - - - g - - -	5M	LOC_Os09g11850.1 CDS|ulp1 protease family, C-terminal catalytic domain containing protein, expressed	801	+
+Os03t0752300-01_S_41	POT3197	- t - - - - - - - - a - t t - - - - - g - - -	5M	LOC_Os09g23250.1 CDS|expressed protein	858	+
+Os03t0752300-01_S_41	POT3325	- - - - - - - - - - - a a a - g - - - - c - -	4M	LOC_Os10g10130.1 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1138	-
+Os03t0752300-01_S_41	POT3327	- - - - - - - - - - - a a a - g - - - - c - -	4M	LOC_Os10g10130.4 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	145	-
+Os03t0752300-01_S_41	POT3329	- - - - - - - - - - - a a a - g - - - - c - -	4M	LOC_Os10g10130.2 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1138	-
+Os03t0752300-01_S_41	POT3331	- - - - - - - - - - - a a a - g - - - - c - -	4M	LOC_Os10g10130.3 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1006	-

@@ -1,0 +1,2 @@
+- - t - - t - - - - a - c - - - - - - - a - -	4M	Os03t0752300-01_S_95_POT2331	LOC_Os06g49800.1 CDS|ubiquitin interaction motif family protein, expressed	1197	-	regionI_ident	
+- a - a - - - c - a - - - - - - - - - - - a -	4M	Os03t0752300-01_S_95_POT3568	LOC_Os11g12490.1 CDS|transposon protein, putative, unclassified, expressed	2153	-	regionI_ident	

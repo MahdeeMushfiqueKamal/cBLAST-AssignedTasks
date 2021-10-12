@@ -1,0 +1,67 @@
+Os03t0752300-01_S_45	POT11	- - a g - - - c - a - g - - - - - - - - - - -	5M	LOC_Os01g04170.1 CDS|expressed protein	524	+
+Os03t0752300-01_S_45	POT12	- - - - - c - t - - g - g - a - - - - - - - -	5M	LOC_Os01g04210.1 CDS|DNA binding protein, putative, expressed	1085	+
+Os03t0752300-01_S_45	POT13	- - - - - c - c - - - g g - a - - - - - - - -	5M	LOC_Os01g04220.1 CDS|DNA binding protein, putative, expressed	1064	+
+Os03t0752300-01_S_45	POT39	- - - - - - - t c a - - - - - - - - - - c - -	3M	LOC_Os01g08220.1 CDS|gibberellin 3-beta-dioxygenase 2-2, putative, expressed	485	+
+Os03t0752300-01_S_45	POT61	- - a - - - c c g a - - - - - - - - - - - - -	5M	LOC_Os01g11840.1 CDS|xylem cysteine proteinase 2 precursor, putative, expressed	116	+
+Os03t0752300-01_S_45	POT163	- - a - a - - - - - a - - c a - - - - - - - -	5M	LOC_Os01g29880.1 CDS|retrotransposon protein, putative, unclassified, expressed	1614	+
+Os03t0752300-01_S_45	POT218	- - - - - - - t - - g - - t - - a - - t - - -	5M	LOC_Os01g38840.1 CDS|TKL_IRAK_DUF26-le.1 - DUF26 kinases have homology to DUF26 containing loci, expressed	104	+
+Os03t0752300-01_S_45	POT341	- - - - t - - - a - - c - - - - - - - - g - -	3M	LOC_Os01g57490.1 CDS|D-mannose binding lectin family protein, expressed	890	+
+Os03t0752300-01_S_45	POT374	- - - - - - c - g - - - - - - - - t - - g a -	4M	LOC_Os01g65580.1 CDS|mitotic checkpoint family protein, putative, expressed	521	+
+Os03t0752300-01_S_45	POT375	- - - - - - c - g - - - - - - - - t - - g a -	4M	LOC_Os01g65580.2 CDS|mitotic checkpoint family protein, putative, expressed	521	+
+Os03t0752300-01_S_45	POT376	- - - - - - c - g - - - - - - - - t - - g a -	4M	LOC_Os01g65580.3 CDS|mitotic checkpoint family protein, putative, expressed	521	+
+Os03t0752300-01_S_45	POT385	- c - - - g c - - - - - - - c - - - - - - a -	4M	LOC_Os01g66690.1 CDS|ZIP4/SPO22, putative, expressed	1568	+
+Os03t0752300-01_S_45	POT386	c - - t - g - g - - g - - - - - - - - - - - -	5M	LOC_Os01g66900.1 CDS|expressed protein	117	-
+Os03t0752300-01_S_45	POT412	- - - - - - - c g - - - - - - - - - a - g a -	4M	LOC_Os01g71040.1 CDS|expressed protein	521	+
+Os03t0752300-01_S_45	POT477	t c - - t - - c - - - - - - c - - - - - - - -	5M	LOC_Os02g07050.1 CDS|pentatricopeptide, putative, expressed	1508	+
+Os03t0752300-01_S_45	POT859	- - - - - c - g - - - - - - a - - - - - g a -	4M	LOC_Os03g09820.1 CDS|transcription initiation factor IIB, putative, expressed	410	+
+Os03t0752300-01_S_45	POT870	- - - - - a - c - - - - g - - - c - - - - a -	4M	LOC_Os03g11670.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	1136	+
+Os03t0752300-01_S_45	POT894	- - a t - a - - g - - - - - - - - - g - - - -	5M	LOC_Os03g15740.1 CDS|uncharacterized TPR repeat-containing protein, putative, expressed	1626	+
+Os03t0752300-01_S_45	POT954	g - - - - - - c - - - g - - - - - - - - g - -	3M	LOC_Os03g25010.1 CDS|GDSL-like lipase/acylhydrolase, putative, expressed	428	+
+Os03t0752300-01_S_45	POT955	- - - - c - - c - - - - - - c - - - - - g - -	3M	LOC_Os03g25030.1 CDS|GDSL-like lipase/acylhydrolase, putative, expressed	401	+
+Os03t0752300-01_S_45	POT994	- - - - a a a - c - - - - - - - - c - - - - -	5M	LOC_Os03g31839.1 CDS|transposon protein, putative, unclassified, expressed	1035	+
+Os03t0752300-01_S_45	POT1149	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	161	+
+Os03t0752300-01_S_45	POT1202	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	161	+
+Os03t0752300-01_S_45	POT1300	- a - - - - a g - - - - - - - t - - - - - - -	4M	LOC_Os04g02860.1 CDS|disease resistance protein RPM1, putative, expressed	2389	-
+Os03t0752300-01_S_45	POT1307	t t c - - a g - - - - - - - - - - - - - - - -	5M	LOC_Os04g03630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1643	+
+Os03t0752300-01_S_45	POT1352	g - - t - c - c - - - - c - - - - - - - - - -	5M	LOC_Os04g08320.1 CDS|YIF1B, putative, expressed	722	+
+Os03t0752300-01_S_45	POT1458	- - - - - c - - g a - g - - - - - - g - - - -	5M	LOC_Os04g23180.1 CDS|cation efflux family protein, putative, expressed	42	-
+Os03t0752300-01_S_45	POT1531	g - - - - - - g g - g - - - - - - - c - - - -	5M	LOC_Os04g34120.1 CDS|expressed protein	252	+
+Os03t0752300-01_S_45	POT1571	- - t g - - - g - - t g - - - - - - - - - - -	5M	LOC_Os04g41140.1 CDS|PPR repeat containing protein, expressed	1535	+
+Os03t0752300-01_S_45	POT1599	- - c - - c - c - - - - - - - - - - c - g - -	4M	LOC_Os04g45010.1 CDS|OsPLIM2b - LIM domain protein, putative actin-binding protein and transcription factor, expressed	188	+
+Os03t0752300-01_S_45	POT1742	t - - - - - - c - - g g g - - - - - - - - - -	5M	LOC_Os05g09580.1 CDS|expressed protein	171	-
+Os03t0752300-01_S_45	POT1765	- - - - a - - c g - - - - - - - - - a - - - -	4M	LOC_Os05g15040.1 CDS|NB-ARC domain containing protein, expressed	665	+
+Os03t0752300-01_S_45	POT1766	- - - - a - - c g - - - - - - - - - a - - - -	4M	LOC_Os05g15040.2 CDS|NB-ARC domain containing protein, expressed	665	+
+Os03t0752300-01_S_45	POT1767	- - - - a - - c g - - - - - - - - - a - - - -	4M	LOC_Os05g15040.3 CDS|NB-ARC domain containing protein, expressed	665	+
+Os03t0752300-01_S_45	POT1768	- - - - a - - c g - - - - - - - - - a - - - -	4M	LOC_Os05g15040.4 CDS|NB-ARC domain containing protein, expressed	665	+
+Os03t0752300-01_S_45	POT1776	t t c - - a - - - - - - - - - - - - - - - - -	4M	LOC_Os05g16270.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1442	+
+Os03t0752300-01_S_45	POT1848	t - a - - - - g - - - - - - - - a - - - - a -	4M	LOC_Os05g24930.1 CDS|PPR repeat containing protein, expressed	1004	+
+Os03t0752300-01_S_45	POT2013	- - - - - c - t g - - - g - - - c - - - - - -	5M	LOC_Os05g50660.1 CDS|PX domain containing protein, putative, expressed	108	-
+Os03t0752300-01_S_45	POT2014	t - a - - - - - a - - - t - - - - - - - - - -	4M	LOC_Os05g50690.1 CDS|pentatricopeptide, putative, expressed	1013	+
+Os03t0752300-01_S_45	POT2102	t - - - - g - g - - - g - t - - - - - - - - -	5M	LOC_Os06g12510.1 CDS|pentatricopeptide, putative, expressed	743	+
+Os03t0752300-01_S_45	POT2156	- - - - t - g - - c - - - c - - c - - - - - -	5M	LOC_Os06g21260.1 CDS|retrotransposon protein, putative, unclassified, expressed	1413	+
+Os03t0752300-01_S_45	POT2544	t t c - - a g - - - - - - - - - - - - - - - -	5M	LOC_Os07g27740.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1106	+
+Os03t0752300-01_S_45	POT2673	- c - - - c c g - g - - - - - - - - - - - - -	5M	LOC_Os07g44280.1 CDS|dirigent, putative, expressed	125	+
+Os03t0752300-01_S_45	POT2674	- c - - - c c g - g - - - - - - - - - - - - -	5M	LOC_Os07g44380.1 CDS|dirigent, putative, expressed	128	+
+Os03t0752300-01_S_45	POT2716	- - c - c - g g - - - - - - - - c - - - - - -	5M	LOC_Os07g48490.2 CDS|stress responsive protein, putative, expressed	158	+
+Os03t0752300-01_S_45	POT2717	- - c - c - g g - - - - - - - - c - - - - - -	5M	LOC_Os07g48490.4 CDS|stress responsive protein, putative, expressed	5	+
+Os03t0752300-01_S_45	POT2778	- - - c - - - t a a - - - - - - - - - - - a -	4M	LOC_Os08g08020.1 CDS|expressed protein	191	+
+Os03t0752300-01_S_45	POT2805	- - a - - a - g - - - - t - a - - - - - - - -	5M	LOC_Os08g12300.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1989	+
+Os03t0752300-01_S_45	POT2809	- t t c - - - - - - - - - - a - - t - - - - -	5M	LOC_Os08g13170.1 CDS|retrotransposon protein, putative, unclassified, expressed	2030	+
+Os03t0752300-01_S_45	POT2828	t - - - - g - g - - - - - - - t - - - - - a -	4M	LOC_Os08g15090.1 CDS|diacylglycerol kinase catalytic domain family protein, expressed	1193	+
+Os03t0752300-01_S_45	POT2843	t t c - - a g - - - - - - - - - - - - - - - -	5M	LOC_Os08g17180.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1481	+
+Os03t0752300-01_S_45	POT2952	- - a - - - - g - - a - - c a - - - - - - - -	5M	LOC_Os08g30300.1 CDS|retrotransposon protein, putative, unclassified, expressed	1020	+
+Os03t0752300-01_S_45	POT3410	- - - - - - - t c - - - - - a t - - - - - a -	4M	LOC_Os10g25010.1 CDS|OsCML8 - Calmodulin-related calcium sensor protein, expressed	524	+
+Os03t0752300-01_S_45	POT3443	- - a - - c - - - - g - - - c - - t - - - - -	5M	LOC_Os10g31820.2 CDS|fluG, putative, expressed	1053	+
+Os03t0752300-01_S_45	POT3444	- - a - - c - - - - g - - - c - - t - - - - -	5M	LOC_Os10g31820.1 CDS|fluG, putative, expressed	1095	+
+Os03t0752300-01_S_45	POT3464	- - - - - c - c - - - g - - a - - - - - c - -	4M	LOC_Os10g35730.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	197	+
+Os03t0752300-01_S_45	POT3465	- - - - - c - c - - - g - - a - - - - - c - -	4M	LOC_Os10g35750.1 CDS|pentatricopeptide, putative, expressed	608	+
+Os03t0752300-01_S_45	POT3525	t - - - - - c - - g g - - - - t - - - - - - -	5M	LOC_Os11g04920.1 CDS|expressed protein	413	+
+Os03t0752300-01_S_45	POT3528	- - - - - - - c g - g - - - - g - - a - - - -	5M	LOC_Os11g05660.1 CDS|OsFBX396 - F-box domain containing protein, expressed	827	+
+Os03t0752300-01_S_45	POT3650	g - - t - - a - - c a - - - - - - - - - - - -	5M	LOC_Os11g31320.1 CDS|retrotransposon protein, putative, unclassified	207	+
+Os03t0752300-01_S_45	POT3716	- - a - - - - - a - - - - - c t - g - - - - -	5M	LOC_Os11g39330.1 CDS|NB-ARC domain containing protein, putative, expressed	2718	+
+Os03t0752300-01_S_45	POT3718	- - - - c - - c g - - g - - - - - - g - - - -	5M	LOC_Os11g39690.1 CDS|hypothetical protein	32	+
+Os03t0752300-01_S_45	POT3833	- - - - - - g - - g a - - - a - - - - - - - -	4M	LOC_Os12g09570.2 CDS|GTP binding protein, putative, expressed	1186	-
+Os03t0752300-01_S_45	POT3920	g - - - - c - - - - - - - - a t - - - - g - -	4M	LOC_Os12g22390.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	912	+
+Os03t0752300-01_S_45	POT4000	- - a t - a g - - - - - g - - - - - - - - - -	5M	LOC_Os12g30700.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1055	+
+Os03t0752300-01_S_45	POT4040	g - - - - a - g a - - - t - - - - - - - - - -	5M	LOC_Os12g36890.1 CDS|CSLD4 - cellulose synthase-like family D, expressed	3552	-
+Os03t0752300-01_S_45	POT4079	- - - t - a a - - g - - - - - - - - - - - - -	4M	LOC_Os12g42700.1 CDS|expressed protein	1457	+

@@ -1,0 +1,3 @@
+- - - - c - - - t t t - t - - - - - - - - - -	5M	Os03t0752300-01_S_61_POT36	LOC_Os01g07410.1 CDS|growth regulator related protein, putative, expressed	728	-	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_61_POT1163	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	481	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_61_POT1216	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	481	+	seed_ident	

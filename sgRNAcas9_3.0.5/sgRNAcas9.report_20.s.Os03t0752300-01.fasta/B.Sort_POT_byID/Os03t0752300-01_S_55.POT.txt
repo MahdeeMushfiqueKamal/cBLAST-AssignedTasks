@@ -1,0 +1,4 @@
+t - - - - - - g - a - - c - - - - - - - t - -	4M	Os03t0752300-01_S_55_POT1085	LOC_Os03g46840.1 CDS|expressed protein	310	-	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_55_POT1157	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	379	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_55_POT1210	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	379	+	seed_ident	
+- - - g c a - - - - g - t - - - - - - - - - -	5M	Os03t0752300-01_S_55_POT1529	LOC_Os04g34090.1 CDS|expressed protein	145	-	regionI_ident	

@@ -1,0 +1,6 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1149	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	161	+	Os03t0752300-01_S_45
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1202	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	161	+	Os03t0752300-01_S_45
+t t c - - a g - - - - - - - - - - - - - - - -	5M	POT1307	LOC_Os04g03630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1643	+	Os03t0752300-01_S_45
+t t c - - a - - - - - - - - - - - - - - - - -	4M	POT1776	LOC_Os05g16270.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1442	+	Os03t0752300-01_S_45
+t t c - - a g - - - - - - - - - - - - - - - -	5M	POT2544	LOC_Os07g27740.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1106	+	Os03t0752300-01_S_45
+t t c - - a g - - - - - - - - - - - - - - - -	5M	POT2843	LOC_Os08g17180.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1481	+	Os03t0752300-01_S_45

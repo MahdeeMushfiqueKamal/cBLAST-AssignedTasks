@@ -1,0 +1,37 @@
+Os03t0752300-01_S_86	POT41	g - - - - g - - - - - - g - - - - g c - - - -	5M	LOC_Os01g08810.1 CDS|cytochrome P450, putative, expressed	1448	-
+Os03t0752300-01_S_86	POT59	- - - - - c - c - - - g - - - - - g - - - - -	4M	LOC_Os01g11710.1 CDS|GDSL-like lipase/acylhydrolase, putative, expressed	431	-
+Os03t0752300-01_S_86	POT83	- a t - c a - - - - g - - - - - - - - - - - -	5M	LOC_Os01g14810.1 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+
+Os03t0752300-01_S_86	POT84	- a t - c a - - - - g - - - - - - - - - - - -	5M	LOC_Os01g14810.3 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+
+Os03t0752300-01_S_86	POT85	- a t - c a - - - - g - - - - - - - - - - - -	5M	LOC_Os01g14810.2 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+
+Os03t0752300-01_S_86	POT143	a - - - c - - - - - - - - c - - c - - c - - -	5M	LOC_Os01g24950.1 CDS|exocyst complex component 6, putative, expressed	1849	+
+Os03t0752300-01_S_86	POT144	a - - - c - - - - - - - - c - - c - - c - - -	5M	LOC_Os01g24950.2 CDS|exocyst complex component 6, putative, expressed	1849	+
+Os03t0752300-01_S_86	POT769	- a - - - - - - - - - - - a t - - g - a - - -	5M	LOC_Os02g54550.1 CDS|OsFBX63 - F-box domain containing protein, expressed	166	+
+Os03t0752300-01_S_86	POT822	- - - c - - c - c - - - - - - - - c c - - - -	5M	LOC_Os03g04530.1 CDS|cytochrome P450, putative, expressed	1508	-
+Os03t0752300-01_S_86	POT885	- g - - - a - g - - - c - - - - - - - g - - -	5M	LOC_Os03g13820.1 CDS|protein kinase family protein, putative, expressed	1455	+
+Os03t0752300-01_S_86	POT1103	- - t - - c - - c - - - - - t - - t - - - - -	5M	LOC_Os03g51040.1 CDS|STRUBBELIG-RECEPTOR FAMILY 6 precursor, putative, expressed	1004	-
+Os03t0752300-01_S_86	POT1187	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	868	+
+Os03t0752300-01_S_86	POT1240	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	868	+
+Os03t0752300-01_S_86	POT1248	t - - - t - - - - - - - g a - - - - - a - - -	5M	LOC_Os03g56530.1 CDS|retrotransposon protein, putative, unclassified, expressed	2434	+
+Os03t0752300-01_S_86	POT1264	g - - - - - - g - - - - - - - - - g - - a - -	3M	LOC_Os03g58800.1 CDS|ATPase, putative, expressed	158	-
+Os03t0752300-01_S_86	POT1330	- - - - g g - - - - - - g t - - - - - g - - -	5M	LOC_Os04g06510.1 CDS|expressed protein	738	+
+Os03t0752300-01_S_86	POT1332	- - - - g g - - - - - - g t - - - - - g - - -	5M	LOC_Os04g06590.1 CDS|expressed protein	726	+
+Os03t0752300-01_S_86	POT1407	- - - - - - - - - - - a - a - - - g c - - - -	4M	LOC_Os04g16340.1 CDS|retrotransposon protein, putative, unclassified, expressed	249	-
+Os03t0752300-01_S_86	POT1588	- - - - - - - - - c t - g a - - - - t - - - -	5M	LOC_Os04g43130.1 CDS|transcriptional corepressor LEUNIG, putative, expressed	1363	+
+Os03t0752300-01_S_86	POT1898	- - - - - a - - - - g c - - - g c - - - - - -	5M	LOC_Os05g32430.1 CDS|NLI interacting factor-like phosphatase, putative, expressed	1230	+
+Os03t0752300-01_S_86	POT1994	- - - - - - - - - - g - - a - - - t c - c - -	4M	LOC_Os05g44970.1 CDS|senescence-induced receptor-like serine/threonine-protein kinase precursor, putative, expressed	405	+
+Os03t0752300-01_S_86	POT1999	- - - - - g - - a - - - - t - - - - - g - - -	4M	LOC_Os05g46220.1 CDS|mitochondrial carrier protein, putative, expressed	885	+
+Os03t0752300-01_S_86	POT2029	g - - - - - - - a - - - g - - a - - - - - - -	4M	LOC_Os06g02100.1 CDS|OsFBX181 - F-box domain containing protein, expressed	1011	+
+Os03t0752300-01_S_86	POT2053	- - - - - a - - - - - - t a - - - - - g a - -	4M	LOC_Os06g04310.1 CDS|expressed protein	390	+
+Os03t0752300-01_S_86	POT2181	a - - - - - - - - c - - - - - - - t - g - - -	4M	LOC_Os06g25820.1 CDS|retrotransposon protein, putative, unclassified, expressed	229	+
+Os03t0752300-01_S_86	POT2275	- - - c - - - - - - - - - a g g - t - - - - -	5M	LOC_Os06g42600.1 CDS|retrotransposon protein, putative, unclassified, expressed	878	-
+Os03t0752300-01_S_86	POT2335	- - - - - - - t g - c - g - - a - - - - - - -	5M	LOC_Os06g50910.1 CDS|Phosphatidylinositol kinase and FAT containing domain protein, putative, expressed	5	-
+Os03t0752300-01_S_86	POT2336	- - - - - - - t g - c - g - - a - - - - - - -	5M	LOC_Os06g50910.3 CDS|Phosphatidylinositol kinase and FAT containing domain protein, putative, expressed	5	-
+Os03t0752300-01_S_86	POT2337	- - - - - - - t g - c - g - - a - - - - - - -	5M	LOC_Os06g50910.2 CDS|Phosphatidylinositol kinase and FAT containing domain protein, putative, expressed	5	-
+Os03t0752300-01_S_86	POT2601	- - - - - a a c - - - c - - - - g - - - - - -	5M	LOC_Os07g34850.1 CDS|aspartic proteinase nepenthesin, putative, expressed	206	-
+Os03t0752300-01_S_86	POT2602	- - - - - a - c - c - c - - - - g - - - - - -	5M	LOC_Os07g34870.1 CDS|aspartic proteinase nepenthesin precursor, putative, expressed	218	-
+Os03t0752300-01_S_86	POT3462	t - - - - - - - a - - a - a - - - g - - - - -	5M	LOC_Os10g35560.1 CDS|expressed protein	1566	-
+Os03t0752300-01_S_86	POT3463	t - - - - - - - a - - a - a - - - g - - - - -	5M	LOC_Os10g35560.2 CDS|expressed protein	1566	-
+Os03t0752300-01_S_86	POT3488	g - - - - - c - - - c - - - - - - - - g c - -	4M	LOC_Os10g41850.1 CDS|expressed protein	171	+
+Os03t0752300-01_S_86	POT3631	- - t - - - - c - - c - - - - g - - a - - - -	5M	LOC_Os11g27400.1 CDS|glycosyl hydrolase, putative, expressed	281	-
+Os03t0752300-01_S_86	POT3671	- - - c - - - - - - - - - a g g - t - - - - -	5M	LOC_Os11g34590.1 CDS|retrotransposon protein, putative, unclassified, expressed	878	-
+Os03t0752300-01_S_86	POT4069	- - - - - - - t - c - - - - - - c - - - c - -	3M	LOC_Os12g42010.1 CDS|lipase class 3 family protein, putative, expressed	407	-

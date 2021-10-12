@@ -1,0 +1,11 @@
+Os03t0752300-01_S_95	POT572	- - - t - - - - c - - t - a - - - - - - t - -	4M	LOC_Os02g22240.1 CDS|retrotransposon protein, putative, unclassified, expressed	887	-
+Os03t0752300-01_S_95	POT1370	- - c - - - - c - - - - - - g - - - a - a - -	4M	LOC_Os04g10720.1 CDS|retrotransposon protein, putative, unclassified, expressed	599	+
+Os03t0752300-01_S_95	POT1546	- - - t - - - - c - - t - a - - - - - - t - -	4M	LOC_Os04g36580.1 CDS|retrotransposon protein, putative, unclassified, expressed	1649	-
+Os03t0752300-01_S_95	POT2187	- - t - - - - - a - a - c a - - - - - - - - -	5M	LOC_Os06g27540.1 CDS|retrotransposon protein, putative, unclassified, expressed	414	-
+Os03t0752300-01_S_95	POT2331	- - t - - t - - - - a - c - - - - - - - a - -	4M	LOC_Os06g49800.1 CDS|ubiquitin interaction motif family protein, expressed	1197	-
+Os03t0752300-01_S_95	POT2609	- - - - - - - - g - - - - - a - a g - c - - -	5M	LOC_Os07g35630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1136	+
+Os03t0752300-01_S_95	POT3473	- - - - - - - c - - - - - - - - - t - t g a -	4M	LOC_Os10g37880.2 CDS|oxidoreductase, putative, expressed	436	+
+Os03t0752300-01_S_95	POT3474	- - - - - - - c - - - - - - - - - t - t g a -	4M	LOC_Os10g37880.4 CDS|oxidoreductase, putative, expressed	436	+
+Os03t0752300-01_S_95	POT3475	- - - - - - - c - - - - - - - - - t - t g a -	4M	LOC_Os10g37880.1 CDS|oxidoreductase, putative, expressed	436	+
+Os03t0752300-01_S_95	POT3476	- - - - - - - c - - - - - - - - - t - t g a -	4M	LOC_Os10g37880.3 CDS|oxidoreductase, putative, expressed	436	+
+Os03t0752300-01_S_95	POT3568	- a - a - - - c - a - - - - - - - - - - - a -	4M	LOC_Os11g12490.1 CDS|transposon protein, putative, unclassified, expressed	2153	-

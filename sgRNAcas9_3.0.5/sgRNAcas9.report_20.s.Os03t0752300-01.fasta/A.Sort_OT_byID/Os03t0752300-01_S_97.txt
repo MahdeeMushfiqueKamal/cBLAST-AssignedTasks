@@ -1,0 +1,8 @@
+Os03t0752300-01_S_97	POT87	g t - t - - c - - - - - - - - - - - - c - - -	5M	LOC_Os01g15640.1 CDS|no apical meristem protein, putative, expressed	464	+
+Os03t0752300-01_S_97	POT301	- - - - g - - - - - - - t c - - a - - - - a -	4M	LOC_Os01g52270.1 CDS|NB-ARC domain containing protein, expressed	498	-
+Os03t0752300-01_S_97	POT325	- g t - g - g - - - t - - - - - - - - - - - -	5M	LOC_Os01g55950.1 CDS|acetamidase, putative, expressed	847	+
+Os03t0752300-01_S_97	POT1663	- c - - g - - - c - c - - - - c - - - - - - -	5M	LOC_Os04g55190.1 CDS|SPOC domain containing protein, putative, expressed	235	+
+Os03t0752300-01_S_97	POT2779	g - - - - t - - - - - - - g - - - a - t - - -	5M	LOC_Os08g08060.1 CDS|vacuolar protein sorting-associated protein 18, putative, expressed	1000	+
+Os03t0752300-01_S_97	POT2985	- t - - - - - - - - - - - - - - g c - t - - -	4M	LOC_Os08g34970.1 CDS|conserved oligomeric Golgi complex component 3, putative, expressed	1951	-
+Os03t0752300-01_S_97	POT3295	g - - - c c - - - g c - - - - - - - - - - - -	5M	LOC_Os10g03760.1 CDS|OsFBX350 - F-box domain containing protein, expressed	776	-
+Os03t0752300-01_S_97	POT4092	g - - - - - - g g - - - - - - - g - - - - - -	4M	LOC_Os12g44350.1 CDS|actin, putative, expressed	1085	-

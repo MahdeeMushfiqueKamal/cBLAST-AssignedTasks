@@ -1,0 +1,5 @@
+- - - - - - g - c g a - g - - - - - - - - - -	5M	Os03t0752300-01_S_52_POT53	LOC_Os01g10980.1 CDS|auxin-induced protein 5NG4, putative, expressed	286	-	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_52_POT1153	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	313	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_52_POT1206	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	313	+	seed_ident	
+a - c a c - - - c - - - - - - - - - - - - - -	5M	Os03t0752300-01_S_52_POT1926	LOC_Os05g35410.1 CDS|potassium channel AKT2/3, putative, expressed	349	+	regionI_ident	
+- - c - - - - - c - - - - - - - - - - - - - -	2M	Os03t0752300-01_S_52_POT2348	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	316	+	random_0_3M	

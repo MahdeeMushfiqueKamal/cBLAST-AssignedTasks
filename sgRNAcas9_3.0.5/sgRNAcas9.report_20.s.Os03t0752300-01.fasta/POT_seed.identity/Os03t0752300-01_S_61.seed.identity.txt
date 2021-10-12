@@ -1,0 +1,2 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1163	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	481	+	Os03t0752300-01_S_61
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1216	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	481	+	Os03t0752300-01_S_61

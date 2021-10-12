@@ -1,0 +1,9 @@
+- t - - t - - - - - t c g - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT78	LOC_Os01g14170.1 CDS|expressed protein	277	-	regionI_ident	
+c - - - c - c - - - - c g - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT293	LOC_Os01g49740.1 CDS|expressed protein	368	+	regionI_ident	
+- - c t c a - - - - - - a - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT307	LOC_Os01g53430.1 CDS|anthocyanidin 5,3-O-glucosyltransferase, putative, expressed	749	+	regionI_ident	
+- c - - g - - - - g - t - - - - - - - - a - -	4M	Os03t0752300-01_S_28_POT2258	LOC_Os06g39660.1 CDS|FAD binding domain containing protein, expressed	1196	+	regionI_ident	
+- - - c - - - - - - - - - g - - - - a - - - -	3M	Os03t0752300-01_S_28_POT2358	LOC_Os07g01850.1 CDS|NLI interacting factor-like phosphatase, putative, expressed	557	+	random_0_3M	
+g - - t - - c - - - c g - - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT2788	LOC_Os08g09720.1 CDS|OsFBX272 - F-box domain containing protein, expressed	166	-	regionI_ident	
+- - - - g - c - - c t - g - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT2900	LOC_Os08g22440.1 CDS|retrotransposon protein, putative, unclassified	452	+	regionI_ident	
+t - - - c - - c - - c - - - - - - - - - a - -	4M	Os03t0752300-01_S_28_POT3582	LOC_Os11g16430.1 CDS|diphthamide biosynthesis protein, putative, expressed	2	+	regionI_ident	
+- c - - t - - - c c - - a - - - - - - - - - -	5M	Os03t0752300-01_S_28_POT3805	LOC_Os12g04380.1 CDS|GRAS family transcription factor containing protein, expressed	382	-	regionI_ident	

@@ -1,0 +1,21 @@
+Os03t0752300-01_S_36	POT131	a - - - - c a a - - c - - - - - - - - - - - -	5M	LOC_Os01g23330.1 CDS|retrotransposon, putative, centromere-specific, expressed	262	+
+Os03t0752300-01_S_36	POT132	- - c - - a - - - - - - - - - g - - - c - a -	4M	LOC_Os01g23880.1 CDS|expressed protein	240	+
+Os03t0752300-01_S_36	POT168	- - - - - c a a a - c - - - - - - - - - - - -	5M	LOC_Os01g32020.1 CDS|retrotransposon, putative, centromere-specific, expressed	67	+
+Os03t0752300-01_S_36	POT354	- - - - g - - - - - - - - g t - - c - g - - -	5M	LOC_Os01g60790.1 CDS|40S ribosomal protein S26, putative, expressed	289	-
+Os03t0752300-01_S_36	POT417	- g - - g - - - - - - - - a - - a - - - g - -	4M	LOC_Os01g72080.1 CDS|calmodulin-like protein 1, putative, expressed	69	+
+Os03t0752300-01_S_36	POT583	- - - a - - - c - - t - - - - - - g - - t - -	4M	LOC_Os02g25260.1 CDS|retrotransposon protein, putative, unclassified, expressed	594	-
+Os03t0752300-01_S_36	POT717	a - - g - - - - - c - - - - - c - g - - - - -	5M	LOC_Os02g47490.1 CDS|expressed protein	47	-
+Os03t0752300-01_S_36	POT862	g - - - - - - - - g - - g - - g t - - - - - -	5M	LOC_Os03g10100.1 CDS|transporter family protein, putative, expressed	518	-
+Os03t0752300-01_S_36	POT1140	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	52	+
+Os03t0752300-01_S_36	POT1193	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	52	+
+Os03t0752300-01_S_36	POT1263	g a - g - - - - - - - - - - - g a - - - - - -	5M	LOC_Os03g58590.1 CDS|expressed protein	231	+
+Os03t0752300-01_S_36	POT1595	- - - - - - - - - c - - - - a g - t c - - - -	5M	LOC_Os04g44380.1 CDS|expressed protein	399	-
+Os03t0752300-01_S_36	POT1699	- a - a - - a - - - - - - - a - - - - - g - -	4M	LOC_Os05g03040.1 CDS|AP2 domain containing protein, expressed	1273	+
+Os03t0752300-01_S_36	POT1869	t - - - - - - c - - c - - - - c - - c - - - -	5M	LOC_Os05g27740.1 CDS|expressed protein	520	-
+Os03t0752300-01_S_36	POT1900	- g - - - - - - - c - - - g - c - - c - - - -	5M	LOC_Os05g32480.1 CDS|transposon protein, putative, unclassified, expressed	201	-
+Os03t0752300-01_S_36	POT2067	- - - - - t t - - - - c - t - - - - a - - - -	5M	LOC_Os06g05060.1 CDS|ELF3 protein, putative, expressed	2074	-
+Os03t0752300-01_S_36	POT2160	- - - - - - - - - c - - g - - c - - - c g - -	4M	LOC_Os06g22490.1 CDS|sphingolipid C4-hydroxylase SUR2, putative, expressed	794	+
+Os03t0752300-01_S_36	POT2428	- a - - - - - - - c - - a g - g - - - - - - -	5M	LOC_Os07g11110.1 CDS|NAD dependent epimerase/dehydratase family protein, putative, expressed	1113	+
+Os03t0752300-01_S_36	POT3513	a - - - - a - - - - t - - - - - - - a g - - -	5M	LOC_Os11g02740.1 CDS|expressed protein	482	+
+Os03t0752300-01_S_36	POT3686	g - - - - - a - - - - - t - a - - - - g - - -	5M	LOC_Os11g35550.1 CDS|Leucine Rich Repeat family protein, expressed	1133	+
+Os03t0752300-01_S_36	POT3994	- - c - - - - - t c - - - - - - - - - g g - -	4M	LOC_Os12g30260.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	842	+

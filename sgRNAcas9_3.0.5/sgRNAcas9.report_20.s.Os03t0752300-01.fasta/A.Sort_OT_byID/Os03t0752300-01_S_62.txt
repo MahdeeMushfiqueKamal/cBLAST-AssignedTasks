@@ -1,0 +1,12 @@
+Os03t0752300-01_S_62	POT700	- g - c - - - - - - - - - c - a g - - - - - -	5M	LOC_Os02g45010.1 CDS|ethylene-responsive protein related, putative, expressed	975	+
+Os03t0752300-01_S_62	POT886	a - - - - - - - - g t - - - - - - g c - - - -	5M	LOC_Os03g14450.2 CDS|enolase, putative, expressed	195	-
+Os03t0752300-01_S_62	POT887	a - - - - - - - - g t - - - - - - g c - - - -	5M	LOC_Os03g14450.1 CDS|enolase, putative, expressed	351	-
+Os03t0752300-01_S_62	POT1164	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	518	+
+Os03t0752300-01_S_62	POT1217	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	518	+
+Os03t0752300-01_S_62	POT1322	- g - - t - - - c - - - t - - - - - g - - - -	5M	LOC_Os04g06050.1 CDS|expressed protein	1077	+
+Os03t0752300-01_S_62	POT1652	a - - - - - g - - - - - - - - g c - g - - - -	5M	LOC_Os04g54002.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	24	-
+Os03t0752300-01_S_62	POT1795	- - - a - - g - - - - - t - - a - - - - - a -	4M	LOC_Os05g18180.1 CDS|retrotransposon, putative, centromere-specific, expressed	337	-
+Os03t0752300-01_S_62	POT3027	a - - a g - - - - - - a - - - - - g - - - - -	5M	LOC_Os08g39970.1 CDS|ENT domain containing protein, expressed	319	+
+Os03t0752300-01_S_62	POT3559	- g - c - - - - - a - a - - - - - - - g - - -	5M	LOC_Os11g11350.1 CDS|embryogenesis transmembrane protein, putative, expressed	1089	+
+Os03t0752300-01_S_62	POT3660	a a - - - - - - - - t a - - g - - - - - - - -	5M	LOC_Os11g33000.1 CDS|SSA5 - 2S albumin seed storage family protein precursor, expressed	30	-
+Os03t0752300-01_S_62	POT3704	- g - - - a - - - - g - t - - t - - - - - - -	5M	LOC_Os11g38010.1 CDS|targeting protein for Xklp2, putative, expressed	348	+

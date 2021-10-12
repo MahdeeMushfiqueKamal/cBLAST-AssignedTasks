@@ -1,0 +1,1 @@
+perl sgRNAcas9_3.0.5.pl -i Os03t0752300-01.fasta -g o_sativa.fasta -o s -t s -v w -p

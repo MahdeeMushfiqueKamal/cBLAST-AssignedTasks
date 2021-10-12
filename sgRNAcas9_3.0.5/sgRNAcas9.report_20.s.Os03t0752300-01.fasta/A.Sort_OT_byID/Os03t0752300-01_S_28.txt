@@ -1,0 +1,135 @@
+Os03t0752300-01_S_28	POT6	- - - - t - t - - - - - - - a g - - t - - - -	5M	LOC_Os01g03190.1 CDS|expressed protein	194	+
+Os03t0752300-01_S_28	POT76	g - - c - - - - - - - g - g - - - - a - - - -	5M	LOC_Os01g13640.1 CDS|retrotransposon, putative, centromere-specific, expressed	451	+
+Os03t0752300-01_S_28	POT78	- t - - t - - - - - t c g - - - - - - - - - -	5M	LOC_Os01g14170.1 CDS|expressed protein	277	-
+Os03t0752300-01_S_28	POT98	t - - c g - - - - - - - - - - - t - t - - - -	5M	LOC_Os01g16670.1 CDS|BSD domain-containing protein, putative, expressed	158	+
+Os03t0752300-01_S_28	POT101	- - - - - - - - - - - g c g - t g - - - - - -	5M	LOC_Os01g18210.1 CDS|peptidyl-prolyl cis-trans isomerase, putative, expressed	46	-
+Os03t0752300-01_S_28	POT110	c - - - g - - - - - - - a g - - - - - - - - -	4M	LOC_Os01g19490.1 CDS|pentatricopeptide, putative, expressed	143	+
+Os03t0752300-01_S_28	POT159	t - c - - - g - - - - - - - - - g - a - - - -	5M	LOC_Os01g29409.1 CDS|tRNA methyltransferase, putative, expressed	10	-
+Os03t0752300-01_S_28	POT197	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os01g36030.1 CDS|retrotransposon protein, putative, unclassified, expressed	431	+
+Os03t0752300-01_S_28	POT234	- - - t - - - - - - - g g t - - g - - - - - -	5M	LOC_Os01g41040.1 CDS|SCF apoptosis response protein, putative, expressed	106	-
+Os03t0752300-01_S_28	POT235	- - - a t - - - - c - g - - - - g - - - - - -	5M	LOC_Os01g41270.1 CDS|OsFBD3 - F-box and FBD domain containing protein, expressed	958	-
+Os03t0752300-01_S_28	POT262	g - - - t - - - - - - g - - - - - - g c - - -	5M	LOC_Os01g45480.1 CDS|retrotransposon protein, putative, unclassified, expressed	58	+
+Os03t0752300-01_S_28	POT293	c - - - c - c - - - - c g - - - - - - - - - -	5M	LOC_Os01g49740.1 CDS|expressed protein	368	+
+Os03t0752300-01_S_28	POT298	- - a - - - - c a - - - a - - - - c - - - - -	5M	LOC_Os01g51690.1 CDS|WRKY26, expressed	590	+
+Os03t0752300-01_S_28	POT307	- - c t c a - - - - - - a - - - - - - - - - -	5M	LOC_Os01g53430.1 CDS|anthocyanidin 5,3-O-glucosyltransferase, putative, expressed	749	+
+Os03t0752300-01_S_28	POT397	c - c - - - - - - c - g - - - - g - - - - - -	5M	LOC_Os01g68490.1 CDS|tetratricopeptide-like helical, putative, expressed	25	-
+Os03t0752300-01_S_28	POT422	- - - - - - g - - - a g - - - - g - t - - - -	5M	LOC_Os01g73420.1 CDS|mitochondrial carrier protein, putative, expressed	64	-
+Os03t0752300-01_S_28	POT445	- - - - t - - - - - - g - - - g g - - c - - -	5M	LOC_Os02g03330.1 CDS|expressed protein	70	-
+Os03t0752300-01_S_28	POT519	- - - a g - - - - - - - g g - - g - - - - - -	5M	LOC_Os02g14090.1 CDS|berberine and berberine like domain containing protein, expressed	16	-
+Os03t0752300-01_S_28	POT522	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os02g14330.1 CDS|retrotransposon protein, putative, unclassified, expressed	449	+
+Os03t0752300-01_S_28	POT523	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os02g14350.1 CDS|retrotransposon protein, putative, unclassified, expressed	449	+
+Os03t0752300-01_S_28	POT571	c - - - c - - - - - - g - - - - - c - - - - -	4M	LOC_Os02g21890.1 CDS|expressed protein	320	+
+Os03t0752300-01_S_28	POT658	t - - - g - - - - - - g g - - - - c - - - - -	5M	LOC_Os02g39600.1 CDS|outer envelope protein, putative, expressed	335	+
+Os03t0752300-01_S_28	POT659	- - - - g a - - - - - - g g - - g - - - - - -	5M	LOC_Os02g39710.1 CDS|CCT/B-box zinc finger protein, putative, expressed	770	+
+Os03t0752300-01_S_28	POT753	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os02g52110.1 CDS|retrotransposon protein, putative, unclassified, expressed	2282	+
+Os03t0752300-01_S_28	POT777	- - c - c - g - - - - c - - - c - - - - - - -	5M	LOC_Os02g55300.1 CDS|CAF1 family ribonuclease containing protein, putative, expressed	310	-
+Os03t0752300-01_S_28	POT799	t - - - - - g - - - - g - - - c g - - - - - -	5M	LOC_Os02g58250.1 CDS|expressed protein	133	-
+Os03t0752300-01_S_28	POT873	- - - - - - g c - - - g - - - g - - a - - - -	5M	LOC_Os03g12220.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	857	+
+Os03t0752300-01_S_28	POT956	- - - - - - - - - - - - - - - g - a g c - a -	4M	LOC_Os03g25130.2 CDS|OB-fold nucleic acid binding domain containing protein, putative, expressed	34	-
+Os03t0752300-01_S_28	POT957	- - - - - - - - - - - - - - - g - a g c - a -	4M	LOC_Os03g25130.1 CDS|OB-fold nucleic acid binding domain containing protein, putative, expressed	34	-
+Os03t0752300-01_S_28	POT968	- - - a g - - - - - - - - g - - - - - - a a -	4M	LOC_Os03g27040.1 CDS|heavy metal-associated domain containing protein, expressed	93	-
+Os03t0752300-01_S_28	POT990	- - - - - - - - - - - g c - - g - - - c t - -	4M	LOC_Os03g31594.2 CDS|jmjC domain containing protein, expressed	202	+
+Os03t0752300-01_S_28	POT991	- - - - - - - - - - - g c - - g - - - c t - -	4M	LOC_Os03g31594.1 CDS|jmjC domain containing protein, expressed	202	+
+Os03t0752300-01_S_28	POT1294	g - c - g - c - - - - - - - - - - a - - - - -	5M	LOC_Os04g02650.1 CDS|expressed protein	32	+
+Os03t0752300-01_S_28	POT1316	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os04g05230.1 CDS|conserved hypothetical protein	354	+
+Os03t0752300-01_S_28	POT1317	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os04g05250.1 CDS|PE-PGRS family protein, putative, expressed	314	+
+Os03t0752300-01_S_28	POT1334	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os04g06950.1 CDS|conserved hypothetical protein	227	+
+Os03t0752300-01_S_28	POT1381	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os04g12370.1 CDS|expressed protein	279	+
+Os03t0752300-01_S_28	POT1418	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os04g17750.1 CDS|retrotransposon protein, putative, unclassified, expressed	2426	+
+Os03t0752300-01_S_28	POT1461	- - a - - - - - a - - - - g - t - a - - - - -	5M	LOC_Os04g23290.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1083	+
+Os03t0752300-01_S_28	POT1473	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os04g24804.1 CDS|expressed protein	167	-
+Os03t0752300-01_S_28	POT1479	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os04g25950.1 CDS|retrotransposon protein, putative, unclassified, expressed	299	+
+Os03t0752300-01_S_28	POT1548	- - - t g - - - - - - - - g t t - - - - - - -	5M	LOC_Os04g37440.1 CDS|expressed protein	83	+
+Os03t0752300-01_S_28	POT1564	- - a - - - c - - - - - - g - t - a - - - - -	5M	LOC_Os04g40220.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	873	+
+Os03t0752300-01_S_28	POT1577	- - - - - - - t - t c - - - - - - - a - a - -	4M	LOC_Os04g41759.1 CDS|expressed protein	1063	-
+Os03t0752300-01_S_28	POT1583	- - - - - - - - - - t c - - - t - - g - - a -	4M	LOC_Os04g42670.1 CDS|OsFBL19 - F-box domain and LRR containing protein, expressed	226	-
+Os03t0752300-01_S_28	POT1631	- - - a - a - - - - - c - g - - - - - - a - -	4M	LOC_Os04g50150.1 CDS|retrotransposon protein, putative, unclassified, expressed	2321	+
+Os03t0752300-01_S_28	POT1635	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os04g51530.1 CDS|retrotransposon protein, putative, unclassified, expressed	2228	+
+Os03t0752300-01_S_28	POT1706	- c t - c - - - - - - - g - - - - - a - - - -	5M	LOC_Os05g03620.1 CDS|TKL_IRAK_CR4L.4 - The CR4L subfamily has homology with Crinkly4, expressed	1613	+
+Os03t0752300-01_S_28	POT1718	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os05g06399.1 CDS|expressed protein	167	-
+Os03t0752300-01_S_28	POT1732	c - - c g - - - - - - - g - - - g - - - - - -	5M	LOC_Os05g08420.1 CDS|expressed protein	203	+
+Os03t0752300-01_S_28	POT1733	c - - c g - - - - - - - g - - - g - - - - - -	5M	LOC_Os05g08420.2 CDS|expressed protein	203	+
+Os03t0752300-01_S_28	POT1737	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os05g09070.1 CDS|retrotransposon protein, putative, unclassified, expressed	2576	+
+Os03t0752300-01_S_28	POT1787	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os05g17390.1 CDS|expressed protein	227	+
+Os03t0752300-01_S_28	POT1790	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os05g17680.1 CDS|conserved hypothetical protein	227	+
+Os03t0752300-01_S_28	POT1791	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os05g17690.1 CDS|expressed protein	192	+
+Os03t0752300-01_S_28	POT1792	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os05g17730.1 CDS|expressed protein	227	+
+Os03t0752300-01_S_28	POT1865	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os05g27280.1 CDS|retrotransposon protein, putative, unclassified, expressed	1931	+
+Os03t0752300-01_S_28	POT1888	- - a - - - c - - - - - - g - t - a - - - - -	5M	LOC_Os05g30380.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1533	+
+Os03t0752300-01_S_28	POT1947	- - - - - - - - - c - - a - - t - - a - t - -	4M	LOC_Os05g39190.1 CDS|expressed protein	63	-
+Os03t0752300-01_S_28	POT1948	- - - - - - - - - c - - c - - t - - a - t - -	4M	LOC_Os05g39200.1 CDS|expressed protein	60	-
+Os03t0752300-01_S_28	POT2022	- - - - - - - - - - - - g - - t - - a - g a -	4M	LOC_Os06g01460.1 CDS|expressed protein	295	-
+Os03t0752300-01_S_28	POT2032	- - - a - - - - - - - g - - - - g - - c - a -	4M	LOC_Os06g02530.1 CDS|expressed protein	320	+
+Os03t0752300-01_S_28	POT2046	- - - c g - - - - - - - - g t t - - - - - - -	5M	LOC_Os06g03710.1 CDS|DELLA protein SLR1, putative, expressed	1490	+
+Os03t0752300-01_S_28	POT2113	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os06g15130.1 CDS|retrotransposon protein, putative, unclassified	251	+
+Os03t0752300-01_S_28	POT2121	- - - t t - - - - - - g - - - c - - - - g - -	4M	LOC_Os06g16120.1 CDS|expressed protein	548	+
+Os03t0752300-01_S_28	POT2172	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os06g24430.1 CDS|expressed protein	279	+
+Os03t0752300-01_S_28	POT2193	- - a - - - - - a - - - - g - t - a - - - - -	5M	LOC_Os06g28350.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class	1371	+
+Os03t0752300-01_S_28	POT2212	g c - - c - - - - - - - - g - g - - - - - - -	5M	LOC_Os06g31360.1 CDS|expressed protein	217	+
+Os03t0752300-01_S_28	POT2213	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os06g31740.1 CDS|retrotransposon protein, putative, unclassified, expressed	257	+
+Os03t0752300-01_S_28	POT2214	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os06g31760.1 CDS|retrotransposon protein, putative, unclassified	257	+
+Os03t0752300-01_S_28	POT2225	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os06g32610.1 CDS|expressed protein	279	+
+Os03t0752300-01_S_28	POT2258	- c - - g - - - - g - t - - - - - - - - a - -	4M	LOC_Os06g39660.1 CDS|FAD binding domain containing protein, expressed	1196	+
+Os03t0752300-01_S_28	POT2309	- - c - t - c - - - - c - - - t - - - - - - -	5M	LOC_Os06g47300.1 CDS|RNA recognition motif containing protein, putative, expressed	190	-
+Os03t0752300-01_S_28	POT2310	- - c - t - c - - - - c - - - t - - - - - - -	5M	LOC_Os06g47300.2 CDS|RNA recognition motif containing protein, putative, expressed	190	-
+Os03t0752300-01_S_28	POT2311	- - c - t - c - - - - c - - - t - - - - - - -	5M	LOC_Os06g47300.3 CDS|RNA recognition motif containing protein, putative, expressed	190	-
+Os03t0752300-01_S_28	POT2312	- - - c c - - - - t - c - - - - - a - - - - -	5M	LOC_Os06g47700.1 CDS|serine/threonine-protein kinase BRI1-like 2 precursor, putative, expressed	3068	+
+Os03t0752300-01_S_28	POT2358	- - - c - - - - - - - - - g - - - - a - - - -	3M	LOC_Os07g01850.1 CDS|NLI interacting factor-like phosphatase, putative, expressed	557	+
+Os03t0752300-01_S_28	POT2399	g - - t - - - - - - - g - - - - - c g - - - -	5M	LOC_Os07g06800.1 CDS|3-oxo-5-alpha-steroid 4-dehydrogenase, putative, expressed	472	-
+Os03t0752300-01_S_28	POT2462	- - - - - - - - - - - g c - - g g c - - - - -	5M	LOC_Os07g15500.1 CDS|expressed protein	108	-
+Os03t0752300-01_S_28	POT2467	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os07g15959.2 CDS|expressed protein	233	-
+Os03t0752300-01_S_28	POT2468	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os07g15959.1 CDS|expressed protein	233	-
+Os03t0752300-01_S_28	POT2477	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os07g16610.1 CDS|retrotransposon protein, putative, Ty1-copia subclass, expressed	167	-
+Os03t0752300-01_S_28	POT2497	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os07g20220.1 CDS|expressed protein	251	+
+Os03t0752300-01_S_28	POT2518	- - - - - - c - - c a - g g - - - - - - - - -	5M	LOC_Os07g24320.1 CDS|retrotransposon protein, putative, unclassified, expressed	1355	+
+Os03t0752300-01_S_28	POT2598	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os07g34470.1 CDS|retrotransposon protein, putative, unclassified	251	+
+Os03t0752300-01_S_28	POT2599	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os07g34490.1 CDS|retrotransposon protein, putative, unclassified, expressed	440	+
+Os03t0752300-01_S_28	POT2620	- - - - g - - - - - - g - - c g - - - - - a -	4M	LOC_Os07g37080.1 CDS|OsFBX256 - F-box domain containing protein, expressed	127	-
+Os03t0752300-01_S_28	POT2670	c - - t g - - - - - - - - - - - g - g - - - -	5M	LOC_Os07g44050.1 CDS|expressed protein	312	-
+Os03t0752300-01_S_28	POT2671	c - - t g - - - - - - - - - - - g - g - - - -	5M	LOC_Os07g44050.2 CDS|expressed protein	312	-
+Os03t0752300-01_S_28	POT2711	- - - - - - g - - t - c g - - g - - - - - - -	5M	LOC_Os07g47650.1 CDS|OsFBK19 - F-box domain and kelch repeat containing protein, expressed	109	-
+Os03t0752300-01_S_28	POT2728	- - - a - - - - - - - g g - - - g - - - - a -	4M	LOC_Os07g49114.1 CDS|wound-induced protein WI12, putative, expressed	21	-
+Os03t0752300-01_S_28	POT2730	- - - - c - c - - - c - - - - t - - g - - - -	5M	LOC_Os07g49330.3 CDS|phospholipase C, putative, expressed	61	-
+Os03t0752300-01_S_28	POT2731	- - - - c - c - - - c - - - - t - - g - - - -	5M	LOC_Os07g49330.1 CDS|phospholipase C, putative, expressed	61	-
+Os03t0752300-01_S_28	POT2741	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os08g02780.1 CDS|retrotransposon protein, putative, unclassified, expressed	2537	+
+Os03t0752300-01_S_28	POT2788	g - - t - - c - - - c g - - - - - - - - - - -	5M	LOC_Os08g09720.1 CDS|OsFBX272 - F-box domain containing protein, expressed	166	-
+Os03t0752300-01_S_28	POT2796	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os08g11290.1 CDS|retrotransposon protein, putative, unclassified, expressed	300	+
+Os03t0752300-01_S_28	POT2824	- - - - - - - - - - a c - t - - g - - - g - -	4M	LOC_Os08g14850.1 CDS|resistance protein, putative, expressed	2641	-
+Os03t0752300-01_S_28	POT2889	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os08g20922.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	395	+
+Os03t0752300-01_S_28	POT2890	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os08g20967.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	4508	+
+Os03t0752300-01_S_28	POT2900	- - - - g - c - - c t - g - - - - - - - - - -	5M	LOC_Os08g22440.1 CDS|retrotransposon protein, putative, unclassified	452	+
+Os03t0752300-01_S_28	POT2935	- - - - g - - - - - - c - - - - g - a - a - -	4M	LOC_Os08g27660.1 CDS|expressed protein	191	+
+Os03t0752300-01_S_28	POT3037	g - - - c - - - - - - g c - - - - - a - - - -	5M	LOC_Os08g41230.1 CDS|BTB5 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain, expressed	615	+
+Os03t0752300-01_S_28	POT3056	- - - - g - - - - - - g - - c g - - - - - a -	4M	LOC_Os08g43220.1 CDS|OsFBX305 - F-box domain containing protein, expressed	121	-
+Os03t0752300-01_S_28	POT3059	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os08g44490.1 CDS|retrotransposon protein, putative, unclassified, expressed	2393	+
+Os03t0752300-01_S_28	POT3093	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os09g06860.1 CDS|retrotransposon protein, putative, unclassified	251	+
+Os03t0752300-01_S_28	POT3111	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os09g09040.1 CDS|expressed protein	279	+
+Os03t0752300-01_S_28	POT3224	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os09g28080.1 CDS|retrotransposon protein, putative, unclassified, expressed	2462	+
+Os03t0752300-01_S_28	POT3354	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os10g15030.1 CDS|retrotransposon protein, putative, unclassified	299	+
+Os03t0752300-01_S_28	POT3359	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os10g16770.1 CDS|retrotransposon, putative, centromere-specific	299	+
+Os03t0752300-01_S_28	POT3360	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os10g16790.1 CDS|retrotransposon protein, putative, unclassified	299	+
+Os03t0752300-01_S_28	POT3390	- - - a g - - - - - - c - - - c - - a - - - -	5M	LOC_Os10g20610.1 CDS|laccase-15 precursor, putative, expressed	1322	+
+Os03t0752300-01_S_28	POT3401	- - - c g - c - - - - - - - - - - - a - - a -	4M	LOC_Os10g23120.1 CDS|pyridoxamine 5'-phosphate oxidase family protein, putative, expressed	296	+
+Os03t0752300-01_S_28	POT3405	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os10g24680.1 CDS|retrotransposon protein, putative, unclassified	251	+
+Os03t0752300-01_S_28	POT3412	- - - a g - - - - - - g a g - - - - - - - - -	5M	LOC_Os10g25290.1 CDS|ZIM domain containing protein, putative, expressed	119	+
+Os03t0752300-01_S_28	POT3440	- - - a - a - - - - - c - g - - - - - - a - -	4M	LOC_Os10g30650.1 CDS|transposon protein, putative, unclassified, expressed	2552	+
+Os03t0752300-01_S_28	POT3446	- c - - t - g - - - - - - - - c - - a - - - -	5M	LOC_Os10g32470.1 CDS|expressed protein	466	-
+Os03t0752300-01_S_28	POT3490	g c - - c - - - - - - - - g - g - - - - - - -	5M	LOC_Os10g42210.1 CDS|enoyl-CoA-hydratase, putative, expressed	104	+
+Os03t0752300-01_S_28	POT3509	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os11g01930.1 CDS|retrotransposon protein, putative, unclassified, expressed	1175	+
+Os03t0752300-01_S_28	POT3582	t - - - c - - c - - c - - - - - - - - - a - -	4M	LOC_Os11g16430.1 CDS|diphthamide biosynthesis protein, putative, expressed	2	+
+Os03t0752300-01_S_28	POT3585	- - - c - a - - - - - c - a - - - - - - a - -	4M	LOC_Os11g16830.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2366	+
+Os03t0752300-01_S_28	POT3672	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os11g34590.1 CDS|retrotransposon protein, putative, unclassified, expressed	2318	+
+Os03t0752300-01_S_28	POT3695	- - - c - a - - - - - c - g - - - - - - a - -	4M	LOC_Os11g36370.1 CDS|retrotransposon protein, putative, unclassified, expressed	2069	+
+Os03t0752300-01_S_28	POT3742	- - - - - - - - - - - g a g - - g - - - g - -	4M	LOC_Os11g42740.1 CDS|expressed protein	259	+
+Os03t0752300-01_S_28	POT3780	- - - - - - - - - - - - a g - t - c g - - - -	5M	LOC_Os12g01290.1 CDS|ulp1 protease family protein, putative, expressed	174	-
+Os03t0752300-01_S_28	POT3805	- c - - t - - - c c - - a - - - - - - - - - -	5M	LOC_Os12g04380.1 CDS|GRAS family transcription factor containing protein, expressed	382	-
+Os03t0752300-01_S_28	POT3808	- - - - - - - - - - - - a g - c g - - - a - -	4M	LOC_Os12g05220.1 CDS|expressed protein	562	+
+Os03t0752300-01_S_28	POT3848	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os12g11160.1 CDS|retrotransposon protein, putative, unclassified, expressed	227	+
+Os03t0752300-01_S_28	POT3894	- - - - - - - - - - - - a g - c - c g - - - -	5M	LOC_Os12g18780.1 CDS|expressed protein	388	-
+Os03t0752300-01_S_28	POT3921	- t - - - - - - - - - g - - - - g - - - a a -	4M	LOC_Os12g22489.1 CDS|expressed protein	167	-
+Os03t0752300-01_S_28	POT3976	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os12g27580.1 CDS|retrotransposon protein, putative, unclassified, expressed	216	+
+Os03t0752300-01_S_28	POT3987	- - - - - - - - - - - g - g - c t - - - a - -	4M	LOC_Os12g28910.1 CDS|expressed protein	251	+
+Os03t0752300-01_S_28	POT4059	c - - - - - - - - t c - - - - - - - a - - a -	4M	LOC_Os12g40060.1 CDS|retrotransposon protein, putative, unclassified, expressed	2059	-
+Os03t0752300-01_S_28	POT4063	- - - a g - - - - - - - g g - - g - - - - - -	5M	LOC_Os12g40860.1 CDS|Leucine Rich Repeat family protein, expressed	239	+
+Os03t0752300-01_S_28	POT4066	- - - c - - - - - c - c - t - - g - - - - - -	5M	LOC_Os12g41630.1 CDS|OsFBX463 - F-box domain containing protein, expressed	613	-
+Os03t0752300-01_S_28	POT4070	- - - - - - t - - - - g - - - c - - - c g - -	4M	LOC_Os12g42020.1 CDS|AGC_PVPK_like_kin82y.20 - ACG kinases include homologs to PKA, PKG and PKC, expressed	592	-

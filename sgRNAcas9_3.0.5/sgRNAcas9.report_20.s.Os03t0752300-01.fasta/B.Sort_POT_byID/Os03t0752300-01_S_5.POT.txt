@@ -1,0 +1,2 @@
+- g - - - - - g - a - - - - - - - - - - c - -	3M	Os03t0752300-01_S_5_POT2621	LOC_Os07g37090.1 CDS|ribosome inactivating protein, putative, expressed	262	-	random_0_3M	
+- - - - - - - g - - - - - - - c t - - - g - -	3M	Os03t0752300-01_S_5_POT3103	LOC_Os09g08050.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	280	+	random_0_3M	

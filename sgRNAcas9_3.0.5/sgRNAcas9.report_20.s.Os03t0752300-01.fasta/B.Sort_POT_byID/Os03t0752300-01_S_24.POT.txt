@@ -1,0 +1,4 @@
+g c - - - - - - g - t - c - - - - - - - - - -	5M	Os03t0752300-01_S_24_POT2300	LOC_Os06g46910.1 CDS|ZOS6-07 - C2H2 zinc finger protein, expressed	235	+	regionI_ident	
+g c - - - - - - g - t - c - - - - - - - - - -	5M	Os03t0752300-01_S_24_POT2301	LOC_Os06g46910.2 CDS|ZOS6-07 - C2H2 zinc finger protein, expressed	235	+	regionI_ident	
+- - - a - - - - g - - - - - - g - - - - - - -	3M	Os03t0752300-01_S_24_POT4072	LOC_Os12g42100.1 CDS|phosphonate metabolism protein-related, putative, expressed	142	-	random_0_3M	
+- - - a - - - - g - - - - - - g - - - - - - -	3M	Os03t0752300-01_S_24_POT4074	LOC_Os12g42110.1 CDS|phosphonate metabolism protein-related, putative, expressed	157	-	random_0_3M	

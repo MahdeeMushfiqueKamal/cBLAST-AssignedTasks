@@ -1,0 +1,1 @@
+- - g t a - - - - - - - - - - - - - - - g - -	3M	POT2603	LOC_Os07g35300.1 CDS|TKL_IRAK_DUF26-lc.11 - DUF26 kinases have homology to DUF26 containing loci, expressed	673	+	Os03t0752300-01_S_31

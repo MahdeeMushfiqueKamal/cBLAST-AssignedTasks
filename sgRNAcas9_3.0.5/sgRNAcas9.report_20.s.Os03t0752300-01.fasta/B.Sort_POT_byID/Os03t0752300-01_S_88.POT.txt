@@ -1,0 +1,7 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_88_POT1189	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	907	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_88_POT1242	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	907	+	seed_ident	
+- - - c t - - g - - - - - - - - - - - - t - -	3M	Os03t0752300-01_S_88_POT2290	LOC_Os06g45480.2 CDS|hydrolase, putative, expressed	148	+	seed_ident	
+- - - c t - - g - - - - - - - - - - - - t - -	3M	Os03t0752300-01_S_88_POT2292	LOC_Os06g45480.1 CDS|hydrolase, putative, expressed	148	+	seed_ident	
+c - - - - - - - - - - - - - g - - g - - c - -	3M	Os03t0752300-01_S_88_POT2355	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	892	+	random_0_3M	
+t - - - c - t - a a - - - - - - - - - - - - -	5M	Os03t0752300-01_S_88_POT2956	LOC_Os08g30580.1 CDS|hypothetical protein	93	+	regionI_ident	
+- - c a - - - - - a - t - - - - - - - - t - -	4M	Os03t0752300-01_S_88_POT3955	LOC_Os12g26310.1 CDS|retrotransposon protein, putative, unclassified, expressed	544	+	regionI_ident	

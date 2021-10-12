@@ -1,0 +1,11 @@
+- - g - - - g - - t - - g - - - - - - - a - -	4M	Os03t0752300-01_S_56_POT391	LOC_Os01g68320.5 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-	regionI_ident	
+- - g - - - g - - t - - g - - - - - - - a - -	4M	Os03t0752300-01_S_56_POT392	LOC_Os01g68320.1 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-	regionI_ident	
+- - g - - - g - - t - - g - - - - - - - a - -	4M	Os03t0752300-01_S_56_POT393	LOC_Os01g68320.2 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-	regionI_ident	
+- - g - - - g - - t - - g - - - - - - - a - -	4M	Os03t0752300-01_S_56_POT394	LOC_Os01g68320.4 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-	regionI_ident	
+- - g - - - g - - t - - g - - - - - - - a - -	4M	Os03t0752300-01_S_56_POT395	LOC_Os01g68320.3 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-	regionI_ident	
+- c t - - - - - - g - a a - - - - - - - - - -	5M	Os03t0752300-01_S_56_POT472	LOC_Os02g06230.1 CDS|retrotransposon protein, putative, unclassified, expressed	1159	-	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_56_POT1158	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	384	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_56_POT1211	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	384	+	seed_ident	
+- - - c - - - - - t - - t - - - - - - - - - -	3M	Os03t0752300-01_S_56_POT2111	LOC_Os06g14750.1 CDS|phosphatidylinositol-4-phosphate 5-Kinase family protein, putative, expressed	2425	+	random_0_3M	
+- - - c - - - - - t - c t - - - - - - - c - -	4M	Os03t0752300-01_S_56_POT2973	LOC_Os08g33200.1 CDS|1-phosphatidylinositol-4-phosphate 5-kinase/ zinc ion binding protein, putative, expressed	2605	+	regionI_ident	
+- - - c - - - - - t - c t - - - - - - - c - -	4M	Os03t0752300-01_S_56_POT3199	LOC_Os09g23740.1 CDS|1-phosphatidylinositol-4-phosphate 5-kinase/ zinc ion binding protein, putative, expressed	2638	+	regionI_ident	

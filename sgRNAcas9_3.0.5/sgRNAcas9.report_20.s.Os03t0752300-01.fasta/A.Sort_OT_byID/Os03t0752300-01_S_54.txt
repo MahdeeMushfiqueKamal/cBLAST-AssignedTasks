@@ -1,0 +1,41 @@
+Os03t0752300-01_S_54	POT280	- - - a - - a c - - - - t - - - a - - - - - -	5M	LOC_Os01g47800.1 CDS|AAA-type ATPase family protein, putative, expressed	2402	+
+Os03t0752300-01_S_54	POT482	- - - c - - - - - - - - t c - - a - - t - - -	5M	LOC_Os02g07680.2 CDS|cytochrome P450, putative, expressed	884	-
+Os03t0752300-01_S_54	POT484	- - - c - - - - - - - - t c - - a - - t - - -	5M	LOC_Os02g07680.5 CDS|cytochrome P450, putative, expressed	884	-
+Os03t0752300-01_S_54	POT486	- - - c - - - - - - - - t c - - a - - t - - -	5M	LOC_Os02g07680.4 CDS|cytochrome P450, putative, expressed	575	-
+Os03t0752300-01_S_54	POT488	- - - c - - - - - - - - t c - - a - - t - - -	5M	LOC_Os02g07680.3 CDS|cytochrome P450, putative, expressed	575	-
+Os03t0752300-01_S_54	POT490	- - - c - - - - - - - - t c - - a - - t - - -	5M	LOC_Os02g07680.1 CDS|cytochrome P450, putative, expressed	1115	-
+Os03t0752300-01_S_54	POT566	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os02g21180.1 CDS|retrotransposon protein, putative, unclassified	144	-
+Os03t0752300-01_S_54	POT589	a a - - g - - - - - - - - - c - - - - - - a -	4M	LOC_Os02g26820.1 CDS|retrotransposon protein, putative, unclassified	298	+
+Os03t0752300-01_S_54	POT702	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os02g45220.1 CDS|retrotransposon protein, putative, unclassified	246	-
+Os03t0752300-01_S_54	POT812	- - - c - c - - - c - - - t - - - c - - - - -	5M	LOC_Os03g02970.1 CDS|Dicer, putative, expressed	728	-
+Os03t0752300-01_S_54	POT895	- - - - - t - - g - g - - - - - c - - t - - -	5M	LOC_Os03g16260.1 CDS|protein kinase, putative, expressed	1233	+
+Os03t0752300-01_S_54	POT924	- a t - - - - - - - - - - - - t - - - g - a -	4M	LOC_Os03g20180.2 CDS|ECT protein, putative, expressed	606	-
+Os03t0752300-01_S_54	POT926	- a t - - - - - - - - - - - - t - - - g - a -	4M	LOC_Os03g20180.1 CDS|ECT protein, putative, expressed	606	-
+Os03t0752300-01_S_54	POT1040	- - - - - t - - g - g - - - - - c - - t - - -	5M	LOC_Os03g38710.1 CDS|protein kinase, putative, expressed	1161	+
+Os03t0752300-01_S_54	POT1075	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os03g45500.1 CDS|retrotransposon protein, putative, unclassified	90	-
+Os03t0752300-01_S_54	POT1156	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	378	+
+Os03t0752300-01_S_54	POT1209	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	378	+
+Os03t0752300-01_S_54	POT1366	- t - - - - - t - - - g a - - g - - - - - - -	5M	LOC_Os04g09700.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1007	-
+Os03t0752300-01_S_54	POT1459	- - - - a - c c - - - - - - - - g c - - - - -	5M	LOC_Os04g23220.1 CDS|expressed protein	1515	+
+Os03t0752300-01_S_54	POT1730	- t - - - - g - a - - - - t - g - - - - - - -	5M	LOC_Os05g08310.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3211	+
+Os03t0752300-01_S_54	POT2177	a a - - g - - - t - - - t - - - - - - - - - -	5M	LOC_Os06g25330.1 CDS|retrotransposon protein, putative, unclassified	99	-
+Os03t0752300-01_S_54	POT2248	a - - - g - - - - - a - - - - - - - - - c - -	3M	LOC_Os06g36600.1 CDS|retrotransposon protein, putative, unclassified	36	-
+Os03t0752300-01_S_54	POT2360	g a - - a - - - a - - - - - - - - - - - a - -	4M	LOC_Os07g02480.1 CDS|expressed protein	624	+
+Os03t0752300-01_S_54	POT2391	- - a - - - - - - - - - a - - - - - - - a - -	2M	LOC_Os07g05960.1 CDS|expressed protein	3683	-
+Os03t0752300-01_S_54	POT2739	a a - - a - - - - - a - - - - - - - - - c - -	4M	LOC_Os08g02310.1 CDS|retrotransposon protein, putative, unclassified	9	-
+Os03t0752300-01_S_54	POT2764	- - - - - c - - - - - g - a - - - c - - - a -	4M	LOC_Os08g06200.1 CDS|stomatin-like protein 2, putative, expressed	623	-
+Os03t0752300-01_S_54	POT2791	- - - - - c c c - - - - - a - - c - - - - - -	5M	LOC_Os08g09920.1 CDS|OsFBX277 - F-box domain containing protein, expressed	939	-
+Os03t0752300-01_S_54	POT2792	- - - - - c c c - - - - - a - - c - - - - - -	5M	LOC_Os08g09920.2 CDS|OsFBX277 - F-box domain containing protein, expressed	939	-
+Os03t0752300-01_S_54	POT2818	a a - - a - - - - - a - - - - - - - - - c - -	4M	LOC_Os08g14380.1 CDS|retrotransposon protein, putative, unclassified	90	-
+Os03t0752300-01_S_54	POT2976	- - - g g - - - - - - - - - g - - - - t - - -	4M	LOC_Os08g33350.1 CDS|expressed protein	173	-
+Os03t0752300-01_S_54	POT3089	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os09g04780.1 CDS|retrotransposon protein, putative, unclassified	90	-
+Os03t0752300-01_S_54	POT3133	- a - - - c - - - c - - - - a - - - - t - - -	5M	LOC_Os09g12080.1 CDS|retrotransposon protein, putative, unclassified, expressed	1830	+
+Os03t0752300-01_S_54	POT3158	- - - - - t - - g - g - - - - - c - - t - - -	5M	LOC_Os09g14580.1 CDS|protein kinase domain containing protein, expressed	1107	+
+Os03t0752300-01_S_54	POT3182	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os09g18580.1 CDS|retrotransposon protein, putative, unclassified	96	-
+Os03t0752300-01_S_54	POT3601	a a - - g - - - - - a - - - - - - - - - c - -	4M	LOC_Os11g20070.1 CDS|retrotransposon protein, putative, unclassified	81	-
+Os03t0752300-01_S_54	POT3614	- a - - g - - - - - a - - - - - - - - - c - -	3M	LOC_Os11g24220.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	924	+
+Os03t0752300-01_S_54	POT3771	- - t - - - - - a - c - - a - - - - - - c - -	4M	LOC_Os11g47490.1 CDS|senescence-induced receptor-like serine/threonine-protein kinase precursor, putative, expressed	161	-
+Os03t0752300-01_S_54	POT3839	- a - - g - - - - - a c - - - - - - - - c - -	4M	LOC_Os12g10150.1 CDS|retrotransposon protein, putative, unclassified	90	-
+Os03t0752300-01_S_54	POT3864	- - - - g - a - - - - - - t - t - - - t - - -	5M	LOC_Os12g14330.1 CDS|disease resistance protein RPM1, putative, expressed	180	-
+Os03t0752300-01_S_54	POT3867	- - - - - c - - - c - - - - a - - - - t c - -	4M	LOC_Os12g14880.1 CDS|retrotransposon protein, putative, unclassified	351	+
+Os03t0752300-01_S_54	POT4068	- - - - - t - - - - - - g c - t - - - t - - -	5M	LOC_Os12g41820.1 CDS|heat shock protein DnaJ, putative, expressed	1199	-

@@ -1,0 +1,21 @@
+Os03t0752300-01_S_70	POT872	- - - - g - - - - - - - t - - - c a - c - - -	5M	LOC_Os03g12150.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	161	+
+Os03t0752300-01_S_70	POT1155	- - - - - g - - c - - - g - c - - c - - - - -	5M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	319	+
+Os03t0752300-01_S_70	POT1173	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	661	+
+Os03t0752300-01_S_70	POT1208	- - - - - g - - c - - - g - c - - c - - - - -	5M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	319	+
+Os03t0752300-01_S_70	POT1226	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	661	+
+Os03t0752300-01_S_70	POT1534	- - - - - t c - - - - - t - - - c a - - - - -	5M	LOC_Os04g34410.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	191	+
+Os03t0752300-01_S_70	POT1872	- - - t - - - g - - - t a - - - - - - t - - -	5M	LOC_Os05g28490.1 CDS|FAD-binding domain-containing protein, putative, expressed	629	+
+Os03t0752300-01_S_70	POT1959	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.2 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1960	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.10 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1961	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.7 CDS|expressed protein	895	+
+Os03t0752300-01_S_70	POT1962	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.1 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1963	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.5 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1964	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.6 CDS|expressed protein	1108	+
+Os03t0752300-01_S_70	POT1965	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.3 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1966	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.9 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1967	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.8 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT1968	- - - - g - - - - g - - a - - - t - - g - - -	5M	LOC_Os05g40270.4 CDS|expressed protein	1216	+
+Os03t0752300-01_S_70	POT2404	- - c - - - c - - - - - t - - - - - - g - - -	4M	LOC_Os07g07950.1 CDS|type I inositol-1,4,5-trisphosphate 5-phosphatase, putative, expressed	110	-
+Os03t0752300-01_S_70	POT2406	- - c - - - c - - - - - t - - - - - - g - - -	4M	LOC_Os07g07950.2 CDS|type I inositol-1,4,5-trisphosphate 5-phosphatase, putative, expressed	110	-
+Os03t0752300-01_S_70	POT3155	- - - - - - - t c - - - a - c - - - a - - - -	5M	LOC_Os09g14140.1 CDS|retrotransposon protein, putative, unclassified, expressed	49	+
+Os03t0752300-01_S_70	POT4086	- - - - - a c t - t - - - g - - - - - - - - -	5M	LOC_Os12g43850.1 CDS|retrotransposon protein, putative, unclassified, expressed	578	+

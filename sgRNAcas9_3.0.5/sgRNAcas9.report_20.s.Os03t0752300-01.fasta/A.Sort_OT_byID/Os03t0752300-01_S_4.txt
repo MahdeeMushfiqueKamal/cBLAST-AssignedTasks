@@ -1,0 +1,17 @@
+Os03t0752300-01_S_4	POT247	c - - - - - c t - c - - - - - - - - g - - - -	5M	LOC_Os01g42990.1 CDS|PPR repeat domain containing protein, putative, expressed	611	-
+Os03t0752300-01_S_4	POT449	c - c - - - - c - - - - - t - - - c - - - - -	5M	LOC_Os02g03850.1 CDS|glycosyltransferase, putative, expressed	349	+
+Os03t0752300-01_S_4	POT450	c - c - - - - c - - - - - t - - - c - - - - -	5M	LOC_Os02g03850.2 CDS|glycosyltransferase, putative, expressed	349	+
+Os03t0752300-01_S_4	POT919	t - - - - - - g - - - - g - g - - - - - a - -	4M	LOC_Os03g19470.1 CDS| proteins of unknown function domain containing protein, expressed	1773	+
+Os03t0752300-01_S_4	POT1019	- g - - - - - - - g - - - - g - - - c t - - -	5M	LOC_Os03g36260.1 CDS|expressed protein	247	+
+Os03t0752300-01_S_4	POT1474	- g - - - - - - - g - - - - g - - - c t - - -	5M	LOC_Os04g25220.1 CDS|hypothetical protein	247	+
+Os03t0752300-01_S_4	POT1481	- g - - - - - - - g - - - - g - - - c t - - -	5M	LOC_Os04g26100.1 CDS|hypothetical protein	247	+
+Os03t0752300-01_S_4	POT1682	- - g - - - - - - t - - - g g - - c - - - - -	5M	LOC_Os04g58200.1 CDS|protochlorophyllide reductase A, chloroplast precursor, putative, expressed	424	+
+Os03t0752300-01_S_4	POT1683	- - g - - - - - - t - - - g g - - c - - - - -	5M	LOC_Os04g58200.3 CDS|protochlorophyllide reductase A, chloroplast precursor, putative, expressed	118	+
+Os03t0752300-01_S_4	POT1684	- - g - - - - - - t - - - g g - - c - - - - -	5M	LOC_Os04g58200.2 CDS|protochlorophyllide reductase A, chloroplast precursor, putative, expressed	400	+
+Os03t0752300-01_S_4	POT1799	- c c - - - - - - - g - - t - - - - g - - - -	5M	LOC_Os05g19000.1 CDS|expressed protein	298	+
+Os03t0752300-01_S_4	POT2455	- g - - - - - - - g - - - - g - - - c t - - -	5M	LOC_Os07g14020.1 CDS|hypothetical protein	289	+
+Os03t0752300-01_S_4	POT2622	t - c - g - - - - - g - a - - - - - - - - - -	5M	LOC_Os07g37090.1 CDS|ribosome inactivating protein, putative, expressed	265	-
+Os03t0752300-01_S_4	POT3039	- g - - - - c - - - - - - c t - c - - - - - -	5M	LOC_Os08g41400.1 CDS|expressed protein	490	+
+Os03t0752300-01_S_4	POT3310	c - - - - - - - - - - - - t - - c - c - - a -	4M	LOC_Os10g06910.1 CDS|expressed protein	760	+
+Os03t0752300-01_S_4	POT3389	- - - - - - - - - g - g - - - g - - c a - - -	5M	LOC_Os10g20610.1 CDS|laccase-15 precursor, putative, expressed	239	-
+Os03t0752300-01_S_4	POT4058	- c c - - - - - - - a - - t - - - - g - - - -	5M	LOC_Os12g39690.1 CDS|hypothetical protein	163	+

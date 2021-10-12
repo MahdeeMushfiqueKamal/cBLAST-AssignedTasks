@@ -1,0 +1,24 @@
+################################# Log ###########################################
+
+#                              sgRNAcas9                                                  
+#     ---a tool for fast designing CRISPR sgRNA with high specificity                     
+#                                                                                         
+#       contact:  Xie Shengsong, Email: ssxieinfo@gmail.com                                .
+
+# Time, begin at Mon Oct 11 23:18:00 2021.
+# Usage: perl sgRNAcas9_3.0.5.pl -i Os03t0752300-01.fasta -x 20 -l 20 -m 80 -g o_sativa.fasta -o s -t s -v w -n 5 -s -3 -e 33 -p C:/Users/DHRUBO/Desktop/cBLAST - task/sgRNAcas9_3.0.5 2>log.txt
+
+# Start sgRNAcas9 program........
+# Step1: Format target sequences.
+# Step2: Find CRISPR targets.
+# Step3: Evaluate CRISPR potential off-target effect.
+# Step3-1: Whole genome mapping.
+# Finished mapping candidate CRISPR target sequences to genome: o_sativa.fasta.
+# Step3-2: Count the No.of potential off-target cleavage sites.
+# Step3-3: Format and sort whole genome mapping result.
+# Step3-4: Sort mapping result by mismatch location.
+
+# Total time consumption is 318 seconds.
+# Your job is done, open sgRNAcas9.report_20.s directory to check result.
+################################# END ###########################################
+

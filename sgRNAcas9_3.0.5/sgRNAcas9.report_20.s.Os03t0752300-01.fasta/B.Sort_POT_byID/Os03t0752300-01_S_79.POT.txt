@@ -1,0 +1,5 @@
+a - - a a - - a - a - - - - - - - - - - - - -	5M	Os03t0752300-01_S_79_POT220	LOC_Os01g39050.1 CDS|retrotransposon protein, putative, unclassified, expressed	1745	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_79_POT1180	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	792	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_79_POT1233	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	792	+	seed_ident	
+a - - a a - - a - a - - - - - - - - - - - - -	5M	Os03t0752300-01_S_79_POT3752	LOC_Os11g45010.1 CDS|retrotransposon protein, putative, unclassified, expressed	1229	+	regionI_ident	
+- - - c g - - g a t - - - - - - - - - - - - -	5M	Os03t0752300-01_S_79_POT4067	LOC_Os12g41710.1 CDS|Protein kinase domain containing protein, expressed	327	+	regionI_ident	

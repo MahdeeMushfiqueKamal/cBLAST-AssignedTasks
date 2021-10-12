@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_60_POT1162	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	478	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_60_POT1215	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	478	+	seed_ident	
+- t - - - - - - - - t - - - - - - - c - - a -	3M	Os03t0752300-01_S_60_POT3230	LOC_Os09g29510.1 CDS|OsWAK80 - OsWAK receptor-like protein kinase, expressed	1598	+	random_0_3M	

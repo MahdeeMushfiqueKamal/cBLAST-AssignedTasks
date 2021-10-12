@@ -1,0 +1,212 @@
+Os03t0752300-01_S_27	POT7	- g - - - c - - c c g - - - - - - - - - - - -	5M	LOC_Os01g03549.1 CDS|multi-copper oxidase type I family protein, putative, expressed	924	-
+Os03t0752300-01_S_27	POT43	a - - a - - - - - - g - - - - - - a - - - a -	4M	LOC_Os01g09540.1 CDS|HAD superfamily phosphatase, putative, expressed	695	+
+Os03t0752300-01_S_27	POT51	- - - - - - - - - - g - g - - - - - - - - - -	2M	LOC_Os01g10580.1 CDS|B-box zinc finger family protein, putative, expressed	164	-
+Os03t0752300-01_S_27	POT68	- - - - - a a - t - - - c - c - - - - - - - -	5M	LOC_Os01g12460.1 CDS|expressed protein	78	-
+Os03t0752300-01_S_27	POT69	- - t - c - - c - - - - - - g - - - - - - - -	4M	LOC_Os01g12930.1 CDS|U-box domain containing protein, expressed	2004	-
+Os03t0752300-01_S_27	POT74	- - - a - - - - - c - - g c - - - - c - - - -	5M	LOC_Os01g13450.1 CDS|expressed protein	689	-
+Os03t0752300-01_S_27	POT123	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os01g21550.1 CDS|expressed protein	359	+
+Os03t0752300-01_S_27	POT148	a g g - - - - - - a g - - - - - - - - - - - -	5M	LOC_Os01g25240.1 CDS|expressed protein	20	+
+Os03t0752300-01_S_27	POT152	- - - - - c - - a - g c c - - - - - - - - - -	5M	LOC_Os01g27490.1 CDS|leucoanthocyanidin dioxygenase, putative, expressed	570	-
+Os03t0752300-01_S_27	POT164	- - t t - - g - t - g - - - - - - - - - - - -	5M	LOC_Os01g31110.1 CDS|CRS2-associated factor 1, chloroplast precursor, putative, expressed	81	-
+Os03t0752300-01_S_27	POT166	- g - - - c g - c - a - - - - - - - - - - - -	5M	LOC_Os01g31560.1 CDS|expressed protein	229	+
+Os03t0752300-01_S_27	POT169	- - - - - c - - - - g - - - c c - - t - - - -	5M	LOC_Os01g32080.1 CDS|thiamine pyrophosphate enzyme, C-terminal TPP binding domain containing protein, expressed	213	-
+Os03t0752300-01_S_27	POT172	- - - - - c - - - - g - - - c c - - t - - - -	5M	LOC_Os01g32080.2 CDS|thiamine pyrophosphate enzyme, C-terminal TPP binding domain containing protein, expressed	213	-
+Os03t0752300-01_S_27	POT184	c g t - - - - - - - - - - - t t - - - - - - -	5M	LOC_Os01g34560.1 CDS|3-ketoacyl-CoA synthase, putative, expressed	792	-
+Os03t0752300-01_S_27	POT190	- - - - - - - c - - - - g - - - - a - - - a -	3M	LOC_Os01g35230.1 CDS|1-aminocyclopropane-1-carboxylate oxidase homolog 1, putative, expressed	825	+
+Os03t0752300-01_S_27	POT207	- g - - - - - - c c - - - - - - - t g - - - -	5M	LOC_Os01g37550.1 CDS|transposon protein, putative, unclassified, expressed	1977	+
+Os03t0752300-01_S_27	POT228	- g - c - - - - - - - - g - - - c - g - - - -	5M	LOC_Os01g40240.1 CDS|expressed protein	252	-
+Os03t0752300-01_S_27	POT284	a g - - c - - - c - - - - - c - - - - - - - -	5M	LOC_Os01g48140.1 CDS|pentatricopeptide containing protein, putative, expressed	261	-
+Os03t0752300-01_S_27	POT289	- - - - - c g c - - - - - c - - - - t - - - -	5M	LOC_Os01g49070.1 CDS|expressed protein	56	+
+Os03t0752300-01_S_27	POT290	c - - - - - - c a - g - - - - - - - - - - - -	4M	LOC_Os01g49340.1 CDS|arginine/serine-rich coiled-coil protein 1, putative, expressed	359	+
+Os03t0752300-01_S_27	POT330	- - - - - - g - - - t - g - - - - a g - - - -	5M	LOC_Os01g56140.1 CDS|expressed protein	19	+
+Os03t0752300-01_S_27	POT425	- g - c - - - - - - - c c - - - - - t - - - -	5M	LOC_Os01g74070.1 CDS|transposon protein, putative, unclassified, expressed	140	-
+Os03t0752300-01_S_27	POT440	- - g a - c - - - t - - - - - - - - - c - - -	5M	LOC_Os02g02240.1 CDS|expressed protein	623	+
+Os03t0752300-01_S_27	POT444	- - - - - - g c - - - - g c g - - - - - - - -	5M	LOC_Os02g03270.1 CDS|AT hook motif domain containing protein, expressed	169	+
+Os03t0752300-01_S_27	POT448	- a g - - g g a - - - - - - - - - - - - - - -	5M	LOC_Os02g03690.1 CDS|beta-amylase, putative, expressed	170	+
+Os03t0752300-01_S_27	POT495	c - - t - - g - - - g a - - - - - - - - - - -	5M	LOC_Os02g09180.1 CDS|CUE domain containing protein, expressed	183	-
+Os03t0752300-01_S_27	POT532	- - - - - a - c - t - - - - - c - - g - - - -	5M	LOC_Os02g15440.1 CDS|hypothetical protein	157	-
+Os03t0752300-01_S_27	POT539	- - - - c - - c - - - - - - t c - - - - c - -	4M	LOC_Os02g17210.1 CDS|OsFBX43 - F-box domain containing protein, expressed	924	-
+Os03t0752300-01_S_27	POT563	c - - t - g - c - c - - - - - - - - - - - - -	5M	LOC_Os02g20990.1 CDS|expressed protein	350	+
+Os03t0752300-01_S_27	POT570	- g - - - c - - - t - - c - - - - - g - - - -	5M	LOC_Os02g21580.1 CDS|PPR repeat containing protein, expressed	315	+
+Os03t0752300-01_S_27	POT602	c g - - - - - - - - g - - - g - - a - - - - -	5M	LOC_Os02g30230.1 CDS|exo70 exocyst complex subunit domain containing protein, expressed	186	-
+Os03t0752300-01_S_27	POT603	c g - - - - - - - - g - - - g - - a - - - - -	5M	LOC_Os02g30230.2 CDS|exo70 exocyst complex subunit domain containing protein, expressed	186	-
+Os03t0752300-01_S_27	POT604	c g - - - - - - - - g - - - g - - a - - - - -	5M	LOC_Os02g30230.3 CDS|exo70 exocyst complex subunit domain containing protein, expressed	186	-
+Os03t0752300-01_S_27	POT611	- - g - - - t - - c g - c - - - - - - - - - -	5M	LOC_Os02g32420.1 CDS|protein binding protein, putative, expressed	300	+
+Os03t0752300-01_S_27	POT615	- g t - - - a - - - a - - - - - - - g - - - -	5M	LOC_Os02g33010.1 CDS|expressed protein	93	-
+Os03t0752300-01_S_27	POT624	- - - - - - - - - c a - - - - - - a g a - - -	5M	LOC_Os02g34910.1 CDS|expressed protein	306	+
+Os03t0752300-01_S_27	POT635	- - - a c a a - - - - - - - - - - - - - - - -	4M	LOC_Os02g36880.3 CDS|No apical meristem protein, putative, expressed	983	+
+Os03t0752300-01_S_27	POT636	- - - a c a a - - - - - - - - - - - - - - - -	4M	LOC_Os02g36880.1 CDS|No apical meristem protein, putative, expressed	983	+
+Os03t0752300-01_S_27	POT637	- - - a c a a - - - - - - - - - - - - - - - -	4M	LOC_Os02g36880.4 CDS|No apical meristem protein, putative, expressed	980	+
+Os03t0752300-01_S_27	POT638	- - - a c a a - - - - - - - - - - - - - - - -	4M	LOC_Os02g36880.2 CDS|No apical meristem protein, putative, expressed	983	+
+Os03t0752300-01_S_27	POT639	- - g - c g g - - - - - - - - - - - - - t - -	4M	LOC_Os02g37140.1 CDS|expressed protein	312	-
+Os03t0752300-01_S_27	POT640	- - g - c g g - - - - - - - - - - - - - t - -	4M	LOC_Os02g37140.2 CDS|expressed protein	312	-
+Os03t0752300-01_S_27	POT679	- - - t - g - - - - - - c - - - - - - - c a -	4M	LOC_Os02g43040.1 CDS|expressed protein	672	-
+Os03t0752300-01_S_27	POT714	a g - - - a - - a - - - c - - - - - - - - - -	5M	LOC_Os02g46320.1 CDS|glucosyltransferase, putative, expressed	414	-
+Os03t0752300-01_S_27	POT734	a g - - - - - - - - g - - - g - - - - - g - -	4M	LOC_Os02g50280.1 CDS|pentatricopeptide, putative, expressed	53	-
+Os03t0752300-01_S_27	POT738	- - - - - - - - t - - t g - - c - a - - - - -	5M	LOC_Os02g50560.1 CDS|DSHCT domain containing protein, expressed	1741	+
+Os03t0752300-01_S_27	POT739	- - - - - - - - t - - t g - - c - a - - - - -	5M	LOC_Os02g50560.2 CDS|DSHCT domain containing protein, expressed	1741	+
+Os03t0752300-01_S_27	POT742	- - - t - - - - - c a - - - c t - - - - - - -	5M	LOC_Os02g50670.1 CDS|expressed protein	673	+
+Os03t0752300-01_S_27	POT771	c - - - - - - c - - - - - - c - - a - - c - -	4M	LOC_Os02g54720.1 CDS|expressed protein	1796	+
+Os03t0752300-01_S_27	POT792	c - t - - a g - - - - - - - c - - - - - - - -	5M	LOC_Os02g56740.1 CDS|translation initiation factor eIF-2B subunit epsilon, putative, expressed	60	-
+Os03t0752300-01_S_27	POT795	a - - - - - t - c - - - c - - - - - - - t - -	4M	LOC_Os02g57340.1 CDS|tetratricopeptide-like helical, putative, expressed	441	-
+Os03t0752300-01_S_27	POT801	- a g - - - g - - - - - g - - - - - g - - - -	5M	LOC_Os02g58510.1 CDS|GHMP kinases ATP-binding protein, putative, expressed	311	-
+Os03t0752300-01_S_27	POT806	- g - - - c - a - - g - - - - - - - - - - - -	4M	LOC_Os03g01620.1 CDS|expressed protein	51	-
+Os03t0752300-01_S_27	POT821	- g - - a g - - - - - - g - - - - - c - - - -	5M	LOC_Os03g04340.1 CDS|C-methyltransferase, putative, expressed	855	-
+Os03t0752300-01_S_27	POT865	- g c - - - - - a - - - c - - - - - - - - - -	4M	LOC_Os03g11020.1 CDS|PPR repeat containing protein, expressed	288	-
+Os03t0752300-01_S_27	POT874	- g - - c - - - - - - a g - c - - - - - - - -	5M	LOC_Os03g12250.1 CDS|atypical receptor-like kinase MARK, putative, expressed	333	-
+Os03t0752300-01_S_27	POT892	- g g - a - - - a - - - - - - - - - g - - - -	5M	LOC_Os03g15280.1 CDS|hypothetical protein	182	+
+Os03t0752300-01_S_27	POT953	- - - - - a g - t - g - - - - - - - t - - - -	5M	LOC_Os03g24880.1 CDS|PPR repeat containing protein, expressed	213	-
+Os03t0752300-01_S_27	POT958	- - c - - c - - c - - - - - c - - - - - - - -	4M	LOC_Os03g25470.1 CDS|ctr copper transporter family protein, putative, expressed	264	-
+Os03t0752300-01_S_27	POT1001	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os03g33400.1 CDS|expressed protein	285	+
+Os03t0752300-01_S_27	POT1007	- g - - a - a - a - g - - - - - - - - - - - -	5M	LOC_Os03g34020.1 CDS|retrotransposon, putative, centromere-specific, expressed	33	+
+Os03t0752300-01_S_27	POT1042	- - - - - - - c - - - - t - - - a t g - - - -	5M	LOC_Os03g39150.1 CDS|protein kinase domain containing protein, expressed	237	+
+Os03t0752300-01_S_27	POT1044	- - g - c a - - - - g - - - - - c - - - - - -	5M	LOC_Os03g39400.1 CDS|retrotransposon protein, putative, Ty1-copia subclass, expressed	32	+
+Os03t0752300-01_S_27	POT1049	- - c - - - - - - a g - - - - - c c - - - - -	5M	LOC_Os03g41470.1 CDS|expressed protein	681	+
+Os03t0752300-01_S_27	POT1055	c - - - - g - - c c - - g - - - - - - - - - -	5M	LOC_Os03g42040.1 CDS|HEAT repeat family protein, putative, expressed	186	-
+Os03t0752300-01_S_27	POT1058	- g - c - - - - - - - c c - - - - - t - - - -	5M	LOC_Os03g42670.1 CDS|transposon protein, putative, unclassified, expressed	147	-
+Os03t0752300-01_S_27	POT1073	- g - - - - - - - - a c - - - - - a g - - - -	5M	LOC_Os03g45400.1 CDS|antitermination NusB domain-containing protein, putative, expressed	426	+
+Os03t0752300-01_S_27	POT1084	- - c - t - - - t c - - - - - a - - - - - - -	5M	LOC_Os03g46720.1 CDS|OsFBX106 - F-box domain containing protein, expressed	699	+
+Os03t0752300-01_S_27	POT1088	- g - - c g - - - - - - - - c - - - - - - - -	4M	LOC_Os03g47100.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	655	+
+Os03t0752300-01_S_27	POT1101	c - c - - a g - a - - - - - - - - - - - - - -	5M	LOC_Os03g50940.1 CDS|cytochrome c oxidase assembly protein COX11, mitochondrial precursor, putative, expressed	45	-
+Os03t0752300-01_S_27	POT1102	c - c - - a g - a - - - - - - - - - - - - - -	5M	LOC_Os03g50940.2 CDS|cytochrome c oxidase assembly protein COX11, mitochondrial precursor, putative, expressed	45	-
+Os03t0752300-01_S_27	POT1127	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.6 CDS|HSF-type DNA-binding domain containing protein, expressed	522	+
+Os03t0752300-01_S_27	POT1128	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.5 CDS|HSF-type DNA-binding domain containing protein, expressed	160	+
+Os03t0752300-01_S_27	POT1129	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.2 CDS|HSF-type DNA-binding domain containing protein, expressed	522	+
+Os03t0752300-01_S_27	POT1130	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.1 CDS|HSF-type DNA-binding domain containing protein, expressed	522	+
+Os03t0752300-01_S_27	POT1131	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.4 CDS|HSF-type DNA-binding domain containing protein, expressed	258	+
+Os03t0752300-01_S_27	POT1132	- - - - t - - - - - - - c - - c - - c - t - -	4M	LOC_Os03g53340.3 CDS|HSF-type DNA-binding domain containing protein, expressed	522	+
+Os03t0752300-01_S_27	POT1260	- - - - - - - - - a - a - - g - c a - - - - -	5M	LOC_Os03g58540.3 CDS|spo0B-associated GTP-binding protein, putative, expressed	329	+
+Os03t0752300-01_S_27	POT1261	- - - - - - - - - a - a - - g - c a - - - - -	5M	LOC_Os03g58540.2 CDS|spo0B-associated GTP-binding protein, putative, expressed	329	+
+Os03t0752300-01_S_27	POT1262	- - - - - - - - - a - a - - g - c a - - - - -	5M	LOC_Os03g58540.1 CDS|spo0B-associated GTP-binding protein, putative, expressed	329	+
+Os03t0752300-01_S_27	POT1273	- g - - - - - - - - - - c - - c - c - - c - -	4M	LOC_Os03g61340.1 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	177	-
+Os03t0752300-01_S_27	POT1274	- g - - - - - - - - g - c - - - - c - - c - -	4M	LOC_Os03g61360.1 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	189	-
+Os03t0752300-01_S_27	POT1275	- - - c - g - a - - - - - c - a - - - - - - -	5M	LOC_Os03g61610.1 CDS|expressed protein	27	-
+Os03t0752300-01_S_27	POT1285	- - c - - - - - - a a - - - g t - - - - - - -	5M	LOC_Os04g01460.1 CDS|expressed protein	145	+
+Os03t0752300-01_S_27	POT1359	- - - - c - - - a - - - g - - t - - - - - a -	4M	LOC_Os04g08740.3 CDS|ethylene receptor, putative, expressed	192	-
+Os03t0752300-01_S_27	POT1360	- - - - c - - - a - - - g - - t - - - - - a -	4M	LOC_Os04g08740.1 CDS|ethylene receptor, putative, expressed	192	-
+Os03t0752300-01_S_27	POT1361	- - - - c - - - a - - - g - - t - - - - - a -	4M	LOC_Os04g08740.2 CDS|ethylene receptor, putative, expressed	192	-
+Os03t0752300-01_S_27	POT1362	- - g - c - - - - - a - - - - - - - - a - a -	4M	LOC_Os04g08776.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	20	+
+Os03t0752300-01_S_27	POT1390	- - g - - c a - - - - - - - - - - a - - - - -	4M	LOC_Os04g13220.1 CDS|ABC transporter family protein, putative, expressed	84	-
+Os03t0752300-01_S_27	POT1440	- g - - - - g - - c g - c - - - - - - - - - -	5M	LOC_Os04g20330.1 CDS|UDP-glucoronosyl/UDP-glucosyl transferase, putative, expressed	69	-
+Os03t0752300-01_S_27	POT1441	- g - - - - g - - c a - c - - - - - - - - - -	5M	LOC_Os04g20400.1 CDS|cytokinin-O-glucosyltransferase 1, putative, expressed	69	-
+Os03t0752300-01_S_27	POT1478	- g - c - - - - - - - c c - - - - - t - - - -	5M	LOC_Os04g25590.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	188	-
+Os03t0752300-01_S_27	POT1509	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os04g29490.1 CDS|expressed protein	300	+
+Os03t0752300-01_S_27	POT1512	- - - - - - - - - - g - - - - - - a g - c - -	3M	LOC_Os04g29510.1 CDS|expressed protein	300	+
+Os03t0752300-01_S_27	POT1524	a g - - - - - - - - g - - - - - - t - - g - -	4M	LOC_Os04g32790.1 CDS|AP2 domain containing protein, expressed	357	-
+Os03t0752300-01_S_27	POT1540	- g - - - a - - - - a - - - - t c - - - - - -	5M	LOC_Os04g35790.3 CDS|GLTP domain containing protein, putative, expressed	168	+
+Os03t0752300-01_S_27	POT1541	- g - - - a - - - - a - - - - t c - - - - - -	5M	LOC_Os04g35790.1 CDS|GLTP domain containing protein, putative, expressed	168	+
+Os03t0752300-01_S_27	POT1542	- g - - - a - - - - a - - - - t c - - - - - -	5M	LOC_Os04g35790.2 CDS|GLTP domain containing protein, putative, expressed	168	+
+Os03t0752300-01_S_27	POT1612	t - - - - - - - a c a - - - - a - - - - - - -	5M	LOC_Os04g47555.1 CDS|expressed protein	235	-
+Os03t0752300-01_S_27	POT1637	- a - - t - - - t c - - c - - - - - - - - - -	5M	LOC_Os04g51794.1 CDS|DNA binding protein, putative, expressed	13	-
+Os03t0752300-01_S_27	POT1638	- a - - t - - - t c - - c - - - - - - - - - -	5M	LOC_Os04g51794.2 CDS|DNA binding protein, putative, expressed	52	-
+Os03t0752300-01_S_27	POT1647	- g - - - - g - - - g c - - - - - - g - - - -	5M	LOC_Os04g52670.1 CDS|OsSAUR21 - Auxin-responsive SAUR gene family member, expressed	525	+
+Os03t0752300-01_S_27	POT1655	- - - - - c - - t - - - g - - - - - c - c - -	4M	LOC_Os04g54210.1 CDS|expressed protein	42	+
+Os03t0752300-01_S_27	POT1670	- g - - - - g - c - - - c a - - - - - - - - -	5M	LOC_Os04g55920.2 CDS|zinc-finger protein, putative, expressed	51	+
+Os03t0752300-01_S_27	POT1671	- g - - - - g - c - - - c a - - - - - - - - -	5M	LOC_Os04g55920.1 CDS|zinc-finger protein, putative, expressed	51	+
+Os03t0752300-01_S_27	POT1692	- - c a - g - - a - - - - - - - a - - - - - -	5M	LOC_Os05g01330.1 CDS|expressed protein	188	-
+Os03t0752300-01_S_27	POT1712	- - c - - - - - - - - - - - - c - c c - - a -	4M	LOC_Os05g04370.1 CDS|expressed protein	381	-
+Os03t0752300-01_S_27	POT1786	- - c - - c g - c - - - - - - - a - - - - - -	5M	LOC_Os05g17300.1 CDS|expressed protein	415	+
+Os03t0752300-01_S_27	POT1802	- - - - - - - - - - - - c c - c - - c - c - -	4M	LOC_Os05g19150.1 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	186	-
+Os03t0752300-01_S_27	POT1834	- - - - c a a - - a g - - - - - - - - - - - -	5M	LOC_Os05g23240.1 CDS|CAX-interacting protein 4, putative, expressed	758	+
+Os03t0752300-01_S_27	POT1853	- g t - - c - - - - g - - - - - - - - - - - -	4M	LOC_Os05g25760.1 CDS|expressed protein	45	-
+Os03t0752300-01_S_27	POT1879	- - - - - a - - c - g - - - - a - - g - - - -	5M	LOC_Os05g29730.1 CDS|retrotransposon protein, putative, unclassified, expressed	39	+
+Os03t0752300-01_S_27	POT1895	- - c - - - a - - - g - - - - - - - - t g - -	4M	LOC_Os05g31744.1 CDS|expressed protein	76	-
+Os03t0752300-01_S_27	POT1911	- - c - - - t c - c - - - - - - c - - - - - -	5M	LOC_Os05g33690.3 CDS|receptor-like protein kinase precursor, putative, expressed	648	-
+Os03t0752300-01_S_27	POT1912	- - c - - - t c - c - - - - - - c - - - - - -	5M	LOC_Os05g33690.1 CDS|receptor-like protein kinase precursor, putative, expressed	648	-
+Os03t0752300-01_S_27	POT1930	t - - - - c - a a - g - - - - - - - - - - - -	5M	LOC_Os05g36010.1 CDS|OsSub47 - Putative Subtilisin homologue, expressed	849	-
+Os03t0752300-01_S_27	POT1949	c - - c - c a - - - - - c - - - - - - - - - -	5M	LOC_Os05g39200.1 CDS|expressed protein	74	-
+Os03t0752300-01_S_27	POT1951	- - c - - a t - a - g - - - - - - - - - - - -	5M	LOC_Os05g39440.1 CDS|expressed protein	401	+
+Os03t0752300-01_S_27	POT1978	- g - t a - - - - - g - - - - - - a - - - - -	5M	LOC_Os05g43060.1 CDS|retrotransposon, putative, centromere-specific, expressed	3193	+
+Os03t0752300-01_S_27	POT2048	- g - - - - - - t - g - - - - - - a g - - - -	5M	LOC_Os06g03780.1 CDS|NUC153 domain containing protein, expressed	2059	+
+Os03t0752300-01_S_27	POT2049	- g - - - c - - c - - - - - - - c - - - c - -	4M	LOC_Os06g03990.1 CDS|aminotransferase, classes I and II, domain containing protein, expressed	276	-
+Os03t0752300-01_S_27	POT2075	- - - - c - - - a - - - c - - c - - g - - - -	5M	LOC_Os06g07220.1 CDS|LTPL128 - Protease inhibitor/seed storage/LTP family protein precursor, expressed	657	-
+Os03t0752300-01_S_27	POT2170	- - - - - c - - - - g - - - - - - a t - t - -	4M	LOC_Os06g24260.1 CDS|expressed protein	147	+
+Os03t0752300-01_S_27	POT2191	- a - t - - t - t - a - - - - - - - - - - - -	5M	LOC_Os06g28150.1 CDS|transposon protein, putative, unclassified, expressed	456	+
+Os03t0752300-01_S_27	POT2219	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os06g32410.1 CDS|expressed protein	264	+
+Os03t0752300-01_S_27	POT2226	- - - - a - - c - - - - - c - - - - - - g a -	4M	LOC_Os06g32920.1 CDS|expressed protein	96	+
+Os03t0752300-01_S_27	POT2250	c a - - - g - - - - a - - - - - a - - - - - -	5M	LOC_Os06g37870.1 CDS|expressed protein	180	+
+Os03t0752300-01_S_27	POT2263	- - - - - - - - - c - a t - - a - t - - - - -	5M	LOC_Os06g40550.1 CDS|ABC-2 type transporter domain containing protein, expressed	1602	-
+Os03t0752300-01_S_27	POT2269	- - - - - c - - a - g c c - - - - - - - - - -	5M	LOC_Os06g42130.1 CDS|leucoanthocyanidin dioxygenase, putative, expressed	564	-
+Os03t0752300-01_S_27	POT2276	- g c c - - - - a - g - - - - - - - - - - - -	5M	LOC_Os06g42990.1 CDS|AP2 domain containing protein, expressed	213	+
+Os03t0752300-01_S_27	POT2280	- - - - - - - - - - a - g c g - - - - - g - -	4M	LOC_Os06g43820.1 CDS|expressed protein	165	+
+Os03t0752300-01_S_27	POT2281	- - g c - a - - c - - - c - - - - - - - - - -	5M	LOC_Os06g43900.1 CDS|ribosomal protein L35, putative, expressed	12	-
+Os03t0752300-01_S_27	POT2305	- - g - c - - - - - a - - - - - - - - a - a -	4M	LOC_Os06g47080.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	20	+
+Os03t0752300-01_S_27	POT2381	t - - - - - t - - - g t - - - t - - - - - - -	5M	LOC_Os07g04110.1 CDS|legume lectins beta domain containing protein, expressed	318	-
+Os03t0752300-01_S_27	POT2439	- - - c - g - - - c - - - - - - - a g - - - -	5M	LOC_Os07g12080.1 CDS|LTPL169 - Protease inhibitor/seed storage/LTP family protein precursor, expressed	15	-
+Os03t0752300-01_S_27	POT2511	- - - - - c a a - - - a - - - - - a - - - - -	5M	LOC_Os07g22620.1 CDS|retrotransposon protein, putative, unclassified, expressed	1657	-
+Os03t0752300-01_S_27	POT2512	t g - - - - - - - - - - g - - - - c g - - - -	5M	LOC_Os07g22670.1 CDS|mTERF domain containing protein, expressed	468	-
+Os03t0752300-01_S_27	POT2614	- - - - - - - - a - - - g - - a - c - - - - -	4M	LOC_Os07g36390.1 CDS|PPR repeat containing protein, expressed	321	-
+Os03t0752300-01_S_27	POT2623	- - c - - c - - c - - c - - c - - - - - - - -	5M	LOC_Os07g37150.1 CDS|expressed protein	68	+
+Os03t0752300-01_S_27	POT2635	- g - - - - - - - - - - g - - - t a c - - - -	5M	LOC_Os07g38890.1 CDS|OsGH3.9 - Probable indole-3-acetic acid-amido synthetase, expressed	687	+
+Os03t0752300-01_S_27	POT2690	- g - - - - - - - - - - - - t c - - - c t - -	4M	LOC_Os07g46370.1 CDS|WD domain, G-beta repeat domain containing protein, expressed	144	-
+Os03t0752300-01_S_27	POT2735	- - - - - a - - a - g - c - - - - - c - - - -	5M	LOC_Os08g01310.1 CDS|phospholipase C, putative, expressed	18	-
+Os03t0752300-01_S_27	POT2736	c g - - c - - - - - g a - - - - - - - - - - -	5M	LOC_Os08g01940.1 CDS|non-lysosomal glucosylceramidase, putative, expressed	1587	-
+Os03t0752300-01_S_27	POT2737	c g - - c - - - - - g a - - - - - - - - - - -	5M	LOC_Os08g01940.2 CDS|non-lysosomal glucosylceramidase, putative, expressed	1545	-
+Os03t0752300-01_S_27	POT2750	- - - - t - t - - - a - g - - - - - g - - - -	5M	LOC_Os08g03280.1 CDS|expressed protein	57	-
+Os03t0752300-01_S_27	POT2770	- - g a - g - - - - g - - - - - - - g - - - -	5M	LOC_Os08g06830.1 CDS|expressed protein	188	+
+Os03t0752300-01_S_27	POT2772	c t t - - - - - - t g - - - - - - - - - - - -	5M	LOC_Os08g07060.1 CDS|CRR6, putative, expressed	186	-
+Os03t0752300-01_S_27	POT2775	- - g - - - g c - - - - g a - - - - - - - - -	5M	LOC_Os08g07840.1 CDS|PolI-like DNA polymerase, putative, expressed	89	-
+Os03t0752300-01_S_27	POT2781	- g - - - c - - - - g a - - - a - - - - - - -	5M	LOC_Os08g08930.1 CDS|expressed protein	338	+
+Os03t0752300-01_S_27	POT2793	- g - - - c - - - - g - - - - - - - - a - - -	4M	LOC_Os08g09960.1 CDS|expressed protein	33	-
+Os03t0752300-01_S_27	POT2846	a a - - a - - c - - - c - - - - - - - - - - -	5M	LOC_Os08g17630.1 CDS|expressed protein	102	-
+Os03t0752300-01_S_27	POT2882	- g - - - a - - t - - a - - - - - a - - - - -	5M	LOC_Os08g20160.1 CDS|SWIM zinc finger family protein, putative, expressed	1321	+
+Os03t0752300-01_S_27	POT2919	- - t - c c - a - - g - - - - - - - - - - - -	5M	LOC_Os08g26380.1 CDS|expressed protein	406	+
+Os03t0752300-01_S_27	POT2931	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os08g27390.1 CDS|retrotransposon protein, putative, unclassified, expressed	357	+
+Os03t0752300-01_S_27	POT2951	a - t - - a - - - - t - - - - - - a - - - - -	5M	LOC_Os08g29490.1 CDS|retrotransposon protein, putative, unclassified, expressed	3679	+
+Os03t0752300-01_S_27	POT2977	- - - - c a - - - - g - - - - c - - - - - a -	4M	LOC_Os08g33430.1 CDS|formin, putative, expressed	33	-
+Os03t0752300-01_S_27	POT2984	c g - - - - g - - a g - - - - - - - - - - - -	5M	LOC_Os08g34740.1 CDS|SGT1 protein, putative, expressed	153	-
+Os03t0752300-01_S_27	POT3022	- - - - - - - - - a g - - - - - - c - - g a -	4M	LOC_Os08g39100.1 CDS|protein phosphatase 2C, putative, expressed	6	-
+Os03t0752300-01_S_27	POT3047	- g - - - a - - - c g - c - - - - - - - - - -	5M	LOC_Os08g42430.1 CDS|membrane associated DUF588 domain containing protein, putative, expressed	429	-
+Os03t0752300-01_S_27	POT3094	- g - - - c g - c - - - - - g - - - - - - - -	5M	LOC_Os09g06940.1 CDS|expressed protein	207	+
+Os03t0752300-01_S_27	POT3167	- - g - - g - t - - a - g - - - - - - - - - -	5M	LOC_Os09g15660.1 CDS|expressed protein	278	-
+Os03t0752300-01_S_27	POT3253	c - g - - - - - - - - - - - g - - a g - - - -	5M	LOC_Os09g35940.1 CDS|cytochrome P450, putative, expressed	1548	-
+Os03t0752300-01_S_27	POT3255	- g - c - - g - - - g - c - - - - - - - - - -	5M	LOC_Os09g36170.1 CDS|expressed protein	17	+
+Os03t0752300-01_S_27	POT3258	- - - - - a g - c - - - - - - c - - c - - - -	5M	LOC_Os09g36800.1 CDS|3-dehydroquinate synthase, putative, expressed	116	-
+Os03t0752300-01_S_27	POT3269	- - g - - - g - - - - - - - - a - - c - c - -	4M	LOC_Os09g38520.1 CDS|DOMON domain containing protein, expressed	273	-
+Os03t0752300-01_S_27	POT3274	- g - - - - - - t c - - g - t - - - - - - - -	5M	LOC_Os09g39750.1 CDS|domain of unknown function DUF966 domain containing protein, expressed	330	-
+Os03t0752300-01_S_27	POT3447	- - c - - - g - - - g - - - g - - - - - g - -	4M	LOC_Os10g32520.4 CDS|expressed protein	60	-
+Os03t0752300-01_S_27	POT3448	- - c - - - g - - - g - - - g - - - - - g - -	4M	LOC_Os10g32520.1 CDS|expressed protein	60	-
+Os03t0752300-01_S_27	POT3449	- - c - - - g - - - g - - - g - - - - - g - -	4M	LOC_Os10g32520.3 CDS|expressed protein	60	-
+Os03t0752300-01_S_27	POT3450	- - c - - - g - - - g - - - g - - - - - g - -	4M	LOC_Os10g32520.2 CDS|expressed protein	60	-
+Os03t0752300-01_S_27	POT3456	- g c - - - - - - - g - - - g a - - - - - - -	5M	LOC_Os10g34470.1 CDS|HD domain containing protein 2, putative, expressed	132	-
+Os03t0752300-01_S_27	POT3478	- - - - c a - - a - - - g - - - - - g - - - -	5M	LOC_Os10g38920.1 CDS|protein kinase domain containing protein, expressed	123	+
+Os03t0752300-01_S_27	POT3479	- g - - c g - - - - - - g - - - - - c - - - -	5M	LOC_Os10g39090.1 CDS|hydrolase, alpha/beta fold family protein, putative, expressed	183	-
+Os03t0752300-01_S_27	POT3481	- g - - c g - - - - - - g - - - - - c - - - -	5M	LOC_Os10g39090.2 CDS|hydrolase, alpha/beta fold family protein, putative, expressed	183	-
+Os03t0752300-01_S_27	POT3504	- - t t - - t - t - - - - - - - - - - - - - -	4M	LOC_Os11g01620.2 CDS|inactive receptor kinase At2g26730 precursor, putative, expressed	702	-
+Os03t0752300-01_S_27	POT3505	- - t t - - t - t - - - - - - - - - - - - - -	4M	LOC_Os11g01620.1 CDS|inactive receptor kinase At2g26730 precursor, putative, expressed	702	-
+Os03t0752300-01_S_27	POT3506	- g - - - - - - - c g - g - - - - - - - g - -	4M	LOC_Os11g01820.1 CDS|ATCHX, putative, expressed	465	-
+Os03t0752300-01_S_27	POT3510	- g c - - g - - c - - c - - - - - - - - - - -	5M	LOC_Os11g02190.1 CDS|expressed protein	201	-
+Os03t0752300-01_S_27	POT3519	c g - - - - - - - c g - - - g - - - - - - - -	5M	LOC_Os11g04200.1 CDS|M phase phosphoprotein 10, putative, expressed	87	-
+Os03t0752300-01_S_27	POT3524	- - g - c - - - - c - - g - - - - t - - - - -	5M	LOC_Os11g04350.1 CDS|cell death associated protein, putative, expressed	213	-
+Os03t0752300-01_S_27	POT3529	c - - - c - - c - - - - - - - a - - - - - - -	4M	LOC_Os11g05680.1 CDS|expressed protein	399	-
+Os03t0752300-01_S_27	POT3534	a - - - - a g - - - g - - - - - - - - - - - -	4M	LOC_Os11g06500.1 CDS|retrotransposon protein, putative, unclassified, expressed	818	+
+Os03t0752300-01_S_27	POT3566	- - - t - - - - - c a - - - c t - - - - - - -	5M	LOC_Os11g11660.1 CDS|expressed protein	918	+
+Os03t0752300-01_S_27	POT3574	- g - - a a g - - - g - - - - - - - - - - - -	5M	LOC_Os11g15320.1 CDS|expressed protein	102	+
+Os03t0752300-01_S_27	POT3580	c g t - - - - - - a g - - - - - - - - - - - -	5M	LOC_Os11g16420.2 CDS|protein of unknown function containing protein, expressed	284	+
+Os03t0752300-01_S_27	POT3581	c g t - - - - - - a g - - - - - - - - - - - -	5M	LOC_Os11g16420.1 CDS|protein of unknown function containing protein, expressed	284	+
+Os03t0752300-01_S_27	POT3589	t - - - - g - - - - g - - - - a - - c - - - -	5M	LOC_Os11g18730.1 CDS|glycosyl hydrolase family 3 protein, putative, expressed	2159	+
+Os03t0752300-01_S_27	POT3597	- - t t - g - - - - - - g - - - - - - c - - -	5M	LOC_Os11g19840.1 CDS|O-methyltransferase, putative, expressed	192	-
+Os03t0752300-01_S_27	POT3598	- - t t - g - - - - - - g - - - - - - - - - -	4M	LOC_Os11g19880.1 CDS|O-methyltransferase, putative, expressed	171	-
+Os03t0752300-01_S_27	POT3649	- - c - - - a - - - g - - - - - - - - t g - -	4M	LOC_Os11g31140.1 CDS|expressed protein	79	+
+Os03t0752300-01_S_27	POT3678	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os11g35160.1 CDS|retrotransposon protein, putative, unclassified, expressed	559	+
+Os03t0752300-01_S_27	POT3681	- - - - - c - - - - g - - - - - - a g - c - -	4M	LOC_Os11g35180.1 CDS|retrotransposon protein, putative, unclassified, expressed	443	+
+Os03t0752300-01_S_27	POT3708	- g - - - - - c - - - - c - - - - t c - - - -	5M	LOC_Os11g39040.1 CDS|expressed protein	408	+
+Os03t0752300-01_S_27	POT3709	- g - - - - - c - - - - c - - - - t c - - - -	5M	LOC_Os11g39050.1 CDS|expressed protein	390	+
+Os03t0752300-01_S_27	POT3765	- g - - a - - - - t - - - - - - - t g - - - -	5M	LOC_Os11g46920.1 CDS|retrotransposon protein, putative, unclassified, expressed	1884	+
+Os03t0752300-01_S_27	POT3773	t - - - - g a - a t - - - - - - - - - - - - -	5M	LOC_Os11g47710.1 CDS|SNF7 domain containing protein, putative, expressed	77	+
+Os03t0752300-01_S_27	POT3775	- - - t - g - - - - g a g - - - - - - - - - -	5M	LOC_Os11g47820.2 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	429	-
+Os03t0752300-01_S_27	POT3776	- - - t - g - - - - g a g - - - - - - - - - -	5M	LOC_Os11g47820.1 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	429	-
+Os03t0752300-01_S_27	POT3784	- - t t - - t - t - - - - - - - - - - - - - -	4M	LOC_Os12g01700.1 CDS|inactive receptor kinase At2g26730 precursor, putative, expressed	654	-
+Os03t0752300-01_S_27	POT3785	- g - - - - - - - c g - g - - - - - - - g - -	4M	LOC_Os12g01820.1 CDS|ATCHX, putative, expressed	465	-
+Os03t0752300-01_S_27	POT3789	- g c - - g - - c - - c - - - - - - - - - - -	5M	LOC_Os12g02130.1 CDS|expressed protein	201	-
+Os03t0752300-01_S_27	POT3792	- g - - - c g - a - - - - - - - - - - - - - -	4M	LOC_Os12g02730.1 CDS|histidine triad family protein, putative, expressed	58	-
+Os03t0752300-01_S_27	POT3800	c g - - - - - - - c g - - - g - - - - - - - -	5M	LOC_Os12g04010.1 CDS|M-phase phosphoprotein 10, putative, expressed	87	-
+Os03t0752300-01_S_27	POT3822	- g - - - - - - - - - c c - - t - - g - - - -	5M	LOC_Os12g07120.1 CDS|GATA zinc finger domain containing protein, expressed	392	+
+Os03t0752300-01_S_27	POT3823	- g - - - - g - - - - - - - - - - t g - g - -	4M	LOC_Os12g07540.1 CDS|growth regulator related protein, putative, expressed	189	+
+Os03t0752300-01_S_27	POT3854	- - g - - - - - a - - - c c - c - - - - - - -	5M	LOC_Os12g12290.1 CDS|exostosin family domain containing protein, expressed	602	+
+Os03t0752300-01_S_27	POT3865	- g g - c g - - - - - - - - c - - - - - - - -	5M	LOC_Os12g14374.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	177	+
+Os03t0752300-01_S_27	POT3870	- g - - - a g - - a - - - - - - - - c - - - -	5M	LOC_Os12g15520.1 CDS|expressed protein	159	-
+Os03t0752300-01_S_27	POT3871	- g - - - a g - - a - - - - - - - - c - - - -	5M	LOC_Os12g15520.2 CDS|expressed protein	159	-
+Os03t0752300-01_S_27	POT3991	- g - - - - t - - - g - - - g - - - - - g - -	4M	LOC_Os12g29550.1 CDS|expressed protein	26	+
+Os03t0752300-01_S_27	POT3993	- g - - - g a - a - g - - - - - - - - - - - -	5M	LOC_Os12g29750.1 CDS|protein of unknown function DUF502 domain containing protein, expressed	8	+
+Os03t0752300-01_S_27	POT4089	- g - - - - - - - - g - c - - - - - c - c - -	4M	LOC_Os12g43970.1 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	168	-

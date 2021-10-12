@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_40_POT1144	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	106	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_40_POT1197	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	106	+	seed_ident	
+g g - - - a t - - - t - - - - - - - - - - - -	5M	Os03t0752300-01_S_40_POT2079	LOC_Os06g07480.1 CDS|CDK-activating kinase assembly factor MAT1 family protein, expressed	448	+	regionI_ident	

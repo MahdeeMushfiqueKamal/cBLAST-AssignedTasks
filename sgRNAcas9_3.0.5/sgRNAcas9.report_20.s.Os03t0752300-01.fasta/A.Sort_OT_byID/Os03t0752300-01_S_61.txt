@@ -1,0 +1,11 @@
+Os03t0752300-01_S_61	POT36	- - - - c - - - t t t - t - - - - - - - - - -	5M	LOC_Os01g07410.1 CDS|growth regulator related protein, putative, expressed	728	-
+Os03t0752300-01_S_61	POT196	- - t - - g - a - - - g - - - - - - - a - - -	5M	LOC_Os01g35960.1 CDS|expressed protein	688	+
+Os03t0752300-01_S_61	POT476	c - - - - - c g c - - - - - - c - - - - - - -	5M	LOC_Os02g06720.1 CDS|WD domain containing protein, putative, expressed	1576	+
+Os03t0752300-01_S_61	POT1104	- - - g - - - - a - c - - - - - - - a - - a -	4M	LOC_Os03g51090.1 CDS|OsFBDUF17 - F-box and DUF domain containing protein, expressed	73	-
+Os03t0752300-01_S_61	POT1163	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	481	+
+Os03t0752300-01_S_61	POT1216	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	481	+
+Os03t0752300-01_S_61	POT2051	- - - - - t t t - - - - - - - - - t - c - - -	5M	LOC_Os06g04190.2 CDS|rad1, putative, expressed	527	-
+Os03t0752300-01_S_61	POT2052	- - - - - t t t - - - - - - - - - t - c - - -	5M	LOC_Os06g04190.1 CDS|rad1, putative, expressed	527	-
+Os03t0752300-01_S_61	POT2077	- - - - - - - - - g - - - - - - - c c - c a -	4M	LOC_Os06g07430.1 CDS|OsFBX189 - F-box domain containing protein, expressed	172	-
+Os03t0752300-01_S_61	POT2643	- - t - - - - - - t - - - a - g c - - - - - -	5M	LOC_Os07g39140.1 CDS|expressed protein	306	+
+Os03t0752300-01_S_61	POT3982	c - - - - - - a - - - g - - a - t - - - - - -	5M	LOC_Os12g28040.1 CDS|NBS-LRR disease resistance protein, putative, expressed	1663	-

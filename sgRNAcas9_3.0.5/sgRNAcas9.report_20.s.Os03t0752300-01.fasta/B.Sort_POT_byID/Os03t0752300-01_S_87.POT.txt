@@ -1,0 +1,7 @@
+- - g - - - g - c - - - g - - - - - - - c - -	4M	Os03t0752300-01_S_87_POT146	LOC_Os01g25060.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1837	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_87_POT1188	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	906	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_87_POT1241	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	906	+	seed_ident	
+- t - - - c - t - a a - - - - - - - - - - - -	5M	Os03t0752300-01_S_87_POT2955	LOC_Os08g30580.1 CDS|hypothetical protein	92	+	regionI_ident	
+- a - - c t g - - - - - - - - - - - - - a - -	4M	Os03t0752300-01_S_87_POT3639	LOC_Os11g29450.1 CDS|retrotransposon protein, putative, unclassified, expressed	519	+	seed_ident	
+- - - - c - - - - - - - - - - - c - g - - a -	3M	Os03t0752300-01_S_87_POT3710	LOC_Os11g39160.1 CDS|NBS-LRR disease resistance protein, putative, expressed	1017	+	random_0_3M	
+- a - - - t a - - - - - - - - - - - - - a a -	4M	Os03t0752300-01_S_87_POT3983	LOC_Os12g28200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	621	+	seed_ident	

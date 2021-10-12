@@ -1,0 +1,3 @@
+- - g a c - - - - a - - c - - - - - - - - - -	5M	Os03t0752300-01_S_34_POT2089	LOC_Os06g08900.1 CDS|glutamate receptor 2.6 precursor, putative, expressed	962	+	regionI_ident	
+- - g a c - - - - a - - c - - - - - - - - - -	5M	Os03t0752300-01_S_34_POT2090	LOC_Os06g08930.1 CDS|glutamate receptor 2.8 precursor, putative, expressed	47	+	regionI_ident	
+g - - - - c a g - - - - a - - - - - - - - - -	5M	Os03t0752300-01_S_34_POT2914	LOC_Os08g24810.1 CDS|expressed protein	84	+	regionI_ident	

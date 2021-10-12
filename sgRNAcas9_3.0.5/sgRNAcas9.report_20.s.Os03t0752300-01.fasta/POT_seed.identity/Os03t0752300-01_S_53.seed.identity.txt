@@ -1,0 +1,8 @@
+- - g c - c g - - - - - - - - - - - - - c - -	4M	POT300	LOC_Os01g52070.1 CDS|potassium channel AKT1, putative, expressed	688	+	Os03t0752300-01_S_53
+- - c c - t t - - - - - - - - - - - - - c - -	4M	POT971	LOC_Os03g28120.1 CDS|potassium channel protein, putative, expressed	292	+	Os03t0752300-01_S_53
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1154	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	319	+	Os03t0752300-01_S_53
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1207	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	319	+	Os03t0752300-01_S_53
+- - c - - - - - - - - - - - - - - - - - c - -	1M	POT1927	LOC_Os05g35410.1 CDS|potassium channel AKT2/3, putative, expressed	355	+	Os03t0752300-01_S_53
+- - c - - - - - - - - - - - - - - - - - c - -	1M	POT2349	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	322	+	Os03t0752300-01_S_53
+- - c c - c t - - - - - - - - - - - - - c - -	4M	POT2402	LOC_Os07g07910.1 CDS|potassium channel AKT1, putative, expressed	796	+	Os03t0752300-01_S_53
+- - c c - c t - - - - - - - - - - - - - c - -	4M	POT3790	LOC_Os12g02589.1 CDS|hydrolase, alpha/beta fold family protein, putative, expressed	19	+	Os03t0752300-01_S_53

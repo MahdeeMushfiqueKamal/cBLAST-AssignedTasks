@@ -1,0 +1,1 @@
+a - - c - - t - g a - - - - - - - - - - - - -	5M	Os03t0752300-01_S_19_POT3817	LOC_Os12g06840.1 CDS|ATEXO70C2, putative, expressed	775	-	regionI_ident	

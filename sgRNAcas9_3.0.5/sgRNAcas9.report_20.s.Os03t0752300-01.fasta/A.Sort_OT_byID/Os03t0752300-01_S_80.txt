@@ -1,0 +1,21 @@
+Os03t0752300-01_S_80	POT238	- - - c - - - - - - t - - - t - t - g - - - -	5M	LOC_Os01g42080.1 CDS|zinc ion binding protein, putative, expressed	1657	-
+Os03t0752300-01_S_80	POT430	a c - - - - - - - - - - - - - a a - g - - - -	5M	LOC_Os01g74650.1 CDS|cysteine synthase, mitochondrial precursor, putative, expressed	1119	+
+Os03t0752300-01_S_80	POT432	a c - - - - - - - - - - - - - a a - g - - - -	5M	LOC_Os01g74650.2 CDS|cysteine synthase, mitochondrial precursor, putative, expressed	1068	+
+Os03t0752300-01_S_80	POT434	a c - - - - - - - - - - - - - a a - g - - - -	5M	LOC_Os01g74650.3 CDS|cysteine synthase, mitochondrial precursor, putative, expressed	1065	+
+Os03t0752300-01_S_80	POT593	- - - - - - - - - - a t - - a t - - - a - - -	5M	LOC_Os02g27090.1 CDS|transposon protein, putative, unclassified	95	+
+Os03t0752300-01_S_80	POT633	t - g t - - - - - - - t - - - - t - - - - - -	5M	LOC_Os02g36470.1 CDS|retrotransposon protein, putative, unclassified, expressed	5175	-
+Os03t0752300-01_S_80	POT851	- - - c - - - c - g - a - - - - - - - - - a -	4M	LOC_Os03g08890.1 CDS|hypothetical protein	120	+
+Os03t0752300-01_S_80	POT1119	t - - - - c - - - - - - - - - - - t g g - - -	5M	LOC_Os03g52630.1 CDS|endoglucanase, putative, expressed	1719	+
+Os03t0752300-01_S_80	POT1121	t - - - - c - - - - - - - - - - - t g g - - -	5M	LOC_Os03g52630.2 CDS|endoglucanase, putative, expressed	1350	+
+Os03t0752300-01_S_80	POT1181	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	800	+
+Os03t0752300-01_S_80	POT1234	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	800	+
+Os03t0752300-01_S_80	POT1297	- - g - - c - - - - - t - - - - - - - c g - -	4M	LOC_Os04g02720.1 CDS|potassium channel KAT2, putative, expressed	782	+
+Os03t0752300-01_S_80	POT1584	t - a - - t - t - - - a - - - - - - - - - - -	5M	LOC_Os04g43030.1 CDS|lipase class 3 family protein, putative, expressed	402	+
+Os03t0752300-01_S_80	POT1892	- - a - - - t - c - - - - - - - - - - c a - -	4M	LOC_Os05g31500.1 CDS|expressed protein	56	+
+Os03t0752300-01_S_80	POT2264	- - - - - - - - - g - - - c - t - t t - - - -	5M	LOC_Os06g40840.1 CDS|microtubule associated protein, putative, expressed	1269	+
+Os03t0752300-01_S_80	POT2732	t - t t c - - - t - - - - - - - - - - - - - -	5M	LOC_Os08g01040.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1485	+
+Os03t0752300-01_S_80	POT2853	t - - - - - - - t - - - - - c t - - g - - - -	5M	LOC_Os08g18110.3 CDS|alpha-soluble NSF attachment protein, putative, expressed	474	+
+Os03t0752300-01_S_80	POT2855	t - - - - - - - t - - - - - c t - - g - - - -	5M	LOC_Os08g18110.1 CDS|alpha-soluble NSF attachment protein, putative, expressed	474	+
+Os03t0752300-01_S_80	POT2857	t - - - - - - - t - - - - - c t - - g - - - -	5M	LOC_Os08g18110.2 CDS|alpha-soluble NSF attachment protein, putative, expressed	474	+
+Os03t0752300-01_S_80	POT3249	- - - - - - - - - - c - - - t t g - - - - - -	4M	LOC_Os09g32810.2 CDS|ribulose-phosphate 3-epimerase, putative, expressed	360	+
+Os03t0752300-01_S_80	POT3786	- c - - - c - - - - - - - - t - a t - - - - -	5M	LOC_Os12g01850.1 CDS|pentatricopeptide, putative, expressed	1314	+

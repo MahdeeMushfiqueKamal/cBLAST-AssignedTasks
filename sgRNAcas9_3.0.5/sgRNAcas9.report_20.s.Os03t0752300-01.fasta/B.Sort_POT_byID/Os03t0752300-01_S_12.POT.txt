@@ -1,0 +1,5 @@
+t a - c a - - - - - - - g - - - - - - - - - -	5M	Os03t0752300-01_S_12_POT844	LOC_Os03g08200.1 CDS|DUF567 domain containing protein, putative, expressed	514	+	regionI_ident	
+- - - - a g - - - t - c - - - - - - - - c - -	4M	Os03t0752300-01_S_12_POT2085	LOC_Os06g07878.1 CDS|peptidase, T1 family, putative, expressed	637	+	regionI_ident	
+- - - - a g - - - t - c - - - - - - - - c - -	4M	Os03t0752300-01_S_12_POT2086	LOC_Os06g07978.1 CDS|peptidase, T1 family, putative, expressed	637	+	regionI_ident	
+- - - - c g - c - - - - g - - - - - - - g - -	4M	Os03t0752300-01_S_12_POT2983	LOC_Os08g34280.1 CDS|cinnamoyl-CoA reductase, putative, expressed	46	+	regionI_ident	
+- g t - - - - g a - - - g - - - - - - - - - -	5M	Os03t0752300-01_S_12_POT3622	LOC_Os11g25990.1 CDS|indole-3-acetate beta-glucosyltransferase, putative, expressed	1062	+	regionI_ident	

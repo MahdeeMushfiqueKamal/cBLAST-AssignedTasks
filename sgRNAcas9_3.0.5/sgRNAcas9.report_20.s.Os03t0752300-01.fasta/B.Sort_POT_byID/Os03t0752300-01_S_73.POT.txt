@@ -1,0 +1,6 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_73_POT1176	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	687	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_73_POT1229	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	687	+	seed_ident	
+c - - - - - - - - a - - - - - a - - - - a - -	3M	Os03t0752300-01_S_73_POT2928	LOC_Os08g27240.1 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	1013	-	random_0_3M	
+c - - - - - - - - g - - - - - a - - - - a - -	3M	Os03t0752300-01_S_73_POT2997	LOC_Os08g35010.1 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	461	-	random_0_3M	
+- - - - - t - a g - - - t - - - - - - - - a -	4M	Os03t0752300-01_S_73_POT3638	LOC_Os11g29110.1 CDS|Leucine Rich Repeat family protein, expressed	2363	-	regionI_ident	
+a - c t - - - - g t - - - - - - - - - - - - -	5M	Os03t0752300-01_S_73_POT4084	LOC_Os12g43520.1 CDS|cbbY protein-related, putative, expressed	746	-	regionI_ident	

@@ -1,0 +1,29 @@
+Os03t0752300-01_S_77	POT248	- - - - t a - - - - - a - - - - - - a c - - -	5M	LOC_Os01g43030.1 CDS|tetratricopeptide repeat domain containing protein, expressed	1182	-
+Os03t0752300-01_S_77	POT249	- - - - t a - - - - - a - - - - - - a c - - -	5M	LOC_Os01g43030.2 CDS|tetratricopeptide repeat domain containing protein, expressed	1182	-
+Os03t0752300-01_S_77	POT381	- - c - - - a - - a - g - - - - t - - - - - -	5M	LOC_Os01g66080.1 CDS|retrotransposon protein, putative, unclassified, expressed	54	-
+Os03t0752300-01_S_77	POT441	c - - - c - - - - - - - c - - - g g - - - - -	5M	LOC_Os02g02450.1 CDS|transposon protein, putative, unclassified, expressed	1758	+
+Os03t0752300-01_S_77	POT690	c - - - - - c - - - g a - - - - - g - - - - -	5M	LOC_Os02g44120.1 CDS|ZOS2-13 - C2H2 zinc finger protein, expressed	1083	+
+Os03t0752300-01_S_77	POT775	c - - - - - - - t - - - g - g - - g - - - - -	5M	LOC_Os02g54840.1 CDS|expressed protein	415	+
+Os03t0752300-01_S_77	POT884	- - a - - a - - - - - - c - g - - c - - - - -	5M	LOC_Os03g13560.1 CDS|hydroxyproline-rich glycoprotein family protein, putative, expressed	1752	+
+Os03t0752300-01_S_77	POT1178	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	735	+
+Os03t0752300-01_S_77	POT1231	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	735	+
+Os03t0752300-01_S_77	POT1656	c - - - - - c - c - - - c - - - - - - - c - -	4M	LOC_Os04g54330.1 CDS|acetyltransferase, GNAT family, putative, expressed	484	+
+Os03t0752300-01_S_77	POT1657	c - - - - - c - c - - - c - - - - - - - c - -	4M	LOC_Os04g54330.3 CDS|acetyltransferase, GNAT family, putative, expressed	484	+
+Os03t0752300-01_S_77	POT1658	c - - - - - c - c - - - c - - - - - - - c - -	4M	LOC_Os04g54330.2 CDS|acetyltransferase, GNAT family, putative, expressed	484	+
+Os03t0752300-01_S_77	POT1810	- - - - - g a - t - - - - - - - - - - - g - -	3M	LOC_Os05g20090.1 CDS|retrotransposon protein, putative, unclassified, expressed	948	-
+Os03t0752300-01_S_77	POT2201	- t - - - g - - - - t - - - - - - g - t - - -	5M	LOC_Os06g30070.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2771	-
+Os03t0752300-01_S_77	POT2537	- t - - - a - - - - t - - - - - - g - t - - -	5M	LOC_Os07g27200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3746	-
+Os03t0752300-01_S_77	POT2587	- t - - - g a - t - - - - g - - - - - - - - -	5M	LOC_Os07g32350.1 CDS|WD domain, G-beta repeat domain containing protein, expressed	1200	-
+Os03t0752300-01_S_77	POT2610	- g - - - - t g - - - - - - a - - - - c - - -	5M	LOC_Os07g35650.1 CDS|TKL_IRAK_DUF26-lc.2 - DUF26 kinases have homology to DUF26 containing loci, expressed	1959	-
+Os03t0752300-01_S_77	POT2945	- - - - - - t g a - - - g - - - t - - - - - -	5M	LOC_Os08g28490.1 CDS|retrotransposon protein, putative, unclassified	234	+
+Os03t0752300-01_S_77	POT2950	- t - - - g - - - - t - - - - - - g - t - - -	5M	LOC_Os08g29420.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	197	-
+Os03t0752300-01_S_77	POT2970	- t - - - a - - - - t - - - - - - g - t - - -	5M	LOC_Os08g32260.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2507	-
+Os03t0752300-01_S_77	POT3018	- - c - t - a - t - - a - - - - - - - - - - -	5M	LOC_Os08g38440.1 CDS|GRAM and C2 domains containing protein, putative, expressed	2051	+
+Os03t0752300-01_S_77	POT3050	- t - - - - t g - - - - - g c - - - - - - - -	5M	LOC_Os08g42530.1 CDS|SFC, putative, expressed	1344	-
+Os03t0752300-01_S_77	POT3136	c c - - - t - - - - - - g - a - - - - - - - -	5M	LOC_Os09g12730.2 CDS|RNA recognition motif containing protein, expressed	1920	-
+Os03t0752300-01_S_77	POT3137	c c - - - t - - - - - - g - a - - - - - - - -	5M	LOC_Os09g12730.1 CDS|RNA recognition motif containing protein, expressed	1920	-
+Os03t0752300-01_S_77	POT3221	g - - - - - - - - - t - c - - - - g g - - - -	5M	LOC_Os09g27260.1 CDS|plant viral response family protein, putative, expressed	185	-
+Os03t0752300-01_S_77	POT3284	- t - - - a - - - - t - - - - - - g - t - - -	5M	LOC_Os10g01950.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	545	-
+Os03t0752300-01_S_77	POT3706	- g - - - t - - - - - a - - - a - g - - - - -	5M	LOC_Os11g38800.1 CDS|zinc finger family protein, putative, expressed	310	+
+Os03t0752300-01_S_77	POT3707	- g - - - t - - - - - a - - - a - g - - - - -	5M	LOC_Os11g38800.2 CDS|zinc finger family protein, putative, expressed	310	+
+Os03t0752300-01_S_77	POT3788	c - - - - - - - - - - - - g - a c - t - - - -	5M	LOC_Os12g01910.1 CDS|pentatricopeptide, putative, expressed	533	-

@@ -1,0 +1,17 @@
+Os03t0752300-01_S_34	POT1515	- - - a - - g - - t - - - - - g - a - - - - -	5M	LOC_Os04g31180.1 CDS|retrotransposon protein, putative, unclassified, expressed	383	+
+Os03t0752300-01_S_34	POT1560	- - - c - c a - - - a - - - c - - - - - - - -	5M	LOC_Os04g39930.1 CDS|receptor-like protein kinase, putative, expressed	505	+
+Os03t0752300-01_S_34	POT1623	- - - - - - a - g - - - - g - - a - - c - - -	5M	LOC_Os04g49450.1 CDS|MYB family transcription factor, putative, expressed	549	+
+Os03t0752300-01_S_34	POT1624	- - - - - - a - g - - - - g - - a - - c - - -	5M	LOC_Os04g49450.2 CDS|MYB family transcription factor, putative, expressed	252	+
+Os03t0752300-01_S_34	POT1664	g - - - - - - - - - - - - g - - t t - t - - -	5M	LOC_Os04g55410.1 CDS|FGGY family of carbohydrate kinases, putative, expressed	1338	+
+Os03t0752300-01_S_34	POT2024	c - - - - - - - - - - - - - c - g - t - a - -	4M	LOC_Os06g01650.2 CDS|expressed protein	1470	+
+Os03t0752300-01_S_34	POT2025	c - - - - - - - - - - - - - c - g - t - a - -	4M	LOC_Os06g01650.1 CDS|expressed protein	1470	+
+Os03t0752300-01_S_34	POT2089	- - g a c - - - - a - - c - - - - - - - - - -	5M	LOC_Os06g08900.1 CDS|glutamate receptor 2.6 precursor, putative, expressed	962	+
+Os03t0752300-01_S_34	POT2090	- - g a c - - - - a - - c - - - - - - - - - -	5M	LOC_Os06g08930.1 CDS|glutamate receptor 2.8 precursor, putative, expressed	47	+
+Os03t0752300-01_S_34	POT2780	- - - a - - g - - t - - - - - g - a - - - - -	5M	LOC_Os08g08720.1 CDS|retrotransposon protein, putative, unclassified, expressed	854	+
+Os03t0752300-01_S_34	POT2914	g - - - - c a g - - - - a - - - - - - - - - -	5M	LOC_Os08g24810.1 CDS|expressed protein	84	+
+Os03t0752300-01_S_34	POT2979	- - - a - - g - - t - - - - - g - a - - - - -	5M	LOC_Os08g33870.1 CDS|retrotransposon protein, putative, unclassified, expressed	1955	+
+Os03t0752300-01_S_34	POT3684	- - - - - - - - - a - - - g g a - a - - - - -	5M	LOC_Os11g35210.1 CDS|NB-ARC domain containing protein, expressed	176	+
+Os03t0752300-01_S_34	POT3910	- g t - - - g - - - - - - - - - - - c - - a -	4M	LOC_Os12g20350.1 CDS|retrotransposon protein, putative, unclassified, expressed	240	-
+Os03t0752300-01_S_34	POT3912	- g t - - - g - - - - - - - - - - - c - - a -	4M	LOC_Os12g21770.1 CDS|retrotransposon protein, putative, unclassified, expressed	240	-
+Os03t0752300-01_S_34	POT3924	- a t - - - g - - - - - - - - - - - c - - a -	4M	LOC_Os12g23010.1 CDS|retrotransposon protein, putative, unclassified, expressed	240	-
+Os03t0752300-01_S_34	POT3985	- g t - - - g - - - - - - - - - - - c - - a -	4M	LOC_Os12g28280.1 CDS|retrotransposon protein, putative, unclassified, expressed	240	-

@@ -1,0 +1,6 @@
+- g - g - c g - - - - t - - - - - - - - - - -	5M	Os03t0752300-01_S_58_POT312	LOC_Os01g54600.1 CDS|WRKY13, expressed	636	+	regionI_ident	
+- g - c - - - - - - - - - - - - - - t - g - -	3M	Os03t0752300-01_S_58_POT1105	LOC_Os03g51260.1 CDS|expressed protein	333	-	random_0_3M	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_58_POT1160	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	441	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_58_POT1213	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	441	+	seed_ident	
+c - - c - - c - - c - - - - - - - - - - - - -	4M	Os03t0752300-01_S_58_POT2351	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	444	+	regionI_ident	
+- c - - - - - - - - - - t c - - - - - - - a -	3M	Os03t0752300-01_S_58_POT2777	LOC_Os08g07950.1 CDS|NB-ARC domain containing protein, expressed	3211	-	random_0_3M	

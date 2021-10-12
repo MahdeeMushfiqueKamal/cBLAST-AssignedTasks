@@ -1,0 +1,3 @@
+g - - a - a g - - - - - - - - - - - - - - a -	4M	POT209	LOC_Os01g37980.1 CDS|vesicle transport v-SNARE protein, putative, expressed	153	+	Os03t0752300-01_S_84
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1185	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	837	+	Os03t0752300-01_S_84
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1238	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	837	+	Os03t0752300-01_S_84

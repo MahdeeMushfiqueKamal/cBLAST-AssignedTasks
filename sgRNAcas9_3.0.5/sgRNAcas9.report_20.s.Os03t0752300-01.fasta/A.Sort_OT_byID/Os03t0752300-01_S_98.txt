@@ -1,0 +1,8 @@
+Os03t0752300-01_S_98	POT998	- - - - - a - - - - - - - g c a c - - - - - -	5M	LOC_Os03g32460.1 CDS|retrotransposon, putative, centromere-specific, expressed	880	-
+Os03t0752300-01_S_98	POT2363	c - g - - - - - - - - - - t g - - g - - - - -	5M	LOC_Os07g02520.1 CDS|expressed protein	2095	+
+Os03t0752300-01_S_98	POT3168	- - - - - - a - - - g a - c - - - - - t - - -	5M	LOC_Os09g16050.1 CDS|ankyrin repeat family protein, putative, expressed	340	-
+Os03t0752300-01_S_98	POT3178	t - - - - - - - g - - - - - t - - g - - a - -	4M	LOC_Os09g18060.1 CDS|hypothetical protein	78	-
+Os03t0752300-01_S_98	POT3376	- a - - a - - - - - - g - - c - - - g - - - -	5M	LOC_Os10g18400.1 CDS|beta-galactosidase precursor, putative, expressed	886	+
+Os03t0752300-01_S_98	POT3384	- a - - a - - - - - - g - - c - - - g - - - -	5M	LOC_Os10g19960.1 CDS|beta-galactosidase, putative, expressed	886	+
+Os03t0752300-01_S_98	POT3825	- a g c - - - - a - - - - - - - - - t - - - -	5M	LOC_Os12g07770.1 CDS|retrotransposon protein, putative, unclassified, expressed	333	-
+Os03t0752300-01_S_98	POT4053	- - - - - - a - g - - t - - - - - g - - - a -	4M	LOC_Os12g39210.1 CDS|cyclin, putative, expressed	1136	+

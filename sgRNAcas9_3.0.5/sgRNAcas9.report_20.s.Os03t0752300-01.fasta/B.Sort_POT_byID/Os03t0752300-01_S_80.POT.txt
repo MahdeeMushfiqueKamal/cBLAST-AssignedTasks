@@ -1,0 +1,5 @@
+- - - c - - - c - g - a - - - - - - - - - a -	4M	Os03t0752300-01_S_80_POT851	LOC_Os03g08890.1 CDS|hypothetical protein	120	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_80_POT1181	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	800	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_80_POT1234	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	800	+	seed_ident	
+t - a - - t - t - - - a - - - - - - - - - - -	5M	Os03t0752300-01_S_80_POT1584	LOC_Os04g43030.1 CDS|lipase class 3 family protein, putative, expressed	402	+	regionI_ident	
+t - t t c - - - t - - - - - - - - - - - - - -	5M	Os03t0752300-01_S_80_POT2732	LOC_Os08g01040.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1485	+	regionI_ident	

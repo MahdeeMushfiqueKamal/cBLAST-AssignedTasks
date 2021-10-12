@@ -1,0 +1,12 @@
+Os03t0752300-01_S_65	POT1167	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	575	+
+Os03t0752300-01_S_65	POT1220	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	575	+
+Os03t0752300-01_S_65	POT1485	- - - - t - - - - - - - - - t c - - - - t - -	3M	LOC_Os04g26380.1 CDS|aspartic proteinase-like protein 2 precursor, putative, expressed	261	+
+Os03t0752300-01_S_65	POT1831	- c - g - - - - - g - t g - - - - - - - - - -	5M	LOC_Os05g22770.1 CDS|retrotransposon protein, putative, unclassified, expressed	3523	+
+Os03t0752300-01_S_65	POT2157	- - - - - - a t - g - - c - - - - - - - t - -	4M	LOC_Os06g21670.1 CDS|retrotransposon protein, putative, unclassified, expressed	702	+
+Os03t0752300-01_S_65	POT2182	- - - - - a - - - - t - - - - g - g t - - - -	5M	LOC_Os06g26030.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	462	-
+Os03t0752300-01_S_65	POT2790	- - - - - - - - - - g - c - g - c g - - - - -	5M	LOC_Os08g09890.1 CDS|expressed protein	1348	+
+Os03t0752300-01_S_65	POT2851	g - - - - a - c - - - - - - - c - - - - t - -	4M	LOC_Os08g17990.1 CDS|retrotransposon protein, putative, unclassified, expressed	2631	+
+Os03t0752300-01_S_65	POT3054	- - - - - a - c - g - - - - - c - - - - t - -	4M	LOC_Os08g43110.1 CDS|retrotransposon protein, putative, unclassified, expressed	3447	+
+Os03t0752300-01_S_65	POT3726	- - - - - t - g - t - c - - c - - - - - - - -	5M	LOC_Os11g40810.1 CDS|receptor kinase, putative, expressed	99	+
+Os03t0752300-01_S_65	POT4026	- - - - - - g t - g - - c - - - - - - - t - -	4M	LOC_Os12g34040.1 CDS|retrotransposon protein, putative, unclassified, expressed	624	+
+Os03t0752300-01_S_65	POT4071	- - - a - - c - - - - - c a - - - - - a - - -	5M	LOC_Os12g42060.1 CDS|OsWAK128b - OsWAK receptor-like protein kinase, expressed	1059	-

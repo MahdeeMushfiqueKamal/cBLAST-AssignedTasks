@@ -1,0 +1,32 @@
+Os03t0752300-01_S_2	POT92	- a g c - - - - - - a - - - - g - - - - - - -	5M	LOC_Os01g16340.1 CDS|expressed protein	482	-
+Os03t0752300-01_S_2	POT180	- - - - - - - - t - a a - - - - - - c a - - -	5M	LOC_Os01g33930.1 CDS|expressed protein	897	+
+Os03t0752300-01_S_2	POT326	a - - - - t a - - - c - - - - - - - - a - - -	5M	LOC_Os01g56000.1 CDS|RNA recognition motif containing protein, expressed	1345	+
+Os03t0752300-01_S_2	POT400	- - c - - - - - - - g - - - g c - - c - - - -	5M	LOC_Os01g69240.1 CDS|CBS domain containing membrane protein, putative, expressed	812	-
+Os03t0752300-01_S_2	POT612	- - - - g a - - - t - - - g - g - - - - - - -	5M	LOC_Os02g32660.1 CDS|1,4-alpha-glucan-branching enzyme, chloroplast precursor, putative, expressed	2338	+
+Os03t0752300-01_S_2	POT846	- - - - - a g - - - g - t c - - - - - - - - -	5M	LOC_Os03g08370.1 CDS|transposon protein, putative, unclassified, expressed	890	-
+Os03t0752300-01_S_2	POT1062	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.2 CDS|transporter family protein, putative, expressed	1054	+
+Os03t0752300-01_S_2	POT1063	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.5 CDS|transporter family protein, putative, expressed	1021	+
+Os03t0752300-01_S_2	POT1064	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.6 CDS|transporter family protein, putative, expressed	1054	+
+Os03t0752300-01_S_2	POT1065	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.1 CDS|transporter family protein, putative, expressed	1054	+
+Os03t0752300-01_S_2	POT1066	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.3 CDS|transporter family protein, putative, expressed	1054	+
+Os03t0752300-01_S_2	POT1067	- - - - t t - - t - - - - - - t - g - - - - -	5M	LOC_Os03g43720.4 CDS|transporter family protein, putative, expressed	1054	+
+Os03t0752300-01_S_2	POT1135	- a - - - - t - - a - - - - - c - g - - - - -	5M	LOC_Os03g53660.1 CDS|Myosin head domain containing protein, expressed	1822	+
+Os03t0752300-01_S_2	POT1290	- g - - - - - - - - - - - c c g - - c - - - -	5M	LOC_Os04g01740.1 CDS|heat shock protein, putative, expressed	1337	-
+Os03t0752300-01_S_2	POT1494	t - c - - t - - - - - a - - - - - - - - - - -	4M	LOC_Os04g28000.1 CDS|B3 DNA binding domain containing protein, expressed	392	-
+Os03t0752300-01_S_2	POT1676	- - - - - - a - - a g - - - c - - - - - - a -	4M	LOC_Os04g57060.1 CDS|retrotransposon protein, putative, unclassified, expressed	221	-
+Os03t0752300-01_S_2	POT1918	- - - c - - a - - - - - - g c - - - a - - - -	5M	LOC_Os05g34550.1 CDS|MLO domain containing protein, putative, expressed	322	+
+Os03t0752300-01_S_2	POT1920	- - - c - - a - - - - - - g c - - - a - - - -	5M	LOC_Os05g34550.3 CDS|MLO domain containing protein, putative, expressed	322	+
+Os03t0752300-01_S_2	POT1922	- - - c - - a - - - - - - g c - - - a - - - -	5M	LOC_Os05g34550.2 CDS|MLO domain containing protein, putative, expressed	205	+
+Os03t0752300-01_S_2	POT2092	- - a - - a - - - - g - - - - g - - c - - - -	5M	LOC_Os06g09230.2 CDS|serine threonine kinase, putative, expressed	308	-
+Os03t0752300-01_S_2	POT2236	- - - t - - - - - a a - c - - - - - c - - - -	5M	LOC_Os06g34690.1 CDS|T-complex protein, putative, expressed	230	-
+Os03t0752300-01_S_2	POT2245	- a c - - - - - - - a - - - - - c - c - - - -	5M	LOC_Os06g36500.1 CDS|retrotransposon protein, putative, Ty1-copia subclass, expressed	3023	-
+Os03t0752300-01_S_2	POT2327	a - - - - - - - a t - - - - a t - - - - - - -	5M	LOC_Os06g49360.1 CDS|NBS-LRR disease resistance protein, putative, expressed	1569	+
+Os03t0752300-01_S_2	POT2647	a - - - - - - c - c - - - - g - - - - a - - -	5M	LOC_Os07g39470.1 CDS|gibberellin response modulator protein, putative, expressed	861	-
+Os03t0752300-01_S_2	POT2692	- - - - t - t - a - - - - c - - - - - - - - -	4M	LOC_Os07g46400.1 CDS|expressed protein	703	-
+Os03t0752300-01_S_2	POT2768	- g - - - - - - t a - - - - - g - - - - c - -	4M	LOC_Os08g06700.1 CDS|expressed protein	410	-
+Os03t0752300-01_S_2	POT3347	- - - - - - - c - - g - - - - - - - g g c - -	4M	LOC_Os10g13370.1 CDS|retrotransposon protein, putative, unclassified, expressed	1527	+
+Os03t0752300-01_S_2	POT3674	- - - - - c a c - - - - a - - - - - - c - - -	5M	LOC_Os11g34950.1 CDS|expressed protein	448	+
+Os03t0752300-01_S_2	POT3675	- - - - - c a c - - - - a - - - - - - c - - -	5M	LOC_Os11g34950.2 CDS|expressed protein	757	+
+Os03t0752300-01_S_2	POT3745	- - - - - t - - - - - c - - g c - t - - - - -	5M	LOC_Os11g43640.1 CDS|retrotransposon protein, putative, unclassified, expressed	827	-
+Os03t0752300-01_S_2	POT3888	c - - - - - - - - - - - - - - g - t c c - - -	5M	LOC_Os12g18070.1 CDS|expressed protein	25	+
+Os03t0752300-01_S_2	POT3942	- g g - - - - - - - - - - g - - - g a - - - -	5M	LOC_Os12g24800.1 CDS|9-cis-epoxycarotenoid dioxygenase 1, chloroplast precursor, putative, expressed	1035	+

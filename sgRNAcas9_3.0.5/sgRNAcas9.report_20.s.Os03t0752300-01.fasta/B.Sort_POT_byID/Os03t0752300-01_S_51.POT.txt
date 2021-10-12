@@ -1,0 +1,9 @@
+- - - - c t - - - - - - - - - - - c - - t - -	3M	Os03t0752300-01_S_51_POT27	LOC_Os01g05660.1 CDS|expressed protein	988	+	random_0_3M	
+- - - - c t - - - - - - - - - - - c - - t - -	3M	Os03t0752300-01_S_51_POT28	LOC_Os01g05660.3 CDS|expressed protein	988	+	random_0_3M	
+- - - - c t - - - - - - - - - - - c - - t - -	3M	Os03t0752300-01_S_51_POT29	LOC_Os01g05660.2 CDS|expressed protein	988	+	random_0_3M	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_51_POT1152	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	250	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_51_POT1205	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	250	+	seed_ident	
+- - - a - g - - - c t g - - - - - - - - - - -	5M	Os03t0752300-01_S_51_POT1384	LOC_Os04g12639.1 CDS|carboxyl-terminal proteinase, putative, expressed	1076	+	regionI_ident	
+- t - - g a - - - t - - c - - - - - - - - - -	5M	Os03t0752300-01_S_51_POT1667	LOC_Os04g55840.1 CDS|expressed protein	258	+	regionI_ident	
+- t - - g a - - - t - - c - - - - - - - - - -	5M	Os03t0752300-01_S_51_POT1668	LOC_Os04g55840.1 CDS|expressed protein	408	+	regionI_ident	
+- t - - g a - - - - - - c - - - - - - - - - -	4M	Os03t0752300-01_S_51_POT1669	LOC_Os04g55840.1 CDS|expressed protein	558	+	regionI_ident	

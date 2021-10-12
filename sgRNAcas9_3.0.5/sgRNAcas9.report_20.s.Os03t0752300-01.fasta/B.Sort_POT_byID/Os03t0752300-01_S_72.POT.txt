@@ -1,0 +1,3 @@
+- - - g - - - - - - - - a - - - - c - - c - -	3M	Os03t0752300-01_S_72_POT109	LOC_Os01g19470.1 CDS|nodal modulator 1 precursor, putative, expressed	3507	+	random_0_3M	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_72_POT1175	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	663	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_72_POT1228	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	663	+	seed_ident	

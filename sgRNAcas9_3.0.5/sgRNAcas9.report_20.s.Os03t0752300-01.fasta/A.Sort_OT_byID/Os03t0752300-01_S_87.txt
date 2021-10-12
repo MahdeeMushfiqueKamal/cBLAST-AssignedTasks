@@ -1,0 +1,52 @@
+Os03t0752300-01_S_87	POT63	- - - - a - g - - - - - - - - - - g c - - a -	4M	LOC_Os01g12400.2 CDS|S-locus lectin protein kinase family protein, putative, expressed	687	+
+Os03t0752300-01_S_87	POT65	- - - - a - g - - - - - - - - - - g c - - a -	4M	LOC_Os01g12410.1 CDS|receptor-like protein kinase, putative, expressed	1467	+
+Os03t0752300-01_S_87	POT146	- - g - - - g - c - - - g - - - - - - - c - -	4M	LOC_Os01g25060.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1837	+
+Os03t0752300-01_S_87	POT264	- - - - g c - c - - a - - - - - - - c - - - -	5M	LOC_Os01g45520.1 CDS|D-mannose binding lectin family protein, expressed	329	-
+Os03t0752300-01_S_87	POT336	g - - - - g t g - - - - - c - - - - - - - - -	5M	LOC_Os01g57270.2 CDS|disease resistance RPP13-like protein 1, putative, expressed	3	+
+Os03t0752300-01_S_87	POT338	g - - - - g t g - - - - - c - - - - - - - - -	5M	LOC_Os01g57270.1 CDS|disease resistance RPP13-like protein 1, putative, expressed	3	+
+Os03t0752300-01_S_87	POT344	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os01g57810.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	425	-
+Os03t0752300-01_S_87	POT483	- - - - g - - c - - - - - - - g a - - t - - -	5M	LOC_Os02g07680.2 CDS|cytochrome P450, putative, expressed	942	+
+Os03t0752300-01_S_87	POT485	- - - - g - - c - - - - - - - g a - - t - - -	5M	LOC_Os02g07680.5 CDS|cytochrome P450, putative, expressed	942	+
+Os03t0752300-01_S_87	POT487	- - - - g - - c - - - - - - - g a - - t - - -	5M	LOC_Os02g07680.4 CDS|cytochrome P450, putative, expressed	633	+
+Os03t0752300-01_S_87	POT489	- - - - g - - c - - - - - - - g a - - t - - -	5M	LOC_Os02g07680.3 CDS|cytochrome P450, putative, expressed	633	+
+Os03t0752300-01_S_87	POT491	- - - - g - - c - - - - - - - g a - - t - - -	5M	LOC_Os02g07680.1 CDS|cytochrome P450, putative, expressed	1173	+
+Os03t0752300-01_S_87	POT557	g - - - - - - - - - - - - t g - a - t - - - -	5M	LOC_Os02g19670.1 CDS|retrotransposon protein, putative, unclassified, expressed	1063	+
+Os03t0752300-01_S_87	POT623	- - - - - c - - - - - - - t - c - - g - g - -	4M	LOC_Os02g34700.1 CDS|expressed protein	1665	+
+Os03t0752300-01_S_87	POT793	g - - - - - - - - a - - a - - - - - t - a - -	4M	LOC_Os02g57200.1 CDS|expressed protein	1308	+
+Os03t0752300-01_S_87	POT808	- a - a - - - - - - - - g - - - - - - g - - -	4M	LOC_Os03g01710.1 CDS|expressed protein	1608	+
+Os03t0752300-01_S_87	POT964	g - - - - t - - - - - - - - t - - - - t - a -	4M	LOC_Os03g26690.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	500	-
+Os03t0752300-01_S_87	POT1116	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os03g52100.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT1188	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	906	+
+Os03t0752300-01_S_87	POT1241	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	906	+
+Os03t0752300-01_S_87	POT1383	- c a - - - - - - - - - - c - - c - - a - - -	5M	LOC_Os04g12540.1 CDS|receptor-like protein kinase, putative, expressed	1340	+
+Os03t0752300-01_S_87	POT1958	c - - - a - - - - c - - - - - t - - t - - - -	5M	LOC_Os05g40240.1 CDS|expressed protein	738	-
+Os03t0752300-01_S_87	POT2063	- a - - c - - - - - - - - - - g t c - - - - -	5M	LOC_Os06g04660.1 CDS|oxidoreductase, 2OG-Fe oxygenase family protein, putative, expressed	1438	+
+Os03t0752300-01_S_87	POT2064	- a - - c - - - - - - - - - - g t c - - - - -	5M	LOC_Os06g04660.2 CDS|oxidoreductase, 2OG-Fe oxygenase family protein, putative, expressed	919	+
+Os03t0752300-01_S_87	POT2107	- - - - g - - - - t t - g - - - - g - - - - -	5M	LOC_Os06g13770.1 CDS|transposon protein, putative, unclassified	670	+
+Os03t0752300-01_S_87	POT2202	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os06g30080.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT2371	a - - - - - - - g - a - - - - - - - - g g - -	4M	LOC_Os07g03100.1 CDS|OsFBX212 - F-box domain containing protein, expressed	882	-
+Os03t0752300-01_S_87	POT2373	a - - - - - - - g - a - - - - - - - - g g - -	4M	LOC_Os07g03100.3 CDS|OsFBX212 - F-box domain containing protein, expressed	882	-
+Os03t0752300-01_S_87	POT2375	a - - - - - - - g - a - - - - - - - - g g - -	4M	LOC_Os07g03100.2 CDS|OsFBX212 - F-box domain containing protein, expressed	882	-
+Os03t0752300-01_S_87	POT2424	- - a - - - - c - - - - t g - - - - t - - - -	5M	LOC_Os07g10150.1 CDS|coatomer subunit gamma-2, putative, expressed	2280	+
+Os03t0752300-01_S_87	POT2652	- - - - - - t - t - - - - c - - a t - - - - -	5M	LOC_Os07g40750.1 CDS|PPR repeat domain containing protein, putative, expressed	1315	+
+Os03t0752300-01_S_87	POT2804	- - - t - - t - - - t - - - - - a - t - - - -	5M	LOC_Os08g12280.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1368	-
+Os03t0752300-01_S_87	POT2897	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os08g21970.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT2898	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os08g22028.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT2955	- t - - - c - t - a a - - - - - - - - - - - -	5M	LOC_Os08g30580.1 CDS|hypothetical protein	92	+
+Os03t0752300-01_S_87	POT3053	- - - - - t g - - - a - - t - - - - - - - a -	4M	LOC_Os08g43000.1 CDS|CC-NBS-LRR, putative, expressed	2881	-
+Os03t0752300-01_S_87	POT3139	a - - t - - - - - - - - - - - g - - g a - - -	5M	LOC_Os09g12790.1 CDS|potassium channel protein, putative, expressed	1197	+
+Os03t0752300-01_S_87	POT3186	- - - c - - t - - - t - - - - - a - c - - - -	5M	LOC_Os09g20130.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1344	-
+Os03t0752300-01_S_87	POT3194	- - - c - - t - - - t - - - - - a - c - - - -	5M	LOC_Os09g21960.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class	480	-
+Os03t0752300-01_S_87	POT3290	a - - - - t - - - - - - - - t - - g - t - - -	5M	LOC_Os10g02560.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT3341	- - g - - - g - c - - - - - - - a - - - g - -	4M	LOC_Os10g12480.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1177	+
+Os03t0752300-01_S_87	POT3379	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os10g18630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	491	-
+Os03t0752300-01_S_87	POT3418	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os10g26230.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	491	-
+Os03t0752300-01_S_87	POT3520	- - - - - - - - t - - - - c - t - g - - - - -	4M	LOC_Os11g04210.1 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1023	+
+Os03t0752300-01_S_87	POT3522	- - - - - - - - t - - - - c - t - g - - - - -	4M	LOC_Os11g04210.2 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1023	+
+Os03t0752300-01_S_87	POT3639	- a - - c t g - - - - - - - - - - - - - a - -	4M	LOC_Os11g29450.1 CDS|retrotransposon protein, putative, unclassified, expressed	519	+
+Os03t0752300-01_S_87	POT3710	- - - - c - - - - - - - - - - - c - g - - a -	3M	LOC_Os11g39160.1 CDS|NBS-LRR disease resistance protein, putative, expressed	1017	+
+Os03t0752300-01_S_87	POT3801	- - - - - - - - t - - - - c - t - g - - - - -	4M	LOC_Os12g04020.1 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1023	+
+Os03t0752300-01_S_87	POT3803	- - - - - - - - t - - - - c - t - g - - - - -	4M	LOC_Os12g04020.2 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	993	+
+Os03t0752300-01_S_87	POT3943	- - - - - t - - - a - - - - t - - g - t - - -	5M	LOC_Os12g24820.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	455	-
+Os03t0752300-01_S_87	POT3983	- a - - - t a - - - - - - - - - - - - - a a -	4M	LOC_Os12g28200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	621	+
+Os03t0752300-01_S_87	POT4030	- - - - - t - - - - - - - - t - - g g t - - -	5M	LOC_Os12g34730.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	59	-

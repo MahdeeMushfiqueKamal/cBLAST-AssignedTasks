@@ -1,0 +1,4 @@
+- - g - - - - g - - - - - - - - - - - - - - -	2M	Os03t0752300-01_S_20_POT2591	LOC_Os07g33320.1 CDS|expressed protein	191	+	seed_ident	
+- - g - - - - g - a - - a - - - - - - - - a -	4M	Os03t0752300-01_S_20_POT2718	LOC_Os07g48630.1 CDS|ethylene-insensitive 3, putative, expressed	272	+	regionI_ident	
+- - g - - - - g - a - - a - - - - - - - - a -	4M	Os03t0752300-01_S_20_POT2720	LOC_Os07g48630.2 CDS|ethylene-insensitive 3, putative, expressed	272	+	regionI_ident	
+t - c - - - - g - - - c - - - - - - - - t - -	4M	Os03t0752300-01_S_20_POT3264	LOC_Os09g38090.1 CDS|expressed protein	1120	-	regionI_ident	

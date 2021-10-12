@@ -1,0 +1,23 @@
+Os03t0752300-01_S_6	POT208	t - - - c g - - - - - - - - - c - c - - - - -	5M	LOC_Os01g37630.1 CDS|esterase, putative, expressed	742	+
+Os03t0752300-01_S_6	POT240	- - - - - c g - - c - - - t - - - c - - - - -	5M	LOC_Os01g42320.1 CDS|aspartic proteinase nepenthesin-2 precursor, putative, expressed	1282	+
+Os03t0752300-01_S_6	POT384	- - - - - a - a - - - - c - - - - - c - - - -	4M	LOC_Os01g66570.1 CDS|ZOS1-19 - C2H2 zinc finger protein, expressed	729	+
+Os03t0752300-01_S_6	POT418	- t - - - g - - - - - - - t - a - g - - - - -	5M	LOC_Os01g73130.1 CDS|vacuolar ATP synthase, putative, expressed	166	+
+Os03t0752300-01_S_6	POT505	c - - - - - - - - - g - - - - - a c - - - - -	4M	LOC_Os02g10850.1 CDS|OsFBK3 - F-box domain and kelch repeat containing protein, expressed	472	+
+Os03t0752300-01_S_6	POT776	g - a t - - - - - - - - - - - c a - - - - - -	5M	LOC_Os02g55270.1 CDS|NLI interacting factor-like phosphatase, putative, expressed	1206	+
+Os03t0752300-01_S_6	POT845	g - - - - - - - - - - - - - - a - c a - - - -	4M	LOC_Os03g08290.1 CDS|expressed protein	89	-
+Os03t0752300-01_S_6	POT1259	g - - - - g g - - - - - - - - c - g - - - - -	5M	LOC_Os03g58500.1 CDS|expressed protein	124	+
+Os03t0752300-01_S_6	POT1277	g - - - - - - g - - c - - g - - - c - - - - -	5M	LOC_Os03g62690.2 CDS|pentatricopeptide, putative, expressed	418	+
+Os03t0752300-01_S_6	POT1279	g - - - - - - g - - c - - g - - - c - - - - -	5M	LOC_Os03g62690.1 CDS|pentatricopeptide, putative, expressed	418	+
+Os03t0752300-01_S_6	POT1628	- - - - - c - - a - a - - - t - - c - - - - -	5M	LOC_Os04g49950.1 CDS|OsFBX150 - F-box domain containing protein, expressed	2827	+
+Os03t0752300-01_S_6	POT1723	g - g a - - - - - - c - - - - - - c - - - - -	5M	LOC_Os05g07740.1 CDS|receptor-like protein kinase 2 precursor, putative, expressed	1897	+
+Os03t0752300-01_S_6	POT1774	- - - - a g g - - - - - - c - - - c - - - - -	5M	LOC_Os05g16000.1 CDS|expressed protein	982	+
+Os03t0752300-01_S_6	POT1775	- - - - a g g - - - - - - c - - - c - - - - -	5M	LOC_Os05g16100.1 CDS|expressed protein	766	+
+Os03t0752300-01_S_6	POT1932	g - - t - g - g - - - - - - - - - c - - - - -	5M	LOC_Os05g36110.4 CDS|protein of unknown function DUF502 domain containing protein, expressed	100	-
+Os03t0752300-01_S_6	POT1933	g - - t - g - g - - - - - - - - - c - - - - -	5M	LOC_Os05g36110.2 CDS|protein of unknown function DUF502 domain containing protein, expressed	100	-
+Os03t0752300-01_S_6	POT1934	g - - t - g - g - - - - - - - - - c - - - - -	5M	LOC_Os05g36110.3 CDS|protein of unknown function DUF502 domain containing protein, expressed	100	-
+Os03t0752300-01_S_6	POT1935	g - - t - g - g - - - - - - - - - c - - - - -	5M	LOC_Os05g36110.1 CDS|protein of unknown function DUF502 domain containing protein, expressed	100	-
+Os03t0752300-01_S_6	POT2762	g - - - - g g - - - - - - c - - - c - - - - -	5M	LOC_Os08g05290.1 CDS|receptor-like protein kinase 5 precursor, putative, expressed	1873	+
+Os03t0752300-01_S_6	POT3455	- - - - - g - - - - - - - - c g g c - - - - -	5M	LOC_Os10g34450.1 CDS|expressed protein	130	+
+Os03t0752300-01_S_6	POT3553	g - - - - - g - - - - - - - - g a - - a - - -	5M	LOC_Os11g10850.1 CDS|dirigent, putative, expressed	50	-
+Os03t0752300-01_S_6	POT3646	t - - - - c - - - - - - c - - - - t - - t - -	4M	LOC_Os11g31060.1 CDS|IQ calmodulin-binding and BAG domain containing protein, putative, expressed	253	+
+Os03t0752300-01_S_6	POT4076	g - - - c - - - - t - - c - - - - c - - - - -	5M	LOC_Os12g42220.1 CDS|expressed protein	621	-

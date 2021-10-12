@@ -1,0 +1,1 @@
+t - c - g - - - - - g - a - - - - - - - - - -	5M	Os03t0752300-01_S_4_POT2622	LOC_Os07g37090.1 CDS|ribosome inactivating protein, putative, expressed	265	-	regionI_ident	

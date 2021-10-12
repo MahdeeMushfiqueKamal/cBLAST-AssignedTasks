@@ -1,0 +1,7 @@
+- a t - c a - - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_86_POT83	LOC_Os01g14810.1 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+	regionI_ident	
+- a t - c a - - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_86_POT84	LOC_Os01g14810.3 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+	regionI_ident	
+- a t - c a - - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_86_POT85	LOC_Os01g14810.2 CDS|5-nucleotidase domain-containing protein, putative, expressed	864	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_86_POT1187	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	868	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_86_POT1240	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	868	+	seed_ident	
+g - - - - - - g - - - - - - - - - g - - a - -	3M	Os03t0752300-01_S_86_POT1264	LOC_Os03g58800.1 CDS|ATPase, putative, expressed	158	-	random_0_3M	
+- - - - - - - t - c - - - - - - c - - - c - -	3M	Os03t0752300-01_S_86_POT4069	LOC_Os12g42010.1 CDS|lipase class 3 family protein, putative, expressed	407	-	random_0_3M	

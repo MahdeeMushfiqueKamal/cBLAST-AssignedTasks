@@ -1,0 +1,21 @@
+Os03t0752300-01_S_40	POT423	- - - g - - - t - - - a - - - - a g - - - - -	5M	LOC_Os01g73480.1 CDS|acetyltransferase, GNAT family protein, expressed	2165	-
+Os03t0752300-01_S_40	POT549	- - c - - - - - c c - - - a - - - g - - - - -	5M	LOC_Os02g18730.1 CDS|retrotransposon protein, putative, LINE subclass, expressed	2277	-
+Os03t0752300-01_S_40	POT574	g - c - - a - - - - - - - a - - g - - - - - -	5M	LOC_Os02g22810.1 CDS|retrotransposon protein, putative, unclassified, expressed	1266	+
+Os03t0752300-01_S_40	POT578	t t - - - - - - t - - g - - - - c - - - - - -	5M	LOC_Os02g24290.1 CDS|expressed protein	258	+
+Os03t0752300-01_S_40	POT747	- - - - - a g - - a - - - - - t - - - - - - -	4M	LOC_Os02g51200.1 CDS|retrotransposon protein, putative, LINE subclass, expressed	4236	+
+Os03t0752300-01_S_40	POT1144	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	106	+
+Os03t0752300-01_S_40	POT1197	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	106	+
+Os03t0752300-01_S_40	POT2079	g g - - - a t - - - t - - - - - - - - - - - -	5M	LOC_Os06g07480.1 CDS|CDK-activating kinase assembly factor MAT1 family protein, expressed	448	+
+Os03t0752300-01_S_40	POT2129	g - c - - a - - - - - - - a - - g - - - - - -	5M	LOC_Os06g17540.1 CDS|expressed protein	315	+
+Os03t0752300-01_S_40	POT2137	- - - a - a - t - - - - - - - - - c - - - a -	4M	LOC_Os06g18840.1 CDS|retrotransposon protein, putative, LINE subclass, expressed	1059	+
+Os03t0752300-01_S_40	POT2163	- - - - - - - a t - - - t - - - - a g - - - -	5M	LOC_Os06g22550.1 CDS|transducin family protein, putative, expressed	667	-
+Os03t0752300-01_S_40	POT2596	- - - - - a g - - a - - - - - t - - - - - - -	4M	LOC_Os07g33760.1 CDS|retrotransposon protein, putative, unclassified, expressed	1758	+
+Os03t0752300-01_S_40	POT2616	- - c - - - - g - - g - - t - - g - - - - - -	5M	LOC_Os07g36720.1 CDS|retrotransposon protein, putative, unclassified, expressed	2065	+
+Os03t0752300-01_S_40	POT2842	t - g c - a - - - - - - - - - - - - - g - - -	5M	LOC_Os08g17040.1 CDS|retrotransposon protein, putative, unclassified, expressed	3939	-
+Os03t0752300-01_S_40	POT2917	t t - - - - - - t - - g - - - - c - - - - - -	5M	LOC_Os08g25350.1 CDS|transposon protein, putative, unclassified, expressed	1537	+
+Os03t0752300-01_S_40	POT3098	t - - - - - - - - - - - g - a t c - - - - - -	5M	LOC_Os09g07470.1 CDS|hypothetical protein	39	-
+Os03t0752300-01_S_40	POT3323	- - c - - - - - c c - - - a - - - g - - - - -	5M	LOC_Os10g09610.1 CDS|retrotransposon protein, putative, unclassified, expressed	2565	-
+Os03t0752300-01_S_40	POT3351	t t - - - - - - t - - g - - - - c - - - - - -	5M	LOC_Os10g13760.1 CDS|transposon protein, putative, unclassified, expressed	1585	+
+Os03t0752300-01_S_40	POT3603	g a - g - - - t - - - - - t - - - - - - - - -	5M	LOC_Os11g20384.1 CDS|SacI homology domain containing protein, expressed	1507	+
+Os03t0752300-01_S_40	POT3811	a - - - - - - a - - - a - t - - c - - - - - -	5M	LOC_Os12g06100.2 CDS|TLD family protein, putative, expressed	554	-
+Os03t0752300-01_S_40	POT3882	- - a c - - - - - - - - - - - - a a g - - - -	5M	LOC_Os12g16720.1 CDS|cytochrome P450 71A1, putative, expressed	984	+

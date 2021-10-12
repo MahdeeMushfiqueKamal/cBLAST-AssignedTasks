@@ -1,0 +1,4 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1189	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	907	+	Os03t0752300-01_S_88
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1242	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	907	+	Os03t0752300-01_S_88
+- - - c t - - g - - - - - - - - - - - - t - -	3M	POT2290	LOC_Os06g45480.2 CDS|hydrolase, putative, expressed	148	+	Os03t0752300-01_S_88
+- - - c t - - g - - - - - - - - - - - - t - -	3M	POT2292	LOC_Os06g45480.1 CDS|hydrolase, putative, expressed	148	+	Os03t0752300-01_S_88

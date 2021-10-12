@@ -1,0 +1,51 @@
+Os03t0752300-01_S_85	POT70	- - - - g g - - - c - t c - - - - - - - - - -	5M	LOC_Os01g12940.1 CDS|phosphorylase domain containing protein, putative, expressed	234	-
+Os03t0752300-01_S_85	POT225	t - g a - - - - - a - - g - - - - - - - - - -	5M	LOC_Os01g39290.1 CDS|harpin-induced protein 1 domain containing protein, expressed	660	-
+Os03t0752300-01_S_85	POT345	- - - - g - - - - - - a c - a - - - - g - - -	5M	LOC_Os01g58170.1 CDS|expressed protein	3	+
+Os03t0752300-01_S_85	POT348	- - - - g - - - - - c - - c - t - t - - - - -	5M	LOC_Os01g58270.1 CDS|OsSub7 - Putative Subtilisin homologue, expressed	2214	+
+Os03t0752300-01_S_85	POT730	- - - a g a - - - - - - - - - - - - g g - - -	5M	LOC_Os02g49690.1 CDS|ACT domain-containing protein, putative, expressed	357	-
+Os03t0752300-01_S_85	POT781	t - - g - - - - - - - - - c t - c - - - - - -	5M	LOC_Os02g56110.1 CDS|AP-1 complex subunit gamma-1, putative, expressed	255	-
+Os03t0752300-01_S_85	POT782	t - - g - - - - - - - - - c t - c - - - - - -	5M	LOC_Os02g56110.2 CDS|AP-1 complex subunit gamma-1, putative, expressed	255	-
+Os03t0752300-01_S_85	POT847	a - - g - - - - - - - - - c t - - c - - - - -	5M	LOC_Os03g08710.1 CDS|THION26 - Plant thionin family protein precursor, expressed	339	-
+Os03t0752300-01_S_85	POT848	a - - g - - - - - - - - - c t - - c - - - - -	5M	LOC_Os03g08710.2 CDS|THION26 - Plant thionin family protein precursor, expressed	339	-
+Os03t0752300-01_S_85	POT878	- - t - - - - - - - - - t - g - - - - g a - -	4M	LOC_Os03g12730.1 CDS|receptor protein kinase CLAVATA1 precursor, putative, expressed	387	-
+Os03t0752300-01_S_85	POT1079	- - - c g - c - - a - - - - a - - - - - - - -	5M	LOC_Os03g46100.2 CDS|cupin domain containing protein, expressed	1389	-
+Os03t0752300-01_S_85	POT1080	- - - c g - c - - a - - - - a - - - - - - - -	5M	LOC_Os03g46100.1 CDS|cupin domain containing protein, expressed	1389	-
+Os03t0752300-01_S_85	POT1186	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	849	+
+Os03t0752300-01_S_85	POT1239	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	849	+
+Os03t0752300-01_S_85	POT1431	a - - - - - - c - - - - - - - a - - - - c a -	4M	LOC_Os04g19360.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1292	+
+Os03t0752300-01_S_85	POT1499	t a - a - - - - - - - - t - - - - - a - - - -	5M	LOC_Os04g28880.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	507	-
+Os03t0752300-01_S_85	POT1561	- a c - t - - - - - a - - - - - - - - t - - -	5M	LOC_Os04g40060.1 CDS|transposon protein, putative, unclassified, expressed	132	+
+Os03t0752300-01_S_85	POT1621	t - - g - - - - - c - - - t - - - - - g - - -	5M	LOC_Os04g48360.1 CDS|expressed protein	738	+
+Os03t0752300-01_S_85	POT1698	- c - - - - g - - - - - - - - - - - c g a - -	4M	LOC_Os05g03030.1 CDS|50S ribosomal protein L10, chloroplast precursor, putative, expressed	453	-
+Os03t0752300-01_S_85	POT1794	t - - a g - - - - - - - t - - - - - a - - - -	5M	LOC_Os05g17960.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	54	-
+Os03t0752300-01_S_85	POT1847	- c - - g g - - c - - - - - - - - g - - - - -	5M	LOC_Os05g24810.1 CDS|expressed protein	678	-
+Os03t0752300-01_S_85	POT1880	- - - - - - - - - c - g - - a - - c c - - - -	5M	LOC_Os05g29900.1 CDS|expressed protein	294	-
+Os03t0752300-01_S_85	POT1931	t - - a - g g - - - - - - - - - c - - - - - -	5M	LOC_Os05g36080.1 CDS|transposon protein, putative, unclassified, expressed	597	+
+Os03t0752300-01_S_85	POT2070	- - t - - - - - g - - - c - g t - - - - - - -	5M	LOC_Os06g06130.1 CDS|glutamate receptor, putative, expressed	1370	+
+Os03t0752300-01_S_85	POT2072	t - - a - - - - - - - a - - - - - - c t - - -	5M	LOC_Os06g06870.1 CDS|zinc finger protein, putative, expressed	1055	+
+Os03t0752300-01_S_85	POT2073	t - - g - - - - - - - - - c t - c - - - - - -	5M	LOC_Os06g07090.2 CDS|AP-1 complex subunit gamma-1, putative, expressed	219	-
+Os03t0752300-01_S_85	POT2074	t - - g - - - - - - - - - c t - c - - - - - -	5M	LOC_Os06g07090.1 CDS|AP-1 complex subunit gamma-1, putative, expressed	219	-
+Os03t0752300-01_S_85	POT2112	- c - - - - g - - - - - - - - - - - g g a - -	4M	LOC_Os06g14860.1 CDS|hypothetical protein	47	+
+Os03t0752300-01_S_85	POT2338	- - c g g - g - - - - - - - - - - - c - - - -	5M	LOC_Os06g51240.1 CDS|expressed protein	182	-
+Os03t0752300-01_S_85	POT2339	- - c g g - g - - - - - - - - - - - c - - - -	5M	LOC_Os06g51240.2 CDS|expressed protein	182	-
+Os03t0752300-01_S_85	POT2425	- - t - - - - - - - - a - - - - c g a - - - -	5M	LOC_Os07g10190.1 CDS|glucosyltransferase, putative, expressed	428	+
+Os03t0752300-01_S_85	POT2559	- - g a - - - - - - - t - - t - - t - - - - -	5M	LOC_Os07g28940.1 CDS|ATGRIP/GRIP, putative, expressed	240	-
+Os03t0752300-01_S_85	POT2600	- - - - - - - - - - c t c - - g - - - - c - -	4M	LOC_Os07g34750.1 CDS|expressed protein	315	-
+Os03t0752300-01_S_85	POT2672	- - c - - - - - g a - a - - - - - - g - - - -	5M	LOC_Os07g44200.1 CDS|transcription regulator, putative, expressed	387	-
+Os03t0752300-01_S_85	POT2695	- t g - - a - - - t c - - - - - - - - - - - -	5M	LOC_Os07g46690.1 CDS|PHD-finger family protein, expressed	1906	-
+Os03t0752300-01_S_85	POT2734	- c t - - - c - - - - a - - - - - - g - - - -	5M	LOC_Os08g01140.1 CDS|cytochrome b561, putative, expressed	543	-
+Os03t0752300-01_S_85	POT2749	t - - a g - - - - - - - t - - - - - a - - - -	5M	LOC_Os08g03220.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	54	-
+Os03t0752300-01_S_85	POT2905	- - c - g - - - - c - - - c - - - - - g - - -	5M	LOC_Os08g23510.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1065	+
+Os03t0752300-01_S_85	POT2926	- - - g - - g - - - - - c - g - - - g - - - -	5M	LOC_Os08g27150.1 CDS|chloroplastic group IIA intron splicing facilitator CRS1, chloroplast precursor, putative, expressed	507	+
+Os03t0752300-01_S_85	POT3004	- - - g - - g - - - - - g - - - - - g - g - -	4M	LOC_Os08g35470.1 CDS|exo70 exocyst complex subunit, putative, expressed	15	+
+Os03t0752300-01_S_85	POT3016	- - - - - - - - - - c - - t - a - c g - - - -	5M	LOC_Os08g37350.1 CDS|ubiquitin carboxyl-terminal hydrolase family protein, expressed	2296	-
+Os03t0752300-01_S_85	POT3029	- - - a g a - - - - - - - - - - - - g g - - -	5M	LOC_Os08g40410.1 CDS|translation factor EF-1 alpha, putative, expressed	459	-
+Os03t0752300-01_S_85	POT3100	t - - a g - - - - - - - t - - - - - - - c - -	4M	LOC_Os09g07960.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	399	-
+Os03t0752300-01_S_85	POT3220	- - - - - - - - - a - - - - - t - t a - a - -	4M	LOC_Os09g26999.1 CDS|keratin-associated protein 5-4, putative, expressed	603	-
+Os03t0752300-01_S_85	POT3237	- - - g a - - - - - - - c - a g - - - - - - -	5M	LOC_Os09g31400.1 CDS|ethylene-insensitive 3, putative, expressed	99	+
+Os03t0752300-01_S_85	POT3454	- - - g - - c - g - - - g - - g - - - - - - -	5M	LOC_Os10g34270.1 CDS|expressed protein	297	-
+Os03t0752300-01_S_85	POT3489	- c - - - - - - c - t - - t - t - - - - - - -	5M	LOC_Os10g42196.1 CDS|expressed protein	1605	+
+Os03t0752300-01_S_85	POT3699	- - - - - - - - - - c t c - - g - - - - c - -	4M	LOC_Os11g37040.1 CDS|expressed protein	312	-
+Os03t0752300-01_S_85	POT3749	- c - g - - g - - - - - - - - g - - a - - - -	5M	LOC_Os11g44250.1 CDS|protein kinase, putative, expressed	1497	+
+Os03t0752300-01_S_85	POT3860	- - - - - - c - - - - - t - g g - - - g - - -	5M	LOC_Os12g13460.1 CDS|SET domain-containing protein, putative, expressed	342	+
+Os03t0752300-01_S_85	POT4077	c - - - - a - - g c - - - - - - - - g - - - -	5M	LOC_Os12g42280.1 CDS|9-cis-epoxycarotenoid dioxygenase 1, chloroplast precursor, putative, expressed	888	-

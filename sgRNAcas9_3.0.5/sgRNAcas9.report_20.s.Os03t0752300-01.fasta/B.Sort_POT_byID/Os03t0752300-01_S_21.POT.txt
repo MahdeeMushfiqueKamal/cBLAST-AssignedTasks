@@ -1,0 +1,7 @@
+t c - - - a - g - - - - t - - - - - - - - - -	5M	Os03t0752300-01_S_21_POT626	LOC_Os02g35280.1 CDS|retrotransposon protein, putative, unclassified	513	-	regionI_ident	
+t c - - - - - g c - - - t - - - - - - - - - -	5M	Os03t0752300-01_S_21_POT992	LOC_Os03g31640.1 CDS|retrotransposon protein, putative, unclassified, expressed	1014	-	regionI_ident	
+- c - - t a - g - - - - c - - - - - - - - - -	5M	Os03t0752300-01_S_21_POT2545	LOC_Os07g27820.1 CDS|retrotransposon protein, putative, unclassified, expressed	1209	-	regionI_ident	
+- g - - - - g - a - - a - - - - - - - - a - -	4M	Os03t0752300-01_S_21_POT2719	LOC_Os07g48630.1 CDS|ethylene-insensitive 3, putative, expressed	273	+	regionI_ident	
+- g - - - - g - a - - a - - - - - - - - a - -	4M	Os03t0752300-01_S_21_POT2721	LOC_Os07g48630.2 CDS|ethylene-insensitive 3, putative, expressed	273	+	regionI_ident	
+t c - - - t - a - - - - t - - - - - - - - - -	5M	Os03t0752300-01_S_21_POT3406	LOC_Os10g24770.1 CDS|retrotransposon protein, putative, unclassified, expressed	159	-	regionI_ident	
+t c - - - - - g - - - - t - - - - - - - - - -	4M	Os03t0752300-01_S_21_POT3759	LOC_Os11g46030.1 CDS|retrotransposon protein, putative, unclassified, expressed	1071	-	regionI_ident	

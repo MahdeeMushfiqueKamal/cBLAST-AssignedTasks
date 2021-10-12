@@ -1,0 +1,20 @@
+Os03t0752300-01_S_11	POT214	- a - - - - g c - - - - - - - - - - c - c - -	4M	LOC_Os01g38580.1 CDS|beta,beta-carotene 9,10-dioxygenase, putative, expressed	488	-
+Os03t0752300-01_S_11	POT215	- a - - - - g c - - - - - - - - - - c - c - -	4M	LOC_Os01g38580.2 CDS|beta,beta-carotene 9,10-dioxygenase, putative, expressed	488	-
+Os03t0752300-01_S_11	POT697	- - t - - - c - - - - - c - - - - a - - - - -	4M	LOC_Os02g44980.1 CDS|transmembrane amino acid transporter protein, putative, expressed	549	+
+Os03t0752300-01_S_11	POT705	c g - - g - c - - - g - - - - - - - - - - - -	5M	LOC_Os02g45490.2 CDS|expressed protein	321	+
+Os03t0752300-01_S_11	POT706	c g - - g - c - - - g - - - - - - - - - - - -	5M	LOC_Os02g45490.4 CDS|expressed protein	321	+
+Os03t0752300-01_S_11	POT707	c g - - g - c - - - g - - - - - - - - - - - -	5M	LOC_Os02g45490.3 CDS|expressed protein	321	+
+Os03t0752300-01_S_11	POT708	c g - - g - c - - - g - - - - - - - - - - - -	5M	LOC_Os02g45490.1 CDS|expressed protein	321	+
+Os03t0752300-01_S_11	POT922	- t - g - - - - g g - - - - - - - - c - - - -	5M	LOC_Os03g19800.1 CDS|expressed protein	476	-
+Os03t0752300-01_S_11	POT1268	t - - - c - - t - - - - - - a - - - - - a - -	4M	LOC_Os03g60220.1 CDS|DUF567 domain containing protein, putative, expressed	216	-
+Os03t0752300-01_S_11	POT1477	- g - - - t g - - - - c - - - - - - g - - - -	5M	LOC_Os04g25570.1 CDS|protein phosphatase 2C, putative, expressed	200	-
+Os03t0752300-01_S_11	POT1555	- - - - g - g - g - - g - - - - - - c - - - -	5M	LOC_Os04g39060.2 CDS|CRS1/YhbY domain containing protein, expressed	260	-
+Os03t0752300-01_S_11	POT1556	- - - - g - g - g - - g - - - - - - c - - - -	5M	LOC_Os04g39060.1 CDS|CRS1/YhbY domain containing protein, expressed	260	-
+Os03t0752300-01_S_11	POT1629	- g - - - - t - g - - - c - - - - - - a - - -	5M	LOC_Os04g50000.1 CDS|retrotransposon protein, putative, unclassified, expressed	665	+
+Os03t0752300-01_S_11	POT1836	- - - g - - c c g - - - - - - - - a - - - - -	5M	LOC_Os05g23480.1 CDS|expressed protein	382	+
+Os03t0752300-01_S_11	POT1929	- - - - g - - - - - - - t - - t - - c - c - -	4M	LOC_Os05g35910.1 CDS|expressed protein	441	+
+Os03t0752300-01_S_11	POT1982	- - - - - - c - - t - - - - a - - a - - a - -	4M	LOC_Os05g43560.1 CDS|AGAP007115-PA, putative, expressed	1424	+
+Os03t0752300-01_S_11	POT2153	- - - - - - - - c - - a - - - - - - - - a a -	3M	LOC_Os06g20840.1 CDS|retrotransposon protein, putative, unclassified, expressed	1406	+
+Os03t0752300-01_S_11	POT2384	- - - - c - - - - - - - - - - - a - a t - a -	4M	LOC_Os07g04190.1 CDS|receptor protein kinase CLAVATA1 precursor, putative, expressed	1363	+
+Os03t0752300-01_S_11	POT3362	- g - - - - - - - - a a a a - - - - - - - - -	5M	LOC_Os10g16900.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3368	-
+Os03t0752300-01_S_11	POT4065	- g - - g - c - - - g - - - - g - - - - - - -	5M	LOC_Os12g41240.1 CDS|retrotransposon, putative, centromere-specific, expressed	233	+

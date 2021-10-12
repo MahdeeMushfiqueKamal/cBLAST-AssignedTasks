@@ -1,0 +1,8 @@
+Os03t0752300-01_S_64	POT150	- - - - a - - - c - - - - a - - - - g - - a -	4M	LOC_Os01g25810.1 CDS|powdery mildew resistance protein PM3A, putative, expressed	2054	-
+Os03t0752300-01_S_64	POT186	- - - - - t - c - - - - - - - - - c c - c - -	4M	LOC_Os01g34920.1 CDS|beta-galactosidase precursor, putative, expressed	146	+
+Os03t0752300-01_S_64	POT349	- - - - - - - - - - - - - g a - - - - g c a -	4M	LOC_Os01g58530.1 CDS|NB-ARC/LRR disease resistance protein, putative, expressed	1877	+
+Os03t0752300-01_S_64	POT754	- a - - a t a - - - - - - - - - - - - a - - -	5M	LOC_Os02g52160.1 CDS|LMBR1 integral membrane protein, putative, expressed	1437	+
+Os03t0752300-01_S_64	POT1166	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	574	+
+Os03t0752300-01_S_64	POT1219	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	574	+
+Os03t0752300-01_S_64	POT2271	- - t - - - - - g - a - t - g - - - - - - - -	5M	LOC_Os06g42230.1 CDS|transposon protein, putative, unclassified, expressed	412	-
+Os03t0752300-01_S_64	POT3725	- - - - - - t - g - t - c - - c - - - - - - -	5M	LOC_Os11g40810.1 CDS|receptor kinase, putative, expressed	98	+

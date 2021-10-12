@@ -1,0 +1,2 @@
+- - - - c t - c c - - a - - - - - - - - - - -	5M	Os03t0752300-01_S_8_POT1617	LOC_Os04g47860.5 CDS|ZOS4-11 - C2H2 zinc finger protein, expressed	219	+	regionI_ident	
+- - - - c t - c c - - a - - - - - - - - - - -	5M	Os03t0752300-01_S_8_POT1618	LOC_Os04g47860.6 CDS|ZOS4-11 - C2H2 zinc finger protein, expressed	219	+	regionI_ident	

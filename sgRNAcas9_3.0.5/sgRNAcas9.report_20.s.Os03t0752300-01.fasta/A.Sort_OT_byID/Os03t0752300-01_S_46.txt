@@ -1,0 +1,7 @@
+Os03t0752300-01_S_46	POT303	- - - - a t - - - - - - - - - - a t - c - - -	5M	LOC_Os01g52340.1 CDS|NB-ARC domain containing protein, expressed	417	+
+Os03t0752300-01_S_46	POT1150	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	181	+
+Os03t0752300-01_S_46	POT1203	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	181	+
+Os03t0752300-01_S_46	POT2574	- - - - - - c c a - c - - - g - - - - - - - -	5M	LOC_Os07g30850.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	494	+
+Os03t0752300-01_S_46	POT2746	t - - - - - t - - - c - - - t - - - - - g - -	4M	LOC_Os08g03040.1 CDS|expressed protein	680	+
+Os03t0752300-01_S_46	POT3491	- - - g a t - t - - - - - - - - - - - - - - -	4M	LOC_Os10g42210.1 CDS|enoyl-CoA-hydratase, putative, expressed	775	-
+Os03t0752300-01_S_46	POT4094	- a - - - - - - - - - - - - - - a - a a g - -	4M	ChrUn.fgenesh.mRNA.15 CDS|expressed protein	4865	+

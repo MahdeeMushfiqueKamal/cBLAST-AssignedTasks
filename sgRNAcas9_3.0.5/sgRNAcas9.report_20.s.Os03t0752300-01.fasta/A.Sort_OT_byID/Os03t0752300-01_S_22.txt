@@ -1,0 +1,30 @@
+Os03t0752300-01_S_22	POT49	- - - - g - - c - - - - - g g - - t - - - - -	5M	LOC_Os01g10310.1 CDS|expressed protein	251	+
+Os03t0752300-01_S_22	POT200	- - - - g t c - - - - - - - - c - - - - - - -	4M	LOC_Os01g36110.1 CDS|expressed protein	261	+
+Os03t0752300-01_S_22	POT268	- - - - g - - - a - - - - g - g - t - - - - -	5M	LOC_Os01g45990.1 CDS|potassium channel AKT1, putative, expressed	2097	-
+Os03t0752300-01_S_22	POT288	- - c g c - - - - - - - g - - - - c - - - - -	5M	LOC_Os01g48820.1 CDS|expressed protein	267	+
+Os03t0752300-01_S_22	POT407	- t g - - - - a - - t - - - - c - - - - - - -	5M	LOC_Os01g70740.1 CDS|expressed protein	328	+
+Os03t0752300-01_S_22	POT861	g - c - g - - - - - - - - g - - - c - - - - -	5M	LOC_Os03g10030.1 CDS|membrane associated DUF588 domain containing protein, putative, expressed	129	-
+Os03t0752300-01_S_22	POT1286	- - - - c - - - - - - c - c - - t - - - t - -	4M	LOC_Os04g01510.1 CDS|DUF1295 domain containing protein, putative, expressed	525	-
+Os03t0752300-01_S_22	POT1287	- - - - c - - - - - - c - c - - t - - - t - -	4M	LOC_Os04g01510.2 CDS|DUF1295 domain containing protein, putative, expressed	333	-
+Os03t0752300-01_S_22	POT1620	- - g - g g c - - - - - - - - c - - - - - - -	5M	LOC_Os04g48250.1 CDS|expressed protein	219	-
+Os03t0752300-01_S_22	POT1826	- - - - g - g - - - - c - a - g - - - - - - -	5M	LOC_Os05g22614.3 CDS|PTAC16, putative, expressed	273	+
+Os03t0752300-01_S_22	POT1827	- - - - g - g - - - - c - a - g - - - - - - -	5M	LOC_Os05g22614.1 CDS|PTAC16, putative, expressed	273	+
+Os03t0752300-01_S_22	POT1828	- - - - g - g - - - - c - a - g - - - - - - -	5M	LOC_Os05g22614.4 CDS|PTAC16, putative, expressed	273	+
+Os03t0752300-01_S_22	POT1886	- - - - - - - a - - a - - a - - t t - - - - -	5M	LOC_Os05g30240.1 CDS|PPR repeat domain containing protein, putative, expressed	980	-
+Os03t0752300-01_S_22	POT1954	- - - t c a - - - - - - - - - - a - - - g - -	4M	LOC_Os05g39620.1 CDS|retrotransposon protein, putative, unclassified, expressed	3479	+
+Os03t0752300-01_S_22	POT2060	- - - - - - c - - - - - - c a g - - - - - - -	4M	LOC_Os06g04540.1 CDS|DNA binding protein, putative, expressed	663	+
+Os03t0752300-01_S_22	POT2167	- - - - g - - - - a - - - - g - - a - - c - -	4M	LOC_Os06g24070.1 CDS|myb-like DNA-binding domain containing protein, expressed	479	+
+Os03t0752300-01_S_22	POT2343	- c - g - - - - - - a - - - - - a - - g - - -	5M	LOC_Os06g51390.1 CDS|expressed protein	62	-
+Os03t0752300-01_S_22	POT2344	- c - g - - - - - - a - - - - - a - - g - - -	5M	LOC_Os06g51390.2 CDS|expressed protein	62	-
+Os03t0752300-01_S_22	POT2579	a - - - - - - - - a - - - - - t - - c - t - -	4M	LOC_Os07g31450.1 CDS|CHR4/MI-2-LIKE, putative, expressed	6185	-
+Os03t0752300-01_S_22	POT2651	- - a - - - t - - - - - - - g t - - - - c - -	4M	LOC_Os07g40280.1 CDS|expressed protein	480	-
+Os03t0752300-01_S_22	POT2667	- - g t g - - - - - - - - g - - - - - - g - -	4M	LOC_Os07g43160.1 CDS|uncharacterized glycosyl hydrolase Rv2006/MT2062, putative, expressed	53	+
+Os03t0752300-01_S_22	POT3049	- - g - g - - - - - - - - g - - - a - - g - -	4M	LOC_Os08g42440.1 CDS|CCT/B-box zinc finger protein, putative, expressed	174	-
+Os03t0752300-01_S_22	POT3187	- - c - - - t - - a a - - - - - - - - - c - -	4M	LOC_Os09g20220.1 CDS|glutathione S-transferase, putative, expressed	355	+
+Os03t0752300-01_S_22	POT3282	- - - - g g t - - - - - - - - c - - - - - a -	4M	LOC_Os10g01580.1 CDS|expressed protein	583	+
+Os03t0752300-01_S_22	POT3300	- - g - a - c - - - - - - - - - - a t - - - -	5M	LOC_Os10g04860.1 CDS|aldehyde oxidase, putative, expressed	3945	+
+Os03t0752300-01_S_22	POT3421	- - a - - t c - - - - - - - - g - t - - - - -	5M	LOC_Os10g26470.1 CDS|sucrose transporter, putativ, expressed	1143	+
+Os03t0752300-01_S_22	POT3511	t c - - - - t - - g - - - - - t - - - - - - -	5M	LOC_Os11g02650.1 CDS|fringe-related protein, putative, expressed	71	+
+Os03t0752300-01_S_22	POT3563	g c - - g - - c - - - - - g - - - - - - - - -	5M	LOC_Os11g11550.1 CDS|NBS-LRR disease resistance protein, putative, expressed	261	-
+Os03t0752300-01_S_22	POT3565	g c - - g - - c - - - - - g - - - - - - - - -	5M	LOC_Os11g11550.2 CDS|NBS-LRR disease resistance protein, putative, expressed	261	-
+Os03t0752300-01_S_22	POT3794	- t g - - - - a - - t - - - - c - - - - - - -	5M	LOC_Os12g03580.1 CDS|expressed protein	145	+

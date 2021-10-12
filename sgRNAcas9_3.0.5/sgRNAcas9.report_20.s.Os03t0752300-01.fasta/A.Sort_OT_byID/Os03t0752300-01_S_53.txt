@@ -1,0 +1,24 @@
+Os03t0752300-01_S_53	POT266	- - t c - t - - - - - - - - g - - - - - - - -	4M	LOC_Os01g45990.1 CDS|potassium channel AKT1, putative, expressed	889	+
+Os03t0752300-01_S_53	POT300	- - g c - c g - - - - - - - - - - - - - c - -	4M	LOC_Os01g52070.1 CDS|potassium channel AKT1, putative, expressed	688	+
+Os03t0752300-01_S_53	POT305	- - g g - - - - - - a - - - - - - - c - g - -	4M	LOC_Os01g52750.1 CDS|OsSub3 - Putative Subtilisin homologue, expressed	2095	+
+Os03t0752300-01_S_53	POT605	c - - - g a - - - - - - - - - - - - g - c - -	4M	LOC_Os02g30440.1 CDS|expressed protein	266	-
+Os03t0752300-01_S_53	POT619	- a g - - - g - - - - - - g - - - - c - - - -	5M	LOC_Os02g34030.1 CDS|retrotransposon protein, putative, unclassified, expressed	847	+
+Os03t0752300-01_S_53	POT971	- - c c - t t - - - - - - - - - - - - - c - -	4M	LOC_Os03g28120.1 CDS|potassium channel protein, putative, expressed	292	+
+Os03t0752300-01_S_53	POT1154	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	319	+
+Os03t0752300-01_S_53	POT1172	- - - - - c - - t - - - c - g - - t - - - - -	5M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	661	+
+Os03t0752300-01_S_53	POT1207	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	319	+
+Os03t0752300-01_S_53	POT1225	- - - - - c - - t - - - c - g - - t - - - - -	5M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	661	+
+Os03t0752300-01_S_53	POT1289	g - c c - - - - - - t - - - - - - - - - c - -	4M	LOC_Os04g01710.1 CDS|cysteine proteinase At4g11310 precursor, putative, expressed	970	+
+Os03t0752300-01_S_53	POT1296	- - g c - t g - - - - g - - - - - - - - - - -	5M	LOC_Os04g02720.1 CDS|potassium channel KAT2, putative, expressed	562	+
+Os03t0752300-01_S_53	POT1536	g a - - - - - - t - - g - - - - - a - - - - -	5M	LOC_Os04g35430.1 CDS|PHD-finger domain containing protein, expressed	776	+
+Os03t0752300-01_S_53	POT1576	- - - - a - - t a - - - - - - - - t g - - - -	5M	LOC_Os04g41430.1 CDS|retrotransposon protein, putative, unclassified	559	+
+Os03t0752300-01_S_53	POT1593	- - - - a - - t a - - - - - - - - t g - - - -	5M	LOC_Os04g44270.1 CDS|retrotransposon protein, putative, unclassified, expressed	460	+
+Os03t0752300-01_S_53	POT1627	- - c - c c - - - - - - - - - - c - a - - - -	5M	LOC_Os04g49950.1 CDS|OsFBX150 - F-box domain containing protein, expressed	1232	-
+Os03t0752300-01_S_53	POT1927	- - c - - - - - - - - - - - - - - - - - c - -	1M	LOC_Os05g35410.1 CDS|potassium channel AKT2/3, putative, expressed	355	+
+Os03t0752300-01_S_53	POT2349	- - c - - - - - - - - - - - - - - - - - c - -	1M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	322	+
+Os03t0752300-01_S_53	POT2402	- - c c - c t - - - - - - - - - - - - - c - -	4M	LOC_Os07g07910.1 CDS|potassium channel AKT1, putative, expressed	796	+
+Os03t0752300-01_S_53	POT3138	t - g g - - - - - - - - - - - - - g - - - - -	4M	LOC_Os09g12790.1 CDS|potassium channel protein, putative, expressed	952	+
+Os03t0752300-01_S_53	POT3154	- - - - - c - t - - - - a - - - - t a - - - -	5M	LOC_Os09g14140.1 CDS|retrotransposon protein, putative, unclassified, expressed	49	+
+Os03t0752300-01_S_53	POT3500	- - c - - - - t g t - - - c - - - - - - - - -	5M	LOC_Os11g01050.1 CDS|exo70 exocyst complex subunit domain containing protein, expressed	364	+
+Os03t0752300-01_S_53	POT3778	- - c - - - - t g t - - - c - - - - - - - - -	5M	LOC_Os12g01040.1 CDS|exo70 exocyst complex subunit domain containing protein, expressed	340	+
+Os03t0752300-01_S_53	POT3790	- - c c - c t - - - - - - - - - - - - - c - -	4M	LOC_Os12g02589.1 CDS|hydrolase, alpha/beta fold family protein, putative, expressed	19	+

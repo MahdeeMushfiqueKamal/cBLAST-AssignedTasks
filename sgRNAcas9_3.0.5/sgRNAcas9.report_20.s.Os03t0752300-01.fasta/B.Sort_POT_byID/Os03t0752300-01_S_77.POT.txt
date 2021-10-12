@@ -1,0 +1,7 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_77_POT1178	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	735	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_77_POT1231	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	735	+	seed_ident	
+c - - - - - c - c - - - c - - - - - - - c - -	4M	Os03t0752300-01_S_77_POT1656	LOC_Os04g54330.1 CDS|acetyltransferase, GNAT family, putative, expressed	484	+	regionI_ident	
+c - - - - - c - c - - - c - - - - - - - c - -	4M	Os03t0752300-01_S_77_POT1657	LOC_Os04g54330.3 CDS|acetyltransferase, GNAT family, putative, expressed	484	+	regionI_ident	
+c - - - - - c - c - - - c - - - - - - - c - -	4M	Os03t0752300-01_S_77_POT1658	LOC_Os04g54330.2 CDS|acetyltransferase, GNAT family, putative, expressed	484	+	regionI_ident	
+- - - - - g a - t - - - - - - - - - - - g - -	3M	Os03t0752300-01_S_77_POT1810	LOC_Os05g20090.1 CDS|retrotransposon protein, putative, unclassified, expressed	948	-	random_0_3M	
+- - c - t - a - t - - a - - - - - - - - - - -	5M	Os03t0752300-01_S_77_POT3018	LOC_Os08g38440.1 CDS|GRAM and C2 domains containing protein, putative, expressed	2051	+	regionI_ident	

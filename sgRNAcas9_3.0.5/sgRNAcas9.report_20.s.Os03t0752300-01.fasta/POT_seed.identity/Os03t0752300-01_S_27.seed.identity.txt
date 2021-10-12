@@ -1,0 +1,7 @@
+- a g - - g g a - - - - - - - - - - - - - - -	5M	POT448	LOC_Os02g03690.1 CDS|beta-amylase, putative, expressed	170	+	Os03t0752300-01_S_27
+- - - a c a a - - - - - - - - - - - - - - - -	4M	POT635	LOC_Os02g36880.3 CDS|No apical meristem protein, putative, expressed	983	+	Os03t0752300-01_S_27
+- - - a c a a - - - - - - - - - - - - - - - -	4M	POT636	LOC_Os02g36880.1 CDS|No apical meristem protein, putative, expressed	983	+	Os03t0752300-01_S_27
+- - - a c a a - - - - - - - - - - - - - - - -	4M	POT637	LOC_Os02g36880.4 CDS|No apical meristem protein, putative, expressed	980	+	Os03t0752300-01_S_27
+- - - a c a a - - - - - - - - - - - - - - - -	4M	POT638	LOC_Os02g36880.2 CDS|No apical meristem protein, putative, expressed	983	+	Os03t0752300-01_S_27
+- - g - c g g - - - - - - - - - - - - - t - -	4M	POT639	LOC_Os02g37140.1 CDS|expressed protein	312	-	Os03t0752300-01_S_27
+- - g - c g g - - - - - - - - - - - - - t - -	4M	POT640	LOC_Os02g37140.2 CDS|expressed protein	312	-	Os03t0752300-01_S_27

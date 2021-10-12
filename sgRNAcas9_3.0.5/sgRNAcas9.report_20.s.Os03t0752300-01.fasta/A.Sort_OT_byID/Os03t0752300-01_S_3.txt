@@ -1,0 +1,22 @@
+Os03t0752300-01_S_3	POT471	t - - - - - - g - - - - - - - - - a - c t - -	4M	LOC_Os02g06120.1 CDS|Leucine Rich Repeat family protein, expressed	2851	-
+Os03t0752300-01_S_3	POT720	- - - - - - - - a - - - - - g a - c - - - a -	4M	LOC_Os02g48000.1 CDS|TBC domain containing protein, expressed	1861	-
+Os03t0752300-01_S_3	POT721	- - - - - - - - a - - - - - g a - c - - - a -	4M	LOC_Os02g48000.3 CDS|TBC domain containing protein, expressed	1711	-
+Os03t0752300-01_S_3	POT722	- - - - - - - - a - - - - - g a - c - - - a -	4M	LOC_Os02g48000.2 CDS|TBC domain containing protein, expressed	1729	-
+Os03t0752300-01_S_3	POT1502	g - - - - - - g - - - - - a - - - - - - c a -	4M	LOC_Os04g29310.1 CDS|retrotransposon protein, putative, unclassified, expressed	2254	-
+Os03t0752300-01_S_3	POT1675	- - - - - a - - a g - - - c - - - - - - a - -	4M	LOC_Os04g57060.1 CDS|retrotransposon protein, putative, unclassified, expressed	220	-
+Os03t0752300-01_S_3	POT1817	- g - t - - - t - - g - - - - - - c - - - - -	5M	LOC_Os05g20830.1 CDS|retrotransposon protein, putative, unclassified, expressed	1250	-
+Os03t0752300-01_S_3	POT1829	- g - t - - - t - - g - - - - - - c - - - - -	5M	LOC_Os05g22640.1 CDS|retrotransposon protein, putative, unclassified	518	-
+Os03t0752300-01_S_3	POT1919	- - c - - a - - - - - - g c - - - a - - - - -	5M	LOC_Os05g34550.1 CDS|MLO domain containing protein, putative, expressed	323	+
+Os03t0752300-01_S_3	POT1921	- - c - - a - - - - - - g c - - - a - - - - -	5M	LOC_Os05g34550.3 CDS|MLO domain containing protein, putative, expressed	323	+
+Os03t0752300-01_S_3	POT1923	- - c - - a - - - - - - g c - - - a - - - - -	5M	LOC_Os05g34550.2 CDS|MLO domain containing protein, putative, expressed	206	+
+Os03t0752300-01_S_3	POT2234	- - - - - - a - c - - - - a - - - - - g - a -	4M	LOC_Os06g34380.1 CDS|transposon protein, putative, Pong sub-class	191	-
+Os03t0752300-01_S_3	POT2633	- - - - - - a - c - - - - a - - - - - g - a -	4M	LOC_Os07g38780.1 CDS|transposon protein, putative, Pong sub-class	191	-
+Os03t0752300-01_S_3	POT2678	- - - - t g - - a - - - - - - - - - - - - a -	3M	LOC_Os07g44640.1 CDS|ZOS7-13 - C2H2 zinc finger protein, expressed	614	+
+Os03t0752300-01_S_3	POT2709	- - - - t - - - c - - - g - c - c - - - - - -	5M	LOC_Os07g47440.1 CDS|retrotransposon protein, putative, unclassified, expressed	281	+
+Os03t0752300-01_S_3	POT3024	- - - - t - - - t - - - - - g - c a - - - - -	5M	LOC_Os08g39500.1 CDS|60S ribosomal protein L31, putative, expressed	109	-
+Os03t0752300-01_S_3	POT3313	- g - t - - - t - - g - - - - - - c - - - - -	5M	LOC_Os10g08070.1 CDS|retrotransposon protein, putative, unclassified, expressed	444	-
+Os03t0752300-01_S_3	POT3655	- - - - - - a - c - - - - a - - - - - g - a -	4M	LOC_Os11g31510.1 CDS|transposon protein, putative, Pong sub-class, expressed	191	-
+Os03t0752300-01_S_3	POT3829	- - - - - g a a - g - - - - - - - g - - - - -	5M	LOC_Os12g08440.1 CDS|retrotransposon protein, putative, unclassified, expressed	154	-
+Os03t0752300-01_S_3	POT3890	- - - - - - - t t - - - - c - a - - - - t - -	4M	LOC_Os12g18080.1 CDS|retrotransposon protein, putative, unclassified, expressed	2263	-
+Os03t0752300-01_S_3	POT4019	- - - - - - - - c c - - - a - - c a - - - - -	5M	LOC_Os12g33160.1 CDS|RGH1A, putative, expressed	1874	+
+Os03t0752300-01_S_3	POT4038	- - - - - - - - c c - - - a - - c a - - - - -	5M	LOC_Os12g36720.1 CDS|RGH1A, putative, expressed	1844	+

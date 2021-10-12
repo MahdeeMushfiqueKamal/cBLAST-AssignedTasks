@@ -1,0 +1,7 @@
+Os03t0752300-01_S_78	POT1179	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	779	+
+Os03t0752300-01_S_78	POT1232	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	779	+
+Os03t0752300-01_S_78	POT1276	- g - c - - - - - c - - - a - c - - - - - - -	5M	LOC_Os03g61940.1 CDS|small heat shock protein, chloroplast precursor, putative, expressed	315	-
+Os03t0752300-01_S_78	POT1633	a - - - - - - - - t - - - g - t t - - - - - -	5M	LOC_Os04g51080.1 CDS|scramblase, putative, expressed	542	+
+Os03t0752300-01_S_78	POT2353	- g - - - c - g - - - - - g - - - - - g - - -	5M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	764	+
+Os03t0752300-01_S_78	POT2539	- - - - - - - - a - - - - - t g - a - g - - -	5M	LOC_Os07g27320.1 CDS|glycosyl hydrolase family 10 protein, putative, expressed	2095	-
+Os03t0752300-01_S_78	POT4090	t c - - - - g - a - - - - - - - - - t - - - -	5M	LOC_Os12g44210.1 CDS|ATPase, AAA family domain containing protein, expressed	542	+

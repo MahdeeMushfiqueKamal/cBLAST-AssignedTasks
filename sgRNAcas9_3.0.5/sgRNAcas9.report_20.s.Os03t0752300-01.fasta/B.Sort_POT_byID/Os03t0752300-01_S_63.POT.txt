@@ -1,0 +1,6 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_63_POT1165	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	555	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_63_POT1218	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	555	+	seed_ident	
+- g - g g - - - - g - - - - - - - - - - a - -	4M	Os03t0752300-01_S_63_POT3008	LOC_Os08g36470.1 CDS|transposon protein, putative, unclassified	53	+	regionI_ident	
+g a - - t - - - - - t - - - - - - - - - a - -	4M	Os03t0752300-01_S_63_POT3014	LOC_Os08g37260.2 CDS|expressed protein	1216	+	regionI_ident	
+g a - - t - - - - - t - - - - - - - - - a - -	4M	Os03t0752300-01_S_63_POT3015	LOC_Os08g37260.1 CDS|expressed protein	1216	+	regionI_ident	
+- g - g g - - - - g - - - - - - - - - - a - -	4M	Os03t0752300-01_S_63_POT3419	LOC_Os10g26370.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	53	+	regionI_ident	

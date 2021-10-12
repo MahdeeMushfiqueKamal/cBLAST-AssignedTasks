@@ -1,0 +1,10 @@
+Os03t0752300-01_S_38	POT517	- c - - - - - - - - - - c t - a - - c - - - -	5M	LOC_Os02g13930.1 CDS|expressed protein	643	-
+Os03t0752300-01_S_38	POT1046	- c - - - - - - - - a - - c - - - c - - t - -	4M	LOC_Os03g40220.1 CDS|retrotransposon protein, putative, unclassified	879	+
+Os03t0752300-01_S_38	POT1142	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	77	+
+Os03t0752300-01_S_38	POT1195	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	77	+
+Os03t0752300-01_S_38	POT1401	- c - - - - - - - - - - - g a - c - - a - - -	5M	LOC_Os04g14654.3 CDS|Sec1 family transport protein, putative, expressed	966	+
+Os03t0752300-01_S_38	POT1402	- c - - - - - - - - - - - g a - c - - a - - -	5M	LOC_Os04g14654.2 CDS|Sec1 family transport protein, putative, expressed	966	+
+Os03t0752300-01_S_38	POT1403	- c - - - - - - - - - - - g a - c - - a - - -	5M	LOC_Os04g14654.1 CDS|Sec1 family transport protein, putative, expressed	966	+
+Os03t0752300-01_S_38	POT1442	- - - - - g - - c - - - - - t - - a - g - - -	5M	LOC_Os04g20720.1 CDS|retrotransposon, putative, centromere-specific, expressed	55	-
+Os03t0752300-01_S_38	POT2488	- - - - - g - - c - - - - - t - - a - g - - -	5M	LOC_Os07g17980.1 CDS|retrotransposon, putative, centromere-specific, expressed	55	-
+Os03t0752300-01_S_38	POT2495	c - - - - - - - - - a - - t g - - - - - t - -	4M	LOC_Os07g19274.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	850	+

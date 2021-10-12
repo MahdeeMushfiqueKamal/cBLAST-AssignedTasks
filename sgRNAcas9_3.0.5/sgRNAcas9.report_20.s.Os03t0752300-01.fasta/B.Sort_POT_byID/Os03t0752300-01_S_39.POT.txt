@@ -1,0 +1,5 @@
+- - - - t - a - - - g - g - - - - - - - g - -	4M	Os03t0752300-01_S_39_POT826	LOC_Os03g05530.1 CDS|nodulin, putative, expressed	505	-	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_39_POT1143	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	93	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_39_POT1196	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	93	+	seed_ident	
+- - - g - - t - - c - t - - - - - - - - - a -	4M	Os03t0752300-01_S_39_POT2767	LOC_Os08g06590.1 CDS|expressed protein	496	-	regionI_ident	
+c - - t t - - - - - - t - - - - - - - - g - -	4M	Os03t0752300-01_S_39_POT3869	LOC_Os12g15370.1 CDS|expressed protein	285	+	regionI_ident	

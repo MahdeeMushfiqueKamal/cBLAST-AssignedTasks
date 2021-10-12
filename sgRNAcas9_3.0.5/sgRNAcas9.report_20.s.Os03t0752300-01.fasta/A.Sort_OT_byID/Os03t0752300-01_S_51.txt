@@ -1,0 +1,47 @@
+Os03t0752300-01_S_51	POT27	- - - - c t - - - - - - - - - - - c - - t - -	3M	LOC_Os01g05660.1 CDS|expressed protein	988	+
+Os03t0752300-01_S_51	POT28	- - - - c t - - - - - - - - - - - c - - t - -	3M	LOC_Os01g05660.3 CDS|expressed protein	988	+
+Os03t0752300-01_S_51	POT29	- - - - c t - - - - - - - - - - - c - - t - -	3M	LOC_Os01g05660.2 CDS|expressed protein	988	+
+Os03t0752300-01_S_51	POT71	- - - - a - c - t a - - - - - - - g - - - - -	5M	LOC_Os01g13100.1 CDS|KH domain containing protein, putative, expressed	226	+
+Os03t0752300-01_S_51	POT455	- t - - - g - - - - g - - - t - g - - - - - -	5M	LOC_Os02g04440.2 CDS|transducin family protein, putative, expressed	2170	+
+Os03t0752300-01_S_51	POT456	- t - - - g - - - - g - - - t - g - - - - - -	5M	LOC_Os02g04440.4 CDS|transducin family protein, putative, expressed	766	+
+Os03t0752300-01_S_51	POT457	- t - - - g - - - - g - - - t - g - - - - - -	5M	LOC_Os02g04440.3 CDS|transducin family protein, putative, expressed	808	+
+Os03t0752300-01_S_51	POT544	- - - - - - - - - - - - c - - - a - c a c - -	4M	LOC_Os02g17714.1 CDS|expressed protein	203	-
+Os03t0752300-01_S_51	POT837	- - - c - a - - - - c - - - t t - - - - - - -	5M	LOC_Os03g07480.4 CDS|sucrose transporter, putativ, expressed	565	+
+Os03t0752300-01_S_51	POT838	- - - c - a - - - - c - - - t t - - - - - - -	5M	LOC_Os03g07480.1 CDS|sucrose transporter, putativ, expressed	565	+
+Os03t0752300-01_S_51	POT839	- - - c - a - - - - c - - - t t - - - - - - -	5M	LOC_Os03g07480.2 CDS|sucrose transporter, putativ, expressed	565	+
+Os03t0752300-01_S_51	POT840	- - - c - a - - - - c - - - t t - - - - - - -	5M	LOC_Os03g07480.3 CDS|sucrose transporter, putativ, expressed	565	+
+Os03t0752300-01_S_51	POT849	- - - - g g - - - - - - - t c - - - a - - - -	5M	LOC_Os03g08740.2 CDS|expressed protein	1009	+
+Os03t0752300-01_S_51	POT850	- - - - g g - - - - - - - t c - - - a - - - -	5M	LOC_Os03g08740.1 CDS|expressed protein	1009	+
+Os03t0752300-01_S_51	POT860	- - - - a g - - - - c - - - - - g - - g - - -	5M	LOC_Os03g09980.1 CDS|sulfate transporter, putative, expressed	1656	+
+Os03t0752300-01_S_51	POT1033	- - - - - - c - - - - - - - - c - t c - - - -	4M	LOC_Os03g37984.1 CDS|amino acid permease family protein, putative, expressed	1272	+
+Os03t0752300-01_S_51	POT1034	- - - - - - c - - - - - - - - c - t c - - - -	4M	LOC_Os03g37984.2 CDS|amino acid permease family protein, putative, expressed	1098	+
+Os03t0752300-01_S_51	POT1035	- - - - - - c - - - - - - - - c - t c - - - -	4M	LOC_Os03g37984.5 CDS|amino acid permease family protein, putative, expressed	1047	+
+Os03t0752300-01_S_51	POT1036	- - - - - - c - - - - - - - - c - t c - - - -	4M	LOC_Os03g37984.4 CDS|amino acid permease family protein, putative, expressed	1047	+
+Os03t0752300-01_S_51	POT1037	- - - - - - c - - - - - - - - c - t c - - - -	4M	LOC_Os03g37984.3 CDS|amino acid permease family protein, putative, expressed	1047	+
+Os03t0752300-01_S_51	POT1152	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	250	+
+Os03t0752300-01_S_51	POT1205	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	250	+
+Os03t0752300-01_S_51	POT1384	- - - a - g - - - c t g - - - - - - - - - - -	5M	LOC_Os04g12639.1 CDS|carboxyl-terminal proteinase, putative, expressed	1076	+
+Os03t0752300-01_S_51	POT1400	- - c - - - - - c - g - - - - c c - - - - - -	5M	LOC_Os04g14550.1 CDS|retrotransposon protein, putative, Ty1-copia subclass, expressed	2047	+
+Os03t0752300-01_S_51	POT1446	- - c - - - - - c - g - - - - - c - - - c - -	4M	LOC_Os04g21700.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	3	+
+Os03t0752300-01_S_51	POT1452	- - - - - - - a - - - c - - a c - - - - c - -	4M	LOC_Os04g22420.1 CDS|retrotransposon protein, putative, unclassified, expressed	165	+
+Os03t0752300-01_S_51	POT1606	- - - - c - - - - - - - - c t - - - - t - a -	4M	LOC_Os04g46370.2 CDS|L-asparaginase precursor protein, putative, expressed	649	+
+Os03t0752300-01_S_51	POT1607	- - - - c - - - - - - - - c t - - - - t - a -	4M	LOC_Os04g46370.1 CDS|L-asparaginase precursor protein, putative, expressed	991	+
+Os03t0752300-01_S_51	POT1608	- - - - c - - - - - - - - c t - - - - t - a -	4M	LOC_Os04g46370.3 CDS|L-asparaginase precursor protein, putative, expressed	649	+
+Os03t0752300-01_S_51	POT1667	- t - - g a - - - t - - c - - - - - - - - - -	5M	LOC_Os04g55840.1 CDS|expressed protein	258	+
+Os03t0752300-01_S_51	POT1668	- t - - g a - - - t - - c - - - - - - - - - -	5M	LOC_Os04g55840.1 CDS|expressed protein	408	+
+Os03t0752300-01_S_51	POT1669	- t - - g a - - - - - - c - - - - - - - - - -	4M	LOC_Os04g55840.1 CDS|expressed protein	558	+
+Os03t0752300-01_S_51	POT1708	- t - - - - - - - - t - - t - - - c - g - - -	5M	LOC_Os05g03900.2 CDS|WRKY109, expressed	473	-
+Os03t0752300-01_S_51	POT1709	- t - - - - - - - - t - - t - - - c - g - - -	5M	LOC_Os05g03900.1 CDS|WRKY109, expressed	473	-
+Os03t0752300-01_S_51	POT1943	- - - - - - - - c - - - - g - g c - - - c - -	4M	LOC_Os05g38890.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	465	+
+Os03t0752300-01_S_51	POT2294	- - g - c - - - - - - c - - - - - c - - g - -	4M	LOC_Os06g45800.1 CDS|PAP/25A associated domain containing protein, putative, expressed	499	+
+Os03t0752300-01_S_51	POT2657	- - - - - - c - t - - - - - c - a - - - - a -	4M	LOC_Os07g41564.1 CDS|DEAD/DEAH box helicase domain protein, putative, expressed	2215	-
+Os03t0752300-01_S_51	POT2658	- - - - - - c - t - - - - - c - a - - - - a -	4M	LOC_Os07g41570.1 CDS|expressed protein	421	-
+Os03t0752300-01_S_51	POT2837	- g g - - - - - - - t - a - - - - - a - - - -	5M	LOC_Os08g16310.1 CDS|expressed protein	109	+
+Os03t0752300-01_S_51	POT3038	- - - - a - - - t - c - - - - t - - - - g - -	4M	LOC_Os08g41370.1 CDS|amino acid permease family protein, putative, expressed	309	+
+Os03t0752300-01_S_51	POT3501	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os11g01510.3 CDS|ubiquitin-activating enzyme, putative, expressed	2241	-
+Os03t0752300-01_S_51	POT3502	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os11g01510.1 CDS|ubiquitin-activating enzyme, putative, expressed	2241	-
+Os03t0752300-01_S_51	POT3503	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os11g01510.2 CDS|ubiquitin-activating enzyme, putative, expressed	2241	-
+Os03t0752300-01_S_51	POT3781	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os12g01520.2 CDS|ubiquitin-activating enzyme, putative, expressed	2001	-
+Os03t0752300-01_S_51	POT3782	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os12g01520.3 CDS|ubiquitin-activating enzyme, putative, expressed	2001	-
+Os03t0752300-01_S_51	POT3783	- - - - g - t - - - - - c - - - - g - - - a -	4M	LOC_Os12g01520.1 CDS|ubiquitin-activating enzyme, putative, expressed	2001	-
+Os03t0752300-01_S_51	POT3981	- t - - - a - - c - - - - - c - - - - - - a -	4M	LOC_Os12g28040.1 CDS|NBS-LRR disease resistance protein, putative, expressed	214	+

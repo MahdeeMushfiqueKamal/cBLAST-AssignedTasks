@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1171	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	655	+	Os03t0752300-01_S_69
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1224	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	655	+	Os03t0752300-01_S_69
+c - g t g - t - - - - - - - - - - - - - - - -	5M	POT1522	LOC_Os04g32730.1 CDS|retrotransposon protein, putative, unclassified, expressed	2431	-	Os03t0752300-01_S_69

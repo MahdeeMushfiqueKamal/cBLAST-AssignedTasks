@@ -1,0 +1,11 @@
+Os03t0752300-01_S_35	POT373	- - g - - - t - - - - - - - - - - a - c - a -	4M	LOC_Os01g65240.1 CDS|transposon protein, putative, Pong sub-class, expressed	512	+
+Os03t0752300-01_S_35	POT942	- c - - - - - - g - - - - - - - - g g c - - -	5M	LOC_Os03g22860.1 CDS|retrotransposon protein, putative, unclassified, expressed	767	-
+Os03t0752300-01_S_35	POT1057	- c - c g - - - - c - - - - - - - t - - - - -	5M	LOC_Os03g42420.1 CDS|B3 DNA binding domain containing protein, expressed	813	-
+Os03t0752300-01_S_35	POT1139	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	38	+
+Os03t0752300-01_S_35	POT1192	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	38	+
+Os03t0752300-01_S_35	POT1897	- - - g - - - - g - - - - - - - c - c - - - -	4M	LOC_Os05g31930.1 CDS|retrotransposon protein, putative, unclassified, expressed	496	-
+Os03t0752300-01_S_35	POT2429	- - - g - - - - g - - - - - - - - g g c - - -	5M	LOC_Os07g11200.1 CDS|retrotransposon protein, putative, unclassified, expressed	244	-
+Os03t0752300-01_S_35	POT3246	- g - t g - - - t g - - - - - - - - - - - - -	5M	LOC_Os09g32580.1 CDS|expressed protein	746	+
+Os03t0752300-01_S_35	POT3445	- - c g - - - - - c - c a - - - - - - - - - -	5M	LOC_Os10g32010.1 CDS|expressed protein	184	+
+Os03t0752300-01_S_35	POT3494	- - - c - - t - c c - - - - - - - - - - - a -	4M	LOC_Os10g42724.1 CDS|VHS and GAT domain containing protein, expressed	620	-
+Os03t0752300-01_S_35	POT3748	c - - c - - - - g - - a - c - - - - - - - - -	5M	LOC_Os11g44230.1 CDS|expressed protein	886	+

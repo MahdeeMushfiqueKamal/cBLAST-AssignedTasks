@@ -1,0 +1,8 @@
+Os03t0752300-01_S_37	POT380	g - - - - - - g - - - - - - a g - - - a - - -	5M	LOC_Os01g65904.1 CDS|expressed protein	676	-
+Os03t0752300-01_S_37	POT543	- - - - a - - - a - - - - - a c - - - g - - -	5M	LOC_Os02g17700.1 CDS|pyridine nucleotide-disulphide oxidoreductase domain containing protein, expressed	1377	-
+Os03t0752300-01_S_37	POT743	- - - g - c a g - - - - a - - - - - - - - - -	5M	LOC_Os02g50840.1 CDS|BAH domain containing protein, putative, expressed	629	+
+Os03t0752300-01_S_37	POT745	- - - g - c a g - - - - a - - - - - - - - - -	5M	LOC_Os02g50840.2 CDS|BAH domain containing protein, putative, expressed	629	+
+Os03t0752300-01_S_37	POT1141	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	62	+
+Os03t0752300-01_S_37	POT1194	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	62	+
+Os03t0752300-01_S_37	POT1265	- - g g c - - - - c - - - - - g - - - - - - -	5M	LOC_Os03g59020.1 CDS|T-complex protein, putative, expressed	274	+
+Os03t0752300-01_S_37	POT3632	- - - - - - - - - c - - - - - a g g c - - - -	5M	LOC_Os11g27400.1 CDS|glycosyl hydrolase, putative, expressed	581	-

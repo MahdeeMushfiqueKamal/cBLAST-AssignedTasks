@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_81_POT1182	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	801	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_81_POT1235	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	801	+	seed_ident	
+t g - - - - - - g - - a a - - - - - - - - - -	5M	Os03t0752300-01_S_81_POT3573	LOC_Os11g15170.1 CDS|transposon protein, putative, unclassified, expressed	2355	+	regionI_ident	

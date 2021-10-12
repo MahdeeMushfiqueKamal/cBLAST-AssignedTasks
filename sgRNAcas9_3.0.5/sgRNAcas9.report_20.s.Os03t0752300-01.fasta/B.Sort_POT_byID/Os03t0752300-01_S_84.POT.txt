@@ -1,0 +1,9 @@
+g - - a - a g - - - - - - - - - - - - - - a -	4M	Os03t0752300-01_S_84_POT209	LOC_Os01g37980.1 CDS|vesicle transport v-SNARE protein, putative, expressed	153	+	seed_ident	
+- - - a c - - - - - - - - - - a - - - - - - -	3M	Os03t0752300-01_S_84_POT762	LOC_Os02g53670.4 CDS|MYB family transcription factor, putative, expressed	831	+	random_0_3M	
+- - - a c - - - - - - - - - - a - - - - - - -	3M	Os03t0752300-01_S_84_POT763	LOC_Os02g53670.3 CDS|MYB family transcription factor, putative, expressed	831	+	random_0_3M	
+- - - a c - - - - - - - - - - a - - - - - - -	3M	Os03t0752300-01_S_84_POT764	LOC_Os02g53670.1 CDS|MYB family transcription factor, putative, expressed	831	+	random_0_3M	
+- - - a c - - - - - - - - - - a - - - - - - -	3M	Os03t0752300-01_S_84_POT765	LOC_Os02g53670.2 CDS|MYB family transcription factor, putative, expressed	831	+	random_0_3M	
+- - - - c - t - - - - g - - - - - - - - c a -	4M	Os03t0752300-01_S_84_POT1096	LOC_Os03g49900.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1155	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_84_POT1185	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	837	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_84_POT1238	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	837	+	seed_ident	
+- - - - - a t - t - t - - - - - - - - - - a -	4M	Os03t0752300-01_S_84_POT2906	LOC_Os08g23570.1 CDS|B3 DNA binding domain containing protein, expressed	963	-	regionI_ident	

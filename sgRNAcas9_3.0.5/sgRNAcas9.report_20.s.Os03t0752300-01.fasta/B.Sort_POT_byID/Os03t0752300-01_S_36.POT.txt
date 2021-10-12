@@ -1,0 +1,4 @@
+a - - - - c a a - - c - - - - - - - - - - - -	5M	Os03t0752300-01_S_36_POT131	LOC_Os01g23330.1 CDS|retrotransposon, putative, centromere-specific, expressed	262	+	regionI_ident	
+- - - - - c a a a - c - - - - - - - - - - - -	5M	Os03t0752300-01_S_36_POT168	LOC_Os01g32020.1 CDS|retrotransposon, putative, centromere-specific, expressed	67	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_36_POT1140	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	52	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_36_POT1193	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	52	+	seed_ident	

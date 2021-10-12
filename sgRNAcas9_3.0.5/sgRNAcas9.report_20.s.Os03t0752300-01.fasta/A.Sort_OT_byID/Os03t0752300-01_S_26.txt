@@ -1,0 +1,12 @@
+Os03t0752300-01_S_26	POT195	- g - - - - - - - - c - - - - g t g - - - - -	5M	LOC_Os01g35810.1 CDS|expressed protein	266	+
+Os03t0752300-01_S_26	POT550	a - - - - - - - - - g a - - - a - - - - - a -	4M	LOC_Os02g19050.1 CDS|expressed protein	21	-
+Os03t0752300-01_S_26	POT951	- - c - - - - g - - g - - - t - - g - - - - -	5M	LOC_Os03g24830.1 CDS|uncharacterized protein HI0077, putative, expressed	201	-
+Os03t0752300-01_S_26	POT1896	a - - - c - - c - - - a - - - g - - - - - - -	5M	LOC_Os05g31744.1 CDS|expressed protein	81	-
+Os03t0752300-01_S_26	POT2196	- - - - c c - - c - - - - - c - - - - c - - -	5M	LOC_Os06g28860.1 CDS|retrotransposon protein, putative, unclassified, expressed	462	-
+Os03t0752300-01_S_26	POT2287	- - - - t - - - - - g g - a - a - - - - - - -	5M	LOC_Os06g44760.1 CDS|expressed protein	1070	+
+Os03t0752300-01_S_26	POT2298	- - - - - - - - - a - - - - - - - g - c a a -	4M	LOC_Os06g46180.1 CDS|retrotransposon protein, putative, unclassified, expressed	1703	+
+Os03t0752300-01_S_26	POT2517	g a - - - c - g - - - - - - - g - - - - - - -	5M	LOC_Os07g23900.1 CDS|OsFBX234 - F-box domain containing protein, expressed	254	-
+Os03t0752300-01_S_26	POT2561	- - - t - - - - a - - t - - a - - - - - c - -	4M	LOC_Os07g29140.1 CDS|retrotransposon protein, putative, Ty1-copia subclass, expressed	942	+
+Os03t0752300-01_S_26	POT3201	- t g - - - - - a - - t - - - - - - t - - - -	5M	LOC_Os09g24170.1 CDS|expressed protein	321	+
+Os03t0752300-01_S_26	POT3541	c - - - - - - - - - - - - t c - t g - - - - -	5M	LOC_Os11g08380.1 CDS|1-aminocyclopropane-1-carboxylate oxidase, putative, expressed	296	-
+Os03t0752300-01_S_26	POT3648	a - - - t - - c - - - a - - - g - - - - - - -	5M	LOC_Os11g31140.1 CDS|expressed protein	74	+

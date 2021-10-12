@@ -1,0 +1,19 @@
+Os03t0752300-01_S_73	POT134	g - - - - - - g - g c - - a - - - - - - - - -	5M	LOC_Os01g24010.1 CDS|pleiotropic drug resistance protein, putative, expressed	2398	+
+Os03t0752300-01_S_73	POT346	- g - - - - - - c t c - - - - - - g - - - - -	5M	LOC_Os01g58240.1 CDS|OsSub6 - Putative Subtilisin homologue, expressed	1610	+
+Os03t0752300-01_S_73	POT347	- g - - - - - - c t g - - - - - - - g - - - -	5M	LOC_Os01g58270.1 CDS|OsSub7 - Putative Subtilisin homologue, expressed	1808	+
+Os03t0752300-01_S_73	POT882	c - c - - - - - - - - - - - g g - - t - - - -	5M	LOC_Os03g13250.1 CDS|peptide transporter PTR2, putative, expressed	1609	-
+Os03t0752300-01_S_73	POT1176	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	687	+
+Os03t0752300-01_S_73	POT1229	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	687	+
+Os03t0752300-01_S_73	POT1372	- - c - - - t - - g - - - - - - - - g g - - -	5M	LOC_Os04g10740.1 CDS|retrotransposon protein, putative, unclassified, expressed	547	+
+Os03t0752300-01_S_73	POT1532	- - - - - a - - - - - - - g a a - - g - - - -	5M	LOC_Os04g34390.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	1509	+
+Os03t0752300-01_S_73	POT1916	a - - - - - - - - - - - g g a g - - - - - - -	5M	LOC_Os05g34390.1 CDS|protein kinase domain containing protein, expressed	1722	+
+Os03t0752300-01_S_73	POT2447	- - - - t - - - c - - - - c - - t t - - - - -	5M	LOC_Os07g13400.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	362	-
+Os03t0752300-01_S_73	POT2928	c - - - - - - - - a - - - - - a - - - - a - -	3M	LOC_Os08g27240.1 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	1013	-
+Os03t0752300-01_S_73	POT2997	c - - - - - - - - g - - - - - a - - - - a - -	3M	LOC_Os08g35010.1 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	461	-
+Os03t0752300-01_S_73	POT2999	c - - - - - - - c g - - - - - a - - - - a - -	4M	LOC_Os08g35050.2 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	959	-
+Os03t0752300-01_S_73	POT3001	c - - - - - - - c g - - - - - a - - - - a - -	4M	LOC_Os08g35050.1 CDS|ARID/BRIGHT DNA-binding domain containing protein, expressed	959	-
+Os03t0752300-01_S_73	POT3177	c - - - - t - - c - - - - - - - - - - t - a -	4M	LOC_Os09g17930.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	122	-
+Os03t0752300-01_S_73	POT3638	- - - - - t - a g - - - t - - - - - - - - a -	4M	LOC_Os11g29110.1 CDS|Leucine Rich Repeat family protein, expressed	2363	-
+Os03t0752300-01_S_73	POT3762	c - - - - - - - c - a - - - t g - - - - - - -	5M	LOC_Os11g46130.1 CDS|stripe rust resistance protein Yr10, putative, expressed	684	-
+Os03t0752300-01_S_73	POT3821	c - t - - - - - - - - g c - - - - - g - - - -	5M	LOC_Os12g07060.1 CDS|chaperone protein dnaJ, putative, expressed	393	-
+Os03t0752300-01_S_73	POT4084	a - c t - - - - g t - - - - - - - - - - - - -	5M	LOC_Os12g43520.1 CDS|cbbY protein-related, putative, expressed	746	-

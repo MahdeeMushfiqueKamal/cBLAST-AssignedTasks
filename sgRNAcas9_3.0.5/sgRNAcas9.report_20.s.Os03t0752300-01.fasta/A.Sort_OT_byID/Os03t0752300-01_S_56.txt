@@ -1,0 +1,26 @@
+Os03t0752300-01_S_56	POT239	g - - c - - g - - - - - - t - - - - - g - - -	5M	LOC_Os01g42090.1 CDS|nodulin MtN3 family protein, putative, expressed	647	-
+Os03t0752300-01_S_56	POT391	- - g - - - g - - t - - g - - - - - - - a - -	4M	LOC_Os01g68320.5 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-
+Os03t0752300-01_S_56	POT392	- - g - - - g - - t - - g - - - - - - - a - -	4M	LOC_Os01g68320.1 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-
+Os03t0752300-01_S_56	POT393	- - g - - - g - - t - - g - - - - - - - a - -	4M	LOC_Os01g68320.2 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-
+Os03t0752300-01_S_56	POT394	- - g - - - g - - t - - g - - - - - - - a - -	4M	LOC_Os01g68320.4 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-
+Os03t0752300-01_S_56	POT395	- - g - - - g - - t - - g - - - - - - - a - -	4M	LOC_Os01g68320.3 CDS|DEAD-box ATP-dependent RNA helicase 30, putative, expressed	99	-
+Os03t0752300-01_S_56	POT472	- c t - - - - - - g - a a - - - - - - - - - -	5M	LOC_Os02g06230.1 CDS|retrotransposon protein, putative, unclassified, expressed	1159	-
+Os03t0752300-01_S_56	POT1158	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	384	+
+Os03t0752300-01_S_56	POT1211	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	384	+
+Os03t0752300-01_S_56	POT1393	- - - - - c - a - - - - - - a - t - a - - - -	5M	LOC_Os04g13800.1 CDS|retrotransposon protein, putative, unclassified, expressed	647	+
+Os03t0752300-01_S_56	POT1728	- t - - a - g - - - - g - - g - - - - - - - -	5M	LOC_Os05g08220.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	260	+
+Os03t0752300-01_S_56	POT2111	- - - c - - - - - t - - t - - - - - - - - - -	3M	LOC_Os06g14750.1 CDS|phosphatidylinositol-4-phosphate 5-Kinase family protein, putative, expressed	2425	+
+Os03t0752300-01_S_56	POT2120	- t - - a - g - - - - g - - g - - - - - - - -	5M	LOC_Os06g16100.1 CDS|retrotransposon, putative, centromere-specific, expressed	2432	-
+Os03t0752300-01_S_56	POT2426	- c - - - g - t - - - - - - - - - a - t - - -	5M	LOC_Os07g10250.1 CDS|DEAD-box ATP-dependent RNA helicase 52B, putative, expressed	783	-
+Os03t0752300-01_S_56	POT2973	- - - c - - - - - t - c t - - - - - - - c - -	4M	LOC_Os08g33200.1 CDS|1-phosphatidylinositol-4-phosphate 5-kinase/ zinc ion binding protein, putative, expressed	2605	+
+Os03t0752300-01_S_56	POT3199	- - - c - - - - - t - c t - - - - - - - c - -	4M	LOC_Os09g23740.1 CDS|1-phosphatidylinositol-4-phosphate 5-kinase/ zinc ion binding protein, putative, expressed	2638	+
+Os03t0752300-01_S_56	POT3234	- c - - c g - - g - - - - - - - - - c - - - -	5M	LOC_Os09g30510.1 CDS|glucosyl transferase, putative, expressed	357	-
+Os03t0752300-01_S_56	POT3251	- - - - g - - - - - g - - t - - - - - t g - -	4M	LOC_Os09g33870.1 CDS|RNA recognition motif containing protein, putative, expressed	729	-
+Os03t0752300-01_S_56	POT3270	g - - - c - - c - - - - - - - - - a a - - - -	5M	LOC_Os09g38650.1 CDS|expressed protein	867	+
+Os03t0752300-01_S_56	POT3486	- c - - c c - - - - - c - - - - - - g - - - -	5M	LOC_Os10g41838.2 CDS|F-box protein interaction domain containing protein, expressed	240	+
+Os03t0752300-01_S_56	POT3487	- c - - c c - - - - - c - - - - - - g - - - -	5M	LOC_Os10g41838.1 CDS|F-box protein interaction domain containing protein, expressed	240	+
+Os03t0752300-01_S_56	POT3532	- - - - c - - t - - - - - - g - - - g t - - -	5M	LOC_Os11g06200.1 CDS|expressed protein	306	-
+Os03t0752300-01_S_56	POT3533	- - - - - - - t - - - - - - g - - - g t - - -	4M	LOC_Os11g06230.1 CDS|expressed protein	396	-
+Os03t0752300-01_S_56	POT4020	- - a - g - - - g - - - - - - - - c g - - - -	5M	LOC_Os12g33270.1 CDS|expressed protein	339	-
+Os03t0752300-01_S_56	POT4024	- t - - a - g - - - - g - - g - - - - - - - -	5M	LOC_Os12g33500.1 CDS|retrotransposon, putative, centromere-specific, expressed	770	-
+Os03t0752300-01_S_56	POT4025	- - a - g - - - g - - - - - - - - c g - - - -	5M	LOC_Os12g33780.1 CDS|expressed protein	294	-

@@ -1,0 +1,31 @@
+Os03t0752300-01_S_44	POT798	- c - - - - t - - a - - - c - c - - - - - - -	5M	LOC_Os02g57800.1 CDS|PPR repeat containing protein, expressed	2553	+
+Os03t0752300-01_S_44	POT835	g - - g - - - - - - - - - a - - - - g - t - -	4M	LOC_Os03g07150.1 CDS|OsPP2Ac-5 - Phosphatase 2A isoform 5 belonging to family 2, expressed	114	+
+Os03t0752300-01_S_44	POT836	g - - g - - - - - - - - - a - - - - g - t - -	4M	LOC_Os03g07150.2 CDS|OsPP2Ac-5 - Phosphatase 2A isoform 5 belonging to family 2, expressed	96	+
+Os03t0752300-01_S_44	POT996	- - - - - g g t t - c - - - - - - - - - - - -	5M	LOC_Os03g31992.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	411	+
+Os03t0752300-01_S_44	POT1109	a g - - - - - - g - - - - - - c a - - - - - -	5M	LOC_Os03g51479.3 CDS|maf, putative, expressed	330	+
+Os03t0752300-01_S_44	POT1110	a g - - - - - - g - - - - - - c a - - - - - -	5M	LOC_Os03g51479.1 CDS|maf, putative, expressed	330	+
+Os03t0752300-01_S_44	POT1111	a g - - - - - - g - - - - - - c a - - - - - -	5M	LOC_Os03g51479.2 CDS|maf, putative, expressed	330	+
+Os03t0752300-01_S_44	POT1124	- c - - - - - - - - - - - - - c g - - - t - -	3M	LOC_Os03g53080.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1257	+
+Os03t0752300-01_S_44	POT1148	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	153	+
+Os03t0752300-01_S_44	POT1201	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	153	+
+Os03t0752300-01_S_44	POT1569	- g - - - - - - - - t t - - - g - g - - - - -	5M	LOC_Os04g40900.1 CDS|exonuclease, putative, expressed	1068	+
+Os03t0752300-01_S_44	POT1646	- t c - - a - - - - - - - c - - - c - - - - -	5M	LOC_Os04g52540.1 CDS|retrotransposon protein, putative, unclassified, expressed	720	+
+Os03t0752300-01_S_44	POT2513	- g c - - - t - - - a - - - - g - - - - - - -	5M	LOC_Os07g23540.1 CDS|retrotransposon protein, putative, unclassified, expressed	5820	+
+Os03t0752300-01_S_44	POT2682	g - c - - - a - t - - - - - - g - - - - - - -	5M	LOC_Os07g45330.1 CDS|expressed protein	714	+
+Os03t0752300-01_S_44	POT2813	- g - - - - - - - - t t - - - g - g - - - - -	5M	LOC_Os08g13890.1 CDS|exonuclease, putative, expressed	1035	+
+Os03t0752300-01_S_44	POT2957	- - - - - - a t t - c - - - - - c - - - - - -	5M	LOC_Os08g30950.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1215	+
+Os03t0752300-01_S_44	POT3070	g c - g - - - - - - - - - - - c c - - - - - -	5M	LOC_Os09g02770.2 CDS|translation initiation factor IF-2, putative, expressed	699	+
+Os03t0752300-01_S_44	POT3071	g c - g - - - - - - - - - - - c c - - - - - -	5M	LOC_Os09g02770.1 CDS|translation initiation factor IF-2, putative, expressed	757	+
+Os03t0752300-01_S_44	POT3207	g - - - - - t g - - - t - - - c - - - - - - -	5M	LOC_Os09g25620.2 CDS|CPuORF8 - conserved peptide uORF-containing transcript, expressed	597	+
+Os03t0752300-01_S_44	POT3208	g - - - - - t g - - - t - - - c - - - - - - -	5M	LOC_Os09g25620.3 CDS|CPuORF8 - conserved peptide uORF-containing transcript, expressed	597	+
+Os03t0752300-01_S_44	POT3209	g - - - - - t g - - - t - - - c - - - - - - -	5M	LOC_Os09g25620.1 CDS|CPuORF8 - conserved peptide uORF-containing transcript, expressed	597	+
+Os03t0752300-01_S_44	POT3210	g - - - - - t g - - - t - - - c - - - - - - -	5M	LOC_Os09g25620.4 CDS|CPuORF8 - conserved peptide uORF-containing transcript, expressed	597	+
+Os03t0752300-01_S_44	POT3211	g - - - - - t g - - - t - - - c - - - - - - -	5M	LOC_Os09g25625.1 CDS|S-adenosyl-l-methionine decarboxylase leader peptide, putative, expressed	597	+
+Os03t0752300-01_S_44	POT3400	- g c - - - t - - - a - - - - g - - - - - - -	5M	LOC_Os10g23110.1 CDS|retrotransposon protein, putative, unclassified, expressed	3534	+
+Os03t0752300-01_S_44	POT3530	- - - - - a a - - - - - - - - g - - a g - - -	5M	LOC_Os11g05720.1 CDS|retrotransposon protein, putative, unclassified, expressed	1017	+
+Os03t0752300-01_S_44	POT3751	- - g t - - a - g - - - - g - - - - - - - - -	5M	LOC_Os11g44930.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	942	+
+Os03t0752300-01_S_44	POT3766	- c - - - t - - - - - - - - - t g - g - - - -	5M	LOC_Os11g47120.1 CDS|DEFL48 - Defensin and Defensin-like DEFL family, expressed	237	+
+Os03t0752300-01_S_44	POT3767	- c - - - t - - - - - - - - - t g - g - - - -	5M	LOC_Os11g47330.1 CDS|ATP-grasp domain containing protein, expressed	237	+
+Os03t0752300-01_S_44	POT3892	- - - c t - - - - - c - - - - t g - - - - - -	5M	LOC_Os12g18760.2 CDS|peptidase family C78 domain containing protein, expressed	1572	-
+Os03t0752300-01_S_44	POT4017	- g c - - - t - - - a - - - - g - - - - - - -	5M	LOC_Os12g32690.1 CDS|retrotransposon protein, putative, unclassified, expressed	3150	+
+Os03t0752300-01_S_44	POT4041	- - - - - - a g - - - - - a - t g - - - - - -	5M	LOC_Os12g37100.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	1350	+

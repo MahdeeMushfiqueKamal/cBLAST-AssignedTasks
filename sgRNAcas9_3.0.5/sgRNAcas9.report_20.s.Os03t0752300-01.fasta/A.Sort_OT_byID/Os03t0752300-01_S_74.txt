@@ -1,0 +1,26 @@
+Os03t0752300-01_S_74	POT358	- - c - - - - - - g - g - - g - - c - - - - -	5M	LOC_Os01g61460.1 CDS|leaf senescence related protein, putative, expressed	673	-
+Os03t0752300-01_S_74	POT786	- - - - - t a c - - - - c - - - - - t - - - -	5M	LOC_Os02g56290.1 CDS|expressed protein	1627	-
+Os03t0752300-01_S_74	POT831	- c - - - t g g - - - - - - - - - - t - - - -	5M	LOC_Os03g06900.1 CDS|DNA topoisomerase 3 protein, putative, expressed	1092	+
+Os03t0752300-01_S_74	POT866	- - - - - - - - - - - - c t - - t - - - a a -	4M	LOC_Os03g11380.1 CDS|SNARE domain containing protein, putative, expressed	313	-
+Os03t0752300-01_S_74	POT867	- - - - - - - - - - - - c t - - t - - - a a -	4M	LOC_Os03g11380.2 CDS|SNARE domain containing protein, putative, expressed	313	-
+Os03t0752300-01_S_74	POT868	- - - - - - - - - - - - c t - - t - - - a a -	4M	LOC_Os03g11380.3 CDS|SNARE domain containing protein, putative, expressed	313	-
+Os03t0752300-01_S_74	POT981	- c - - a - c - - - g - - - - - t - - - - - -	5M	LOC_Os03g30350.1 CDS|retrotransposon protein, putative, unclassified, expressed	1010	+
+Os03t0752300-01_S_74	POT1177	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	688	+
+Os03t0752300-01_S_74	POT1230	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	688	+
+Os03t0752300-01_S_74	POT1533	- - - - a - - - - - - - g a a - - g - - - - -	5M	LOC_Os04g34390.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	1510	+
+Os03t0752300-01_S_74	POT1558	- - t c - t a a - - - - - - - - - - - - - - -	5M	LOC_Os04g39510.1 CDS|expressed protein	183	-
+Os03t0752300-01_S_74	POT1666	t c - - t - - - - - - - - - a - t - - - - - -	5M	LOC_Os04g55700.1 CDS|exonuclease, putative, expressed	1024	-
+Os03t0752300-01_S_74	POT1917	- - - - - - - - - - - g g a g - - - - - - - -	4M	LOC_Os05g34390.1 CDS|protein kinase domain containing protein, expressed	1723	+
+Os03t0752300-01_S_74	POT2018	- - - - t - - - - - - c - g - - - - t - t - -	4M	LOC_Os05g51920.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	157	-
+Os03t0752300-01_S_74	POT2036	- - - - t - - - - - - c - g - - - - - - c - -	3M	LOC_Os06g03130.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	106	-
+Os03t0752300-01_S_74	POT2054	- - - - - t - - t - - - - g - - - - - c t - -	4M	LOC_Os06g04340.1 CDS|expressed protein	1306	-
+Os03t0752300-01_S_74	POT2440	- - - - a - a a - - - - - - - - - - g - - a -	4M	LOC_Os07g12410.1 CDS|retrotransposon protein, putative, unclassified, expressed	1327	-
+Os03t0752300-01_S_74	POT2551	- - - - t - - - - - - c - g - - - - - - c a -	4M	LOC_Os07g28200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	91	-
+Os03t0752300-01_S_74	POT2875	- - - - t - - - - - - c - g - - - - - - c - -	3M	LOC_Os08g19750.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	392	-
+Os03t0752300-01_S_74	POT3079	t c - - a - - g - - - - - - - - - g - - - - -	5M	LOC_Os09g03750.1 CDS|ankyrin, putative, expressed	608	+
+Os03t0752300-01_S_74	POT3113	- - - - t - - - - - - c - g - - - - - - c a -	4M	LOC_Os09g09720.1 CDS|retrotransposon protein, putative, unclassified	1117	-
+Os03t0752300-01_S_74	POT3176	- - - - t - - c - - - - - - - - - - t - a - -	3M	LOC_Os09g17930.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	121	-
+Os03t0752300-01_S_74	POT3466	g c - - - g - - - - - - - g - - - t - - - - -	5M	LOC_Os10g35750.1 CDS|pentatricopeptide, putative, expressed	881	+
+Os03t0752300-01_S_74	POT3637	- - - - t - a g - - - t - - - - - - - - a - -	4M	LOC_Os11g29110.1 CDS|Leucine Rich Repeat family protein, expressed	2362	-
+Os03t0752300-01_S_74	POT3881	t - - - t - - a - - t - - - - - - - - - t - -	4M	LOC_Os12g16630.1 CDS|retrotransposon protein, putative, unclassified, expressed	1209	+
+Os03t0752300-01_S_74	POT3940	- - - - - - c - - - - - a - a - - - - - c a -	4M	LOC_Os12g24710.1 CDS|retrotransposon protein, putative, unclassified, expressed	913	-

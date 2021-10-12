@@ -1,0 +1,20 @@
+Os03t0752300-01_S_52	POT53	- - - - - - g - c g a - g - - - - - - - - - -	5M	LOC_Os01g10980.1 CDS|auxin-induced protein 5NG4, putative, expressed	286	-
+Os03t0752300-01_S_52	POT755	- - a - - - c - c - c - - - - g - - - - - - -	5M	LOC_Os02g52480.1 CDS|cyclin-dependent kinase inhibitor, putative, expressed	178	-
+Os03t0752300-01_S_52	POT1153	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	313	+
+Os03t0752300-01_S_52	POT1206	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	313	+
+Os03t0752300-01_S_52	POT1926	a - c a c - - - c - - - - - - - - - - - - - -	5M	LOC_Os05g35410.1 CDS|potassium channel AKT2/3, putative, expressed	349	+
+Os03t0752300-01_S_52	POT2105	- - - - c - - - g - c c - - - - - - - c - - -	5M	LOC_Os06g13230.1 CDS|expressed protein	84	-
+Os03t0752300-01_S_52	POT2295	- - - c - - - t - g - - - - - - g - - - g - -	4M	LOC_Os06g45900.1 CDS|peptidyl-prolyl cis-trans isomerase-like 4, putative, expressed	7	+
+Os03t0752300-01_S_52	POT2348	- - c - - - - - c - - - - - - - - - - - - - -	2M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	316	+
+Os03t0752300-01_S_52	POT2400	- - - - a a - - - - - c - g - - - - - - a - -	4M	LOC_Os07g06970.1 CDS|HEN1, putative, expressed	2413	-
+Os03t0752300-01_S_52	POT2418	- - c c - - - - c - - c - - - - - - - g - - -	5M	LOC_Os07g09840.1 CDS|expressed protein	469	+
+Os03t0752300-01_S_52	POT2586	a c - - - - - - c - - - - - - - g - - g - - -	5M	LOC_Os07g32120.1 CDS|transcription initiation factor IIB, putative, expressed	101	-
+Os03t0752300-01_S_52	POT2714	- - - - - - g - c - - a g - - g - - - - - - -	5M	LOC_Os07g47970.1 CDS|expressed protein	235	-
+Os03t0752300-01_S_52	POT2715	a - - t - - - - - - - t - - - - - a - - - a -	4M	LOC_Os07g48360.1 CDS|helicase conserved C-terminal domain containing protein, expressed	1160	-
+Os03t0752300-01_S_52	POT3824	- - - - - - - - - - a - - - - t - a c - - - -	4M	LOC_Os12g07540.1 CDS|growth regulator related protein, putative, expressed	1405	-
+Os03t0752300-01_S_52	POT4011	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.5 CDS|ureide permease, putative, expressed	367	-
+Os03t0752300-01_S_52	POT4012	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.2 CDS|ureide permease, putative, expressed	367	-
+Os03t0752300-01_S_52	POT4013	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.1 CDS|ureide permease, putative, expressed	367	-
+Os03t0752300-01_S_52	POT4014	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.3 CDS|ureide permease, putative, expressed	367	-
+Os03t0752300-01_S_52	POT4015	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.4 CDS|ureide permease, putative, expressed	367	-
+Os03t0752300-01_S_52	POT4016	- - - - - - c - t - - - - - a - - - t - - a -	4M	LOC_Os12g31860.6 CDS|ureide permease, putative, expressed	367	-

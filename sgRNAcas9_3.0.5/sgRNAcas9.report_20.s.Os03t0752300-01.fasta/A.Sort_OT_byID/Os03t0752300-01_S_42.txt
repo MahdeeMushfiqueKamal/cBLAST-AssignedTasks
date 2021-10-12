@@ -1,0 +1,73 @@
+Os03t0752300-01_S_42	POT9	- - - - g t - - g - - - - - c - - - - g - - -	5M	LOC_Os01g03780.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT100	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g17460.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT105	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g19190.1 CDS|retrotransposon protein, putative, unclassified, expressed	995	+
+Os03t0752300-01_S_42	POT154	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g27790.1 CDS|retrotransposon protein, putative, unclassified, expressed	1364	+
+Os03t0752300-01_S_42	POT161	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g29590.1 CDS|retrotransposon protein, putative, unclassified, expressed	806	+
+Os03t0752300-01_S_42	POT167	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g31660.1 CDS|retrotransposon protein, putative, unclassified, expressed	1286	+
+Os03t0752300-01_S_42	POT274	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os01g47250.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT323	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g55910.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT364	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os01g63100.1 CDS|retrotransposon protein, putative, unclassified, expressed	995	+
+Os03t0752300-01_S_42	POT454	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os02g04310.1 CDS|retrotransposon protein, putative, unclassified	1037	+
+Os03t0752300-01_S_42	POT468	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os02g05850.1 CDS|transposon protein, putative, unclassified, expressed	1019	+
+Os03t0752300-01_S_42	POT540	- - - - g c - - t - - - - - c - - - - g - - -	5M	LOC_Os02g17430.1 CDS|retrotransposon protein, putative, unclassified, expressed	692	+
+Os03t0752300-01_S_42	POT751	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os02g52090.1 CDS|retrotransposon protein, putative, unclassified, expressed	1295	+
+Os03t0752300-01_S_42	POT780	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os02g56060.1 CDS|retrotransposon protein, putative, unclassified	1334	+
+Os03t0752300-01_S_42	POT900	- - - g g - - - - g a - - - - - - c - - - - -	5M	LOC_Os03g16760.1 CDS|protein phosphatase 2C, putative, expressed	572	-
+Os03t0752300-01_S_42	POT947	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os03g24110.1 CDS|retrotransposon protein, putative, unclassified, expressed	1253	+
+Os03t0752300-01_S_42	POT1025	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os03g36660.1 CDS|retrotransposon protein, putative, unclassified, expressed	230	+
+Os03t0752300-01_S_42	POT1054	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os03g41980.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1082	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os03g46220.1 CDS|retrotransposon protein, putative, unclassified, expressed	1151	+
+Os03t0752300-01_S_42	POT1114	- - - - g c - - g - - a - - c - - - - - - - -	5M	LOC_Os03g51780.1 CDS|retrotransposon protein, putative, unclassified, expressed	1061	+
+Os03t0752300-01_S_42	POT1118	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os03g52190.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1146	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	121	+
+Os03t0752300-01_S_42	POT1199	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	121	+
+Os03t0752300-01_S_42	POT1373	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os04g11180.1 CDS|retrotransposon protein, putative, unclassified, expressed	1174	+
+Os03t0752300-01_S_42	POT1385	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os04g12760.1 CDS|retrotransposon protein, putative, unclassified, expressed	1109	+
+Os03t0752300-01_S_42	POT1492	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os04g27890.1 CDS|retrotransposon protein, putative, unclassified, expressed	1292	+
+Os03t0752300-01_S_42	POT1592	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os04g43980.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1619	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os04g48094.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	5582	+
+Os03t0752300-01_S_42	POT1697	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g02950.1 CDS|retrotransposon protein, putative, unclassified, expressed	1150	+
+Os03t0752300-01_S_42	POT1710	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g04320.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1743	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g10250.1 CDS|retrotransposon protein, putative, unclassified, expressed	1400	+
+Os03t0752300-01_S_42	POT1823	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g21100.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1833	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os05g23150.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1942	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g38100.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT1972	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os05g40870.1 CDS|retrotransposon protein, putative, unclassified, expressed	659	+
+Os03t0752300-01_S_42	POT1973	g - - - - - - - - - g - - a - - - - c - a - -	4M	LOC_Os05g41090.1 CDS|CAMK_CAMK_like_CG18020d.1 - CAMK includes calcium/calmodulin depedent protein kinases, expressed	1482	+
+Os03t0752300-01_S_42	POT1976	- - - - g t - - g - - - - - c - - - - g - - -	5M	LOC_Os05g41700.1 CDS|retrotransposon protein, putative, unclassified, expressed	887	+
+Os03t0752300-01_S_42	POT1990	- - - - - - - - g - - - - g - c - - g - c - -	4M	LOC_Os05g43960.1 CDS|no apical meristem protein, putative, expressed	411	+
+Os03t0752300-01_S_42	POT2055	- - - - - t - - - - t - - t - - - - - g a - -	4M	LOC_Os06g04510.2 CDS|enolase, putative, expressed	266	-
+Os03t0752300-01_S_42	POT2057	- - - - - t - - - - t - - t - - - - - g a - -	4M	LOC_Os06g04510.1 CDS|enolase, putative, expressed	545	-
+Os03t0752300-01_S_42	POT2080	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os06g07530.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2101	- - c a - - - - - a - - - - - - - g c - - - -	5M	LOC_Os06g12500.1 CDS|membrane associated DUF588 domain containing protein, putative, expressed	30	+
+Os03t0752300-01_S_42	POT2115	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os06g15500.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2123	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os06g16320.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2150	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os06g20170.1 CDS|retrotransposon protein, putative, unclassified, expressed	1160	+
+Os03t0752300-01_S_42	POT2210	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os06g31000.1 CDS|retrotransposon protein, putative, unclassified, expressed	1196	+
+Os03t0752300-01_S_42	POT2254	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os06g39180.1 CDS|retrotransposon protein, putative, unclassified, expressed	1238	+
+Os03t0752300-01_S_42	POT2274	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os06g42590.1 CDS|retrotransposon protein, putative, unclassified, expressed	1214	+
+Os03t0752300-01_S_42	POT2285	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os06g44590.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2414	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os07g09240.1 CDS|retrotransposon protein, putative, unclassified, expressed	521	+
+Os03t0752300-01_S_42	POT2466	- - - - - - - t g - - - a - - - t - c - - - -	5M	LOC_Os07g15920.1 CDS|expressed protein	111	-
+Os03t0752300-01_S_42	POT2515	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os07g23840.1 CDS|retrotransposon protein, putative, unclassified, expressed	1184	+
+Os03t0752300-01_S_42	POT2583	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os07g31630.1 CDS|retrotransposon protein, putative, unclassified, expressed	521	+
+Os03t0752300-01_S_42	POT2615	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os07g36670.1 CDS|retrotransposon protein, putative, unclassified, expressed	995	+
+Os03t0752300-01_S_42	POT2632	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os07g38500.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2706	- - - - - - a - t - - t t - - - - - - - t - -	4M	LOC_Os07g47360.3 CDS|CW-type Zinc Finger, putative, expressed	186	-
+Os03t0752300-01_S_42	POT2707	- - - - - - a - t - - t t - - - - - - - t - -	4M	LOC_Os07g47360.1 CDS|CW-type Zinc Finger, putative, expressed	186	-
+Os03t0752300-01_S_42	POT2708	- - - - - - a - t - - t t - - - - - - - t - -	4M	LOC_Os07g47360.2 CDS|CW-type Zinc Finger, putative, expressed	186	-
+Os03t0752300-01_S_42	POT2787	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os08g09500.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT2852	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os08g18100.1 CDS|retrotransposon protein, putative, unclassified, expressed	965	+
+Os03t0752300-01_S_42	POT2907	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os08g23630.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT3003	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os08g35390.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT3061	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os08g44570.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT3324	- - - - - - - - - - a a a - g - - - - c - - -	5M	LOC_Os10g10130.1 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1137	-
+Os03t0752300-01_S_42	POT3326	- - - - - - - - - - a a a - g - - - - c - - -	5M	LOC_Os10g10130.4 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	144	-
+Os03t0752300-01_S_42	POT3328	- - - - - - - - - - a a a - g - - - - c - - -	5M	LOC_Os10g10130.2 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1137	-
+Os03t0752300-01_S_42	POT3330	- - - - - - - - - - a a a - g - - - - c - - -	5M	LOC_Os10g10130.3 CDS|OsWAK112d - OsWAK receptor-like protein kinase, expressed	1005	-
+Os03t0752300-01_S_42	POT3361	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os10g16860.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT3426	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os10g28470.1 CDS|retrotransposon protein, putative, unclassified, expressed	1142	+
+Os03t0752300-01_S_42	POT3508	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os11g01920.1 CDS|retrotransposon protein, putative, unclassified, expressed	1334	+
+Os03t0752300-01_S_42	POT3850	- - - - - c - - g - - a - - c - - - - g - - -	5M	LOC_Os12g11760.1 CDS|retrotransposon protein, putative, unclassified, expressed	1277	+
+Os03t0752300-01_S_42	POT4078	- - - - g c - - g - - - - - c - - - - g - - -	5M	LOC_Os12g42680.1 CDS|retrotransposon protein, putative, unclassified, expressed	1331	+
+Os03t0752300-01_S_42	POT4102	- - - - g c - - g - - - - - c - - - - g - - -	5M	ChrSy.fgenesh.mRNA.72 CDS|expressed protein	1334	+

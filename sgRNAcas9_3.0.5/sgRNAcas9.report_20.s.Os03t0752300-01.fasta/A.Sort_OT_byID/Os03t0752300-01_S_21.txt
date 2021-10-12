@@ -1,0 +1,28 @@
+Os03t0752300-01_S_21	POT22	- - - - t - g - - g - - - - - - - - g - a - -	4M	LOC_Os01g05010.1 CDS|mitochondrial glycoprotein, putative, expressed	756	+
+Os03t0752300-01_S_21	POT31	- - g - - - g - - - c - - - - a - - - c - - -	5M	LOC_Os01g05940.1 CDS|receptor kinase, putative, expressed	3348	+
+Os03t0752300-01_S_21	POT191	- - - - - - c g - - - t - - a - - - - - t - -	4M	LOC_Os01g35240.1 CDS|hypothetical protein	126	-
+Os03t0752300-01_S_21	POT387	- - g - - - g a - - - - - - c - - g - - - - -	5M	LOC_Os01g67090.1 CDS|IQ calmodulin-binding motif domain containing protein, expressed	683	-
+Os03t0752300-01_S_21	POT421	- t - - a - - - g - - - - - - - t - - g - - -	5M	LOC_Os01g73410.1 CDS|FYVE zinc finger domain containing protein, expressed	2598	+
+Os03t0752300-01_S_21	POT626	t c - - - a - g - - - - t - - - - - - - - - -	5M	LOC_Os02g35280.1 CDS|retrotransposon protein, putative, unclassified	513	-
+Os03t0752300-01_S_21	POT682	g c c - - - - - - - - - - - - - - g - c - - -	5M	LOC_Os02g43340.1 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	146	+
+Os03t0752300-01_S_21	POT684	g c c - - - - - - - - - - - - - - g - c - - -	5M	LOC_Os02g43340.2 CDS|hydrolase, alpha/beta fold family domain containing protein, expressed	146	+
+Os03t0752300-01_S_21	POT944	g - - - - - - - g - - - - - - - g g - - t - -	4M	LOC_Os03g24030.1 CDS|glutaredoxin, putative, expressed	496	-
+Os03t0752300-01_S_21	POT974	- - - - - t - a - - - - - g - - t - - - - a -	4M	LOC_Os03g28300.1 CDS|protein kinase domain containing protein, expressed	1094	+
+Os03t0752300-01_S_21	POT976	- - - - - t - a - - - - - g - - t - - - - a -	4M	LOC_Os03g28300.2 CDS|protein kinase domain containing protein, expressed	1094	+
+Os03t0752300-01_S_21	POT979	- c - - - a - g - - - - t - - - - - - g - - -	5M	LOC_Os03g30190.1 CDS|retrotransposon protein, putative, unclassified, expressed	597	-
+Os03t0752300-01_S_21	POT992	t c - - - - - g c - - - t - - - - - - - - - -	5M	LOC_Os03g31640.1 CDS|retrotransposon protein, putative, unclassified, expressed	1014	-
+Os03t0752300-01_S_21	POT1650	- - g - a - - - - - - - - - a - a - - - a - -	4M	LOC_Os04g53380.1 CDS|expressed protein	3180	+
+Os03t0752300-01_S_21	POT1751	g - g a - - g - - - - - - - - - g - - - - - -	5M	LOC_Os05g11510.1 CDS|B-box zinc finger family protein, putative, expressed	486	-
+Os03t0752300-01_S_21	POT2096	- c - - - a - - - - c - - - - - - - - g t - -	4M	LOC_Os06g10980.1 CDS|xyloglucan fucosyltransferase, putative, expressed	555	-
+Os03t0752300-01_S_21	POT2188	- c - - - a - g - - - - t - - - - - - g - - -	5M	LOC_Os06g27950.1 CDS|retrotransposon protein, putative, unclassified, expressed	1158	-
+Os03t0752300-01_S_21	POT2306	- - - - - t - - - - c - - - - - - g - c a - -	4M	LOC_Os06g47120.1 CDS|expressed protein	138	-
+Os03t0752300-01_S_21	POT2315	- c - t - - - - - - c - - - - - a - - - - - -	4M	LOC_Os06g48065.1 CDS|Zinc finger, C3HC4 type domain containing protein, expressed	543	-
+Os03t0752300-01_S_21	POT2408	g c - - - - c - - - c - - - - - - a - - - - -	5M	LOC_Os07g08450.1 CDS|expressed protein	237	-
+Os03t0752300-01_S_21	POT2448	- - - t - - a - g - - - - t - - - - - - - - -	4M	LOC_Os07g13540.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	683	-
+Os03t0752300-01_S_21	POT2454	- t - - - c - - - - - c - - - - a c - - - - -	5M	LOC_Os07g13980.1 CDS|glucose-1-phosphate adenylyltransferase large subunit, putative, expressed	267	+
+Os03t0752300-01_S_21	POT2545	- c - - t a - g - - - - c - - - - - - - - - -	5M	LOC_Os07g27820.1 CDS|retrotransposon protein, putative, unclassified, expressed	1209	-
+Os03t0752300-01_S_21	POT2685	- c - - - - - - c - - - - t t - - - - - t - -	4M	LOC_Os07g45530.1 CDS|retrotransposon protein, putative, unclassified, expressed	1947	-
+Os03t0752300-01_S_21	POT2719	- g - - - - g - a - - a - - - - - - - - a - -	4M	LOC_Os07g48630.1 CDS|ethylene-insensitive 3, putative, expressed	273	+
+Os03t0752300-01_S_21	POT2721	- g - - - - g - a - - a - - - - - - - - a - -	4M	LOC_Os07g48630.2 CDS|ethylene-insensitive 3, putative, expressed	273	+
+Os03t0752300-01_S_21	POT3406	t c - - - t - a - - - - t - - - - - - - - - -	5M	LOC_Os10g24770.1 CDS|retrotransposon protein, putative, unclassified, expressed	159	-
+Os03t0752300-01_S_21	POT3759	t c - - - - - g - - - - t - - - - - - - - - -	4M	LOC_Os11g46030.1 CDS|retrotransposon protein, putative, unclassified, expressed	1071	-

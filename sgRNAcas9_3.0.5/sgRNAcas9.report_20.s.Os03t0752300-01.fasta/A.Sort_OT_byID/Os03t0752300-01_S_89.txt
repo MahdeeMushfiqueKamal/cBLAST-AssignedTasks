@@ -1,0 +1,10 @@
+Os03t0752300-01_S_89	POT496	- - - - - a - t t - - - - c - t - - - - - - -	5M	LOC_Os02g09890.1 CDS|protein kinase PKN/PRK1, effector, putative, expressed	868	+
+Os03t0752300-01_S_89	POT497	- - - - - a - t t - - - - c - t - - - - - - -	5M	LOC_Os02g09890.2 CDS|protein kinase PKN/PRK1, effector, putative, expressed	187	+
+Os03t0752300-01_S_89	POT1190	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	924	+
+Os03t0752300-01_S_89	POT1243	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	924	+
+Os03t0752300-01_S_89	POT2356	g - - c - - c - - - - - - - g - - - g - - - -	5M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	909	+
+Os03t0752300-01_S_89	POT2938	- t - - - - a - - - - g - - - - a - - c - - -	5M	LOC_Os08g28170.1 CDS|nucleobase-ascorbate transporter, putative, expressed	9	-
+Os03t0752300-01_S_89	POT3112	g - - - - t a - g - - g - - - - - - - - - - -	5M	LOC_Os09g09260.1 CDS|expressed protein	15	-
+Os03t0752300-01_S_89	POT3635	- t a - t - - t - - - g - - - - - - - - - - -	5M	LOC_Os11g29014.1 CDS|retrotransposon protein, putative, unclassified, expressed	1207	+
+Os03t0752300-01_S_89	POT3757	- - - t - t - t t - t - - - - - - - - - - - -	5M	LOC_Os11g45530.1 CDS|transposon protein, putative, unclassified, expressed	1581	+
+Os03t0752300-01_S_89	POT4033	g - - - - - a g - a - - - - - g - - - - - - -	5M	LOC_Os12g35000.1 CDS|retrotransposon protein, putative, unclassified, expressed	3459	+

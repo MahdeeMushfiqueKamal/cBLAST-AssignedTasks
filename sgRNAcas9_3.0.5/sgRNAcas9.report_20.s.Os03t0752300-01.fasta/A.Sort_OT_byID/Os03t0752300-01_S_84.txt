@@ -1,0 +1,33 @@
+Os03t0752300-01_S_84	POT32	- - - - - t - g - - - - - t - a - g - - - - -	5M	LOC_Os01g06360.1 CDS|transposon protein, putative, unclassified, expressed	1543	-
+Os03t0752300-01_S_84	POT209	g - - a - a g - - - - - - - - - - - - - - a -	4M	LOC_Os01g37980.1 CDS|vesicle transport v-SNARE protein, putative, expressed	153	+
+Os03t0752300-01_S_84	POT331	- - - - - - - c - - - - t - - a - g - - g - -	4M	LOC_Os01g56510.4 CDS|periplasmic beta-glucosidase precursor, putative, expressed	162	+
+Os03t0752300-01_S_84	POT332	- - - - - - - c - - - - t - - a - g - - g - -	4M	LOC_Os01g56510.2 CDS|periplasmic beta-glucosidase precursor, putative, expressed	162	+
+Os03t0752300-01_S_84	POT333	- - - - - - - c - - - - t - - a - g - - g - -	4M	LOC_Os01g56510.3 CDS|periplasmic beta-glucosidase precursor, putative, expressed	162	+
+Os03t0752300-01_S_84	POT334	- - - - - - - c - - - - t - - a - g - - g - -	4M	LOC_Os01g56510.1 CDS|periplasmic beta-glucosidase precursor, putative, expressed	162	+
+Os03t0752300-01_S_84	POT335	- - - - - - - c - - - - t - - a - g - - g - -	4M	LOC_Os01g56510.5 CDS|periplasmic beta-glucosidase precursor, putative, expressed	162	+
+Os03t0752300-01_S_84	POT340	- - - - - - - - t t - c t - - - - - g - - - -	5M	LOC_Os01g57480.1 CDS|serine/threonine-protein kinase receptor precursor, putative, expressed	2454	+
+Os03t0752300-01_S_84	POT424	g - c - - - c - - - - - - - - - - g - - t - -	4M	LOC_Os01g73820.1 CDS|expressed protein	6	+
+Os03t0752300-01_S_84	POT426	- - c - g a - - - - - - - - t - - - - c - - -	5M	LOC_Os01g74180.1 CDS|adaptin, putative, expressed	2730	+
+Os03t0752300-01_S_84	POT427	- - c - g a - - - - - - - - t - - - - c - - -	5M	LOC_Os01g74180.2 CDS|adaptin, putative, expressed	2358	+
+Os03t0752300-01_S_84	POT595	c g - - - a - - c - - - - - c - - - - - - - -	5M	LOC_Os02g27160.1 CDS|retrotransposon protein, putative, unclassified, expressed	138	+
+Os03t0752300-01_S_84	POT762	- - - a c - - - - - - - - - - a - - - - - - -	3M	LOC_Os02g53670.4 CDS|MYB family transcription factor, putative, expressed	831	+
+Os03t0752300-01_S_84	POT763	- - - a c - - - - - - - - - - a - - - - - - -	3M	LOC_Os02g53670.3 CDS|MYB family transcription factor, putative, expressed	831	+
+Os03t0752300-01_S_84	POT764	- - - a c - - - - - - - - - - a - - - - - - -	3M	LOC_Os02g53670.1 CDS|MYB family transcription factor, putative, expressed	831	+
+Os03t0752300-01_S_84	POT765	- - - a c - - - - - - - - - - a - - - - - - -	3M	LOC_Os02g53670.2 CDS|MYB family transcription factor, putative, expressed	831	+
+Os03t0752300-01_S_84	POT854	g - - - - - c - - - - - c - - g - - c - - - -	5M	LOC_Os03g08980.1 CDS|expressed protein	345	+
+Os03t0752300-01_S_84	POT911	- - - - - g - - - t - - - - - a a - g - - - -	5M	LOC_Os03g17980.2 CDS|CAMK_KIN1/SNF1/Nim1_like_AMPKh.2 - CAMK includes calcium/calmodulin depedent protein kinases, expressed	156	+
+Os03t0752300-01_S_84	POT912	- - - - - g - - - t - - - - - a a - g - - - -	5M	LOC_Os03g17980.1 CDS|CAMK_KIN1/SNF1/Nim1_like_AMPKh.2 - CAMK includes calcium/calmodulin depedent protein kinases, expressed	285	+
+Os03t0752300-01_S_84	POT959	- - - - - t - - - - - - - t - g - g - - - - -	4M	LOC_Os03g25670.1 CDS|expressed protein	1051	-
+Os03t0752300-01_S_84	POT1096	- - - - c - t - - - - g - - - - - - - - c a -	4M	LOC_Os03g49900.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1155	+
+Os03t0752300-01_S_84	POT1185	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	837	+
+Os03t0752300-01_S_84	POT1238	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	837	+
+Os03t0752300-01_S_84	POT1453	c g - - - a - - c - - - - - c - - - - - - - -	5M	LOC_Os04g22420.1 CDS|retrotransposon protein, putative, unclassified, expressed	618	+
+Os03t0752300-01_S_84	POT1464	- - g - - - t - - - c - - c - c - - - - - - -	5M	LOC_Os04g23760.1 CDS|lectin protein kinase family protein, putative, expressed	1425	-
+Os03t0752300-01_S_84	POT1497	t - - - - g - - - - - - - - - g - - - - g a -	4M	LOC_Os04g28190.1 CDS|expressed protein	559	+
+Os03t0752300-01_S_84	POT1563	- - - - g - - - - c - - - - t - g - - - t - -	4M	LOC_Os04g40200.1 CDS|HNH endonuclease family protein, putative, expressed	187	+
+Os03t0752300-01_S_84	POT1694	- - - - c - - - - - - a - - - - a - - c c - -	4M	LOC_Os05g02210.1 CDS|pentatricopeptide, putative, expressed	909	+
+Os03t0752300-01_S_84	POT1769	c - a - - - t - - - - - - - t - - - - a - - -	5M	LOC_Os05g15270.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1737	+
+Os03t0752300-01_S_84	POT2469	- - g - - - g - c - - - - - - g - - c - - - -	5M	LOC_Os07g16130.1 CDS|acetyltransferase, GNAT family, putative, expressed	733	+
+Os03t0752300-01_S_84	POT2906	- - - - - a t - t - t - - - - - - - - - - a -	4M	LOC_Os08g23570.1 CDS|B3 DNA binding domain containing protein, expressed	963	-
+Os03t0752300-01_S_84	POT2974	- t - - - - - g - - - - - - - g g - - - t - -	4M	LOC_Os08g33320.1 CDS|expressed protein	3448	+
+Os03t0752300-01_S_84	POT3017	- - - - - g - - - t - - - - - a a - g - - - -	5M	LOC_Os08g37800.1 CDS|CAMK_KIN1/SNF1/Nim1_like_AMPKh.4 - CAMK includes calcium/calmodulin depedent protein kinases, expressed	156	+

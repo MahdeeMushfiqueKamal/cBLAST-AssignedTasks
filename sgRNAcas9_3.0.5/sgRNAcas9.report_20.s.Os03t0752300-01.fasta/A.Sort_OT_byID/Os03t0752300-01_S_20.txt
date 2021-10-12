@@ -1,0 +1,48 @@
+Os03t0752300-01_S_20	POT89	- - c g - - - - - - - c - - - - - - g - c - -	4M	LOC_Os01g16120.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	184	+
+Os03t0752300-01_S_20	POT285	- - c - - - a - - a - c - - - - - - g - - - -	5M	LOC_Os01g48290.1 CDS|dof zinc finger domain containing protein, putative, expressed	142	-
+Os03t0752300-01_S_20	POT316	- - - g - - - c a - g - - - - - - - g - - - -	5M	LOC_Os01g54969.1 CDS|O-methyltransferase, putative, expressed	213	-
+Os03t0752300-01_S_20	POT388	- - - g - - - g a - - - - - - c - - g - - - -	5M	LOC_Os01g67090.1 CDS|IQ calmodulin-binding motif domain containing protein, expressed	684	-
+Os03t0752300-01_S_20	POT420	- - t - - a - - - g - - - - - - - t - - g - -	4M	LOC_Os01g73410.1 CDS|FYVE zinc finger domain containing protein, expressed	2597	+
+Os03t0752300-01_S_20	POT594	- a - - t - a - - - - - - - - a - - - g - - -	5M	LOC_Os02g27110.1 CDS|expressed protein	3120	+
+Os03t0752300-01_S_20	POT627	- t c - - - a - g - - - - t - - - - - - - - -	5M	LOC_Os02g35280.1 CDS|retrotransposon protein, putative, unclassified	514	-
+Os03t0752300-01_S_20	POT656	- - t c - - - g - - g - - - - - - - g - - - -	5M	LOC_Os02g39180.1 CDS|expressed protein	144	-
+Os03t0752300-01_S_20	POT677	c - - - - - - g - - - - - - t - t t - - - - -	5M	LOC_Os02g42970.1 CDS|NAC domain containing protein, putative, expressed	1002	+
+Os03t0752300-01_S_20	POT731	c - g - - - - - - - - c - - - - - - a - c - -	4M	LOC_Os02g49986.1 CDS|MYB family transcription factor, putative, expressed	439	+
+Os03t0752300-01_S_20	POT833	- - - - - t - - t - - - - - t t - - - - g - -	4M	LOC_Os03g07050.1 CDS|retrotransposon protein, putative, unclassified, expressed	2169	+
+Os03t0752300-01_S_20	POT852	- - - - - - - c - g - - - - - - a - g t - - -	5M	LOC_Os03g08900.1 CDS|MATE efflux family protein, putative, expressed	725	-
+Os03t0752300-01_S_20	POT897	- - - - a - t - - - - c - - t - - - - - - a -	4M	LOC_Os03g16530.1 CDS|retrotransposon protein, putative, unclassified, expressed	1882	+
+Os03t0752300-01_S_20	POT980	- - c - - - a - g - - - - t - - - - - - g - -	4M	LOC_Os03g30190.1 CDS|retrotransposon protein, putative, unclassified, expressed	598	-
+Os03t0752300-01_S_20	POT993	- t c - - - - - g c - - - t - - - - - - - - -	5M	LOC_Os03g31640.1 CDS|retrotransposon protein, putative, unclassified, expressed	1015	-
+Os03t0752300-01_S_20	POT1039	- t c - - - - - g - - - - t - - - - - - - - -	4M	LOC_Os03g38070.1 CDS|retrotransposon protein, putative, unclassified, expressed	475	-
+Os03t0752300-01_S_20	POT1090	- - - c g - - a - g - - - - - - - - g - - - -	5M	LOC_Os03g47584.1 CDS|expressed protein	584	+
+Os03t0752300-01_S_20	POT1752	- g - g a - - g - - - - - - - - - g - - - - -	5M	LOC_Os05g11510.1 CDS|B-box zinc finger family protein, putative, expressed	487	-
+Os03t0752300-01_S_20	POT1887	- g t - - - - - - a - - - t - - - a - - - - -	5M	LOC_Os05g30260.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1210	-
+Os03t0752300-01_S_20	POT1950	- - c - - - - - - c a - - a - - - t - - - - -	5M	LOC_Os05g39380.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	506	+
+Os03t0752300-01_S_20	POT2006	- - c - - - - - - - - c - - - - c - - t c - -	4M	LOC_Os05g48760.1 CDS|protein of unknown function DUF1421 domain containing protein, expressed	28	+
+Os03t0752300-01_S_20	POT2008	- a g - - - - - - - - - - - - t - - g - c - -	4M	LOC_Os05g49684.1 CDS|expressed protein	54	-
+Os03t0752300-01_S_20	POT2179	- - - - a - t - - - - c - - t - - - - - - a -	4M	LOC_Os06g25730.1 CDS|retrotransposon protein, putative, unclassified, expressed	1117	+
+Os03t0752300-01_S_20	POT2189	- - c - - - a - g - - - - t - - - - - - g - -	4M	LOC_Os06g27950.1 CDS|retrotransposon protein, putative, unclassified, expressed	1159	-
+Os03t0752300-01_S_20	POT2192	- - - g - - - - - c - c - - - - - - g g - - -	5M	LOC_Os06g28330.1 CDS|retrotransposon protein, putative, unclassified, expressed	2464	+
+Os03t0752300-01_S_20	POT2307	- - - - - - t - - - - c - - - - - - g - c a -	4M	LOC_Os06g47120.1 CDS|expressed protein	139	-
+Os03t0752300-01_S_20	POT2316	a - c - t - - - - - - c - - - - - a - - - - -	5M	LOC_Os06g48065.1 CDS|Zinc finger, C3HC4 type domain containing protein, expressed	544	-
+Os03t0752300-01_S_20	POT2385	- - c - - - - c - - - c - - - - - g - g - - -	5M	LOC_Os07g04510.1 CDS|TCP family transcription factor, putative, expressed	293	+
+Os03t0752300-01_S_20	POT2449	c - - - t - - a - g - - - - t - - - - - - - -	5M	LOC_Os07g13540.1 CDS|pentatricopeptide repeat domain containing protein, putative, expressed	684	-
+Os03t0752300-01_S_20	POT2453	- - - - - g - g - - - - - - t - - - c - t - -	4M	LOC_Os07g13800.1 CDS|cytokinin-N-glucosyltransferase, putative, expressed	72	-
+Os03t0752300-01_S_20	POT2546	- - c - - t a - g - - - - c - - - - - - - - -	5M	LOC_Os07g27820.1 CDS|retrotransposon protein, putative, unclassified, expressed	1210	-
+Os03t0752300-01_S_20	POT2580	- t - c - a - - - - - - - - a - - - - - t - -	4M	LOC_Os07g31450.1 CDS|CHR4/MI-2-LIKE, putative, expressed	6190	-
+Os03t0752300-01_S_20	POT2591	- - g - - - - g - - - - - - - - - - - - - - -	2M	LOC_Os07g33320.1 CDS|expressed protein	191	+
+Os03t0752300-01_S_20	POT2626	- - - - - - - c a g - - - c - - c - - - - - -	5M	LOC_Os07g37610.1 CDS|B3 DNA binding domain containing protein, putative, expressed	120	+
+Os03t0752300-01_S_20	POT2718	- - g - - - - g - a - - a - - - - - - - - a -	4M	LOC_Os07g48630.1 CDS|ethylene-insensitive 3, putative, expressed	272	+
+Os03t0752300-01_S_20	POT2720	- - g - - - - g - a - - a - - - - - - - - a -	4M	LOC_Os07g48630.2 CDS|ethylene-insensitive 3, putative, expressed	272	+
+Os03t0752300-01_S_20	POT3101	- - - g - a - - - a - g - - - - - - g - - - -	5M	LOC_Os09g07990.1 CDS|retrotransposon protein, putative, unclassified, expressed	1318	-
+Os03t0752300-01_S_20	POT3218	- - - - - - - c - g - c - - - c - - a - - - -	5M	LOC_Os09g26999.2 CDS|keratin-associated protein 5-4, putative, expressed	63	-
+Os03t0752300-01_S_20	POT3219	- - - - - - - c - g - c - - - c - - a - - - -	5M	LOC_Os09g26999.1 CDS|keratin-associated protein 5-4, putative, expressed	63	-
+Os03t0752300-01_S_20	POT3235	- - c - - - - g - - - g - c - - - - - - g - -	4M	LOC_Os09g31080.1 CDS|induced stolen tip protein TUB8, putative, expressed	235	-
+Os03t0752300-01_S_20	POT3236	- - c - - - - g - - - g - c - - - - - - g - -	4M	LOC_Os09g31080.3 CDS|induced stolen tip protein TUB8, putative, expressed	235	-
+Os03t0752300-01_S_20	POT3264	t - c - - - - g - - - c - - - - - - - - t - -	4M	LOC_Os09g38090.1 CDS|expressed protein	1120	-
+Os03t0752300-01_S_20	POT3374	t - c - - - t - - - - - - c - - - - g - - - -	5M	LOC_Os10g18340.1 CDS|expressed protein	319	-
+Os03t0752300-01_S_20	POT3407	- t c - - - t - a - - - - t - - - - - - - - -	5M	LOC_Os10g24770.1 CDS|retrotransposon protein, putative, unclassified, expressed	160	-
+Os03t0752300-01_S_20	POT3471	- - g g g - - - - g - - - - - - - - g - - - -	5M	LOC_Os10g37190.1 CDS|protein kinase domain containing protein, expressed	878	-
+Os03t0752300-01_S_20	POT3485	- - - - - - - c t g - c - - - - - - g - - - -	5M	LOC_Os10g41660.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	813	+
+Os03t0752300-01_S_20	POT3760	- t c - - - - - g - - - - t - - - - - - - - -	4M	LOC_Os11g46030.1 CDS|retrotransposon protein, putative, unclassified, expressed	1072	-
+Os03t0752300-01_S_20	POT3946	- - - c g - - c a - - - - - - - - - g - - - -	5M	LOC_Os12g25860.1 CDS|O-methyltransferase, putative, expressed	105	-

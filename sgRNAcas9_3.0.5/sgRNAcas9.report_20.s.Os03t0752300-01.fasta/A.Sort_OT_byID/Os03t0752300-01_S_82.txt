@@ -1,0 +1,12 @@
+Os03t0752300-01_S_82	POT23	a c - - - - - - - - - - a - - - g - - - a - -	4M	LOC_Os01g05370.1 CDS|retrotransposon protein, putative, unclassified, expressed	1748	-
+Os03t0752300-01_S_82	POT916	- c - - - g - c g - - - - - - - - g - - - - -	5M	LOC_Os03g18820.2 CDS|glycosyltransferase, putative, expressed	451	-
+Os03t0752300-01_S_82	POT917	- c - - - g - c g - - - - - - - - g - - - - -	5M	LOC_Os03g18820.1 CDS|glycosyltransferase, putative, expressed	451	-
+Os03t0752300-01_S_82	POT1183	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	812	+
+Os03t0752300-01_S_82	POT1236	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	812	+
+Os03t0752300-01_S_82	POT1565	- - - - a - t - - - - t - g - - a - - - - - -	5M	LOC_Os04g40310.1 CDS|dehydrogenase, putative, expressed	684	+
+Os03t0752300-01_S_82	POT1566	- - - - a - t - - - - t - g - - a - - - - - -	5M	LOC_Os04g40310.2 CDS|dehydrogenase, putative, expressed	672	+
+Os03t0752300-01_S_82	POT1734	- - - - - - - - - - t - - - g - - g - c a - -	4M	LOC_Os05g08580.1 CDS|hypothetical protein	441	-
+Os03t0752300-01_S_82	POT1985	- - - - - - c - - - t - - g - - a - - - - a -	4M	LOC_Os05g43790.3 CDS|DUF803 domain containing, putative, expressed	323	+
+Os03t0752300-01_S_82	POT1986	- - - - - - c - - - t - - g - - a - - - - a -	4M	LOC_Os05g43790.2 CDS|DUF803 domain containing, putative, expressed	689	+
+Os03t0752300-01_S_82	POT1987	- - - - - - c - - - t - - g - - a - - - - a -	4M	LOC_Os05g43790.1 CDS|DUF803 domain containing, putative, expressed	689	+
+Os03t0752300-01_S_82	POT3556	- - - - a - c - - - - t - - t - g - - - - - -	5M	LOC_Os11g11070.1 CDS|mRNA-capping enzyme, putative, expressed	1412	-

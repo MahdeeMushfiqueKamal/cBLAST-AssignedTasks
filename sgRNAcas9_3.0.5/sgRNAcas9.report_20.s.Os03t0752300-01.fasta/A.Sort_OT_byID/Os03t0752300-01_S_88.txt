@@ -1,0 +1,40 @@
+Os03t0752300-01_S_88	POT64	- - - a - g - - - - - - - - - - g c - - a - -	4M	LOC_Os01g12400.2 CDS|S-locus lectin protein kinase family protein, putative, expressed	688	+
+Os03t0752300-01_S_88	POT66	- - - a - g - - - - - - - - - - g c - - a - -	4M	LOC_Os01g12410.1 CDS|receptor-like protein kinase, putative, expressed	1468	+
+Os03t0752300-01_S_88	POT93	- - - - - - - t - - - g - - c - g g - - - - -	5M	LOC_Os01g16350.2 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	907	+
+Os03t0752300-01_S_88	POT94	- - - - - - - t - - - g - - c - g g - - - - -	5M	LOC_Os01g16350.1 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1219	+
+Os03t0752300-01_S_88	POT141	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os01g24860.1 CDS|retrotransposon protein, putative, unclassified, expressed	478	+
+Os03t0752300-01_S_88	POT147	- g - - - g - c - - - g - - - - - - - c - - -	5M	LOC_Os01g25060.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1838	+
+Os03t0752300-01_S_88	POT581	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os02g25170.1 CDS|retrotransposon protein, putative, unclassified, expressed	355	+
+Os03t0752300-01_S_88	POT657	- - t g - - - - - - - - - - g - - - - a - a -	4M	LOC_Os02g39300.1 CDS|RNA-binding protein Luc7-like, putative, expressed	478	+
+Os03t0752300-01_S_88	POT809	a - a - - - - - - - - g - - - - - - g - - - -	4M	LOC_Os03g01710.1 CDS|expressed protein	1609	+
+Os03t0752300-01_S_88	POT932	t - t - g - - - c - - - - - - - - - a - - - -	5M	LOC_Os03g21900.1 CDS|uroporphyrinogen decarboxylase, putative, expressed	1136	-
+Os03t0752300-01_S_88	POT1189	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	907	+
+Os03t0752300-01_S_88	POT1242	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	907	+
+Os03t0752300-01_S_88	POT1589	- - t g - - c - - - - - g g - - - - - - - - -	5M	LOC_Os04g43760.1 CDS|phenylalanine ammonia-lyase, putative, expressed	1247	-
+Os03t0752300-01_S_88	POT1805	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os05g19460.1 CDS|retrotransposon protein, putative, unclassified, expressed	544	+
+Os03t0752300-01_S_88	POT1840	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os05g24100.1 CDS|retrotransposon protein, putative, unclassified, expressed	544	+
+Os03t0752300-01_S_88	POT2126	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os06g17350.1 CDS|retrotransposon protein, putative, unclassified, expressed	268	+
+Os03t0752300-01_S_88	POT2143	- g - - - g - c - - - - - - - - - - - g - a -	4M	LOC_Os06g19090.1 CDS|expressed protein	1100	+
+Os03t0752300-01_S_88	POT2290	- - - c t - - g - - - - - - - - - - - - t - -	3M	LOC_Os06g45480.2 CDS|hydrolase, putative, expressed	148	+
+Os03t0752300-01_S_88	POT2292	- - - c t - - g - - - - - - - - - - - - t - -	3M	LOC_Os06g45480.1 CDS|hydrolase, putative, expressed	148	+
+Os03t0752300-01_S_88	POT2355	c - - - - - - - - - - - - - g - - g - - c - -	3M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	892	+
+Os03t0752300-01_S_88	POT2558	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os07g28370.1 CDS|retrotransposon protein, putative, unclassified, expressed	541	+
+Os03t0752300-01_S_88	POT2874	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os08g19540.1 CDS|retrotransposon protein, putative, unclassified, expressed	448	+
+Os03t0752300-01_S_88	POT2956	t - - - c - t - a a - - - - - - - - - - - - -	5M	LOC_Os08g30580.1 CDS|hypothetical protein	93	+
+Os03t0752300-01_S_88	POT3082	- - c a - - - - - a - - - - - - g - - - t - -	4M	LOC_Os09g04240.1 CDS|retrotransposon protein, putative, unclassified, expressed	544	+
+Os03t0752300-01_S_88	POT3140	- - t - - - - - - - - - - - g - - g a - - - -	4M	LOC_Os09g12790.1 CDS|potassium channel protein, putative, expressed	1198	+
+Os03t0752300-01_S_88	POT3159	- - - c - a - - - - - - g - t - - - - - c - -	4M	LOC_Os09g14670.1 CDS|phosphoenolpyruvate carboxylase, putative, expressed	247	+
+Os03t0752300-01_S_88	POT3252	- c - - - - g - - - - - - - - c - t - - - a -	4M	LOC_Os09g34110.1 CDS|expressed protein	1333	-
+Os03t0752300-01_S_88	POT3342	- g - - - g - c - - - - - - - a - - - g - - -	5M	LOC_Os10g12480.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	1178	+
+Os03t0752300-01_S_88	POT3422	- - - - g - - - - - c g - - - - - - - g a - -	4M	LOC_Os10g26810.1 CDS|retrotransposon protein, putative, LINE subclass, expressed	232	+
+Os03t0752300-01_S_88	POT3521	- - - - - - - t - - - - c - t - g - - - - - -	4M	LOC_Os11g04210.1 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1024	+
+Os03t0752300-01_S_88	POT3523	- - - - - - - t - - - - c - t - g - - - - - -	4M	LOC_Os11g04210.2 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1024	+
+Os03t0752300-01_S_88	POT3640	a - - c t g - - - - - - - - - - - - - a - - -	5M	LOC_Os11g29450.1 CDS|retrotransposon protein, putative, unclassified, expressed	520	+
+Os03t0752300-01_S_88	POT3700	- a - g g - - - - - - - - g - - - - a - - - -	5M	LOC_Os11g37070.1 CDS|expressed protein	1108	+
+Os03t0752300-01_S_88	POT3754	- - t g - - c - - - - - - - t - - - - - t - -	4M	LOC_Os11g45290.1 CDS|retrotransposon protein, putative, unclassified, expressed	274	+
+Os03t0752300-01_S_88	POT3756	- - t g - - c - - - - - - - t - - - - - t - -	4M	LOC_Os11g45290.2 CDS|retrotransposon protein, putative, unclassified, expressed	271	+
+Os03t0752300-01_S_88	POT3802	- - - - - - - t - - - - c - t - g - - - - - -	4M	LOC_Os12g04020.1 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	1024	+
+Os03t0752300-01_S_88	POT3804	- - - - - - - t - - - - c - t - g - - - - - -	4M	LOC_Os12g04020.2 CDS|hydroxymethylglutaryl-CoA lyase, putative, expressed	994	+
+Os03t0752300-01_S_88	POT3955	- - c a - - - - - a - t - - - - - - - - t - -	4M	LOC_Os12g26310.1 CDS|retrotransposon protein, putative, unclassified, expressed	544	+
+Os03t0752300-01_S_88	POT3984	a - - - t a - - - - - - - - - - - - - a a - -	4M	LOC_Os12g28200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	622	+
+Os03t0752300-01_S_88	POT4088	- - c - g - - g - - c - - - - - - c - - - - -	5M	LOC_Os12g43910.1 CDS|retrotransposon protein, putative, LINE subclass, expressed	844	+

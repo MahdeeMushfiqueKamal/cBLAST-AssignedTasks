@@ -1,0 +1,7 @@
+Os03t0752300-01_S_71	POT494	- - - - g - - - t - - a - - - - - g - a - - -	5M	LOC_Os02g09100.1 CDS|isoleucyl-tRNA synthetase, cytoplasmic, putative, expressed	1767	-
+Os03t0752300-01_S_71	POT1174	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	662	+
+Os03t0752300-01_S_71	POT1227	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	662	+
+Os03t0752300-01_S_71	POT1406	- - - - g - - - c g - - - - - - - - c - - a -	4M	LOC_Os04g16280.1 CDS|retrotransposon protein, putative, unclassified, expressed	1559	-
+Os03t0752300-01_S_71	POT2239	- - - - - - a c - - - a a - - - - - - - - a -	4M	LOC_Os06g35050.1 CDS|arogenate dehydrogenase 1, chloroplast precursor, putative, expressed	812	+
+Os03t0752300-01_S_71	POT3913	- - t - g - - - - - - - - - - t - g t - - - -	5M	LOC_Os12g21910.1 CDS|retrotransposon protein, putative, unclassified, expressed	618	-
+Os03t0752300-01_S_71	POT4087	- - - - a c t - t - - - g - - - - - - - - - -	5M	LOC_Os12g43850.1 CDS|retrotransposon protein, putative, unclassified, expressed	579	+

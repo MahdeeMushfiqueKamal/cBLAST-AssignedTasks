@@ -1,0 +1,3 @@
+g g - - a - - - g - - - t - - - - - - - - - -	5M	Os03t0752300-01_S_25_POT291	LOC_Os01g49400.1 CDS|expressed protein	220	+	regionI_ident	
+- g g - - - - - - - - - - - - - g - - - - - -	3M	Os03t0752300-01_S_25_POT1510	LOC_Os04g29510.1 CDS|expressed protein	294	+	random_0_3M	
+- c a - - - a - - - - a a - - - - - - - - - -	5M	Os03t0752300-01_S_25_POT1597	LOC_Os04g44740.1 CDS|glycosyltransferase sugar-binding region containing DXD motif, putative, expressed	1208	+	regionI_ident	

@@ -1,0 +1,46 @@
+Os03t0752300-01_S_58	POT116	- a c - - - - - - g - - - g - - a - - - - - -	5M	LOC_Os01g21350.1 CDS|retrotransposon protein, putative, unclassified, expressed	1324	-
+Os03t0752300-01_S_58	POT312	- g - g - c g - - - - t - - - - - - - - - - -	5M	LOC_Os01g54600.1 CDS|WRKY13, expressed	636	+
+Os03t0752300-01_S_58	POT351	c c - g - - - - - - c - - - - t - - - - - - -	5M	LOC_Os01g59690.1 CDS|OsFBX28 - F-box domain containing protein, expressed	78	-
+Os03t0752300-01_S_58	POT399	- - c - - c - - - - - - - c - - g - - - - - -	4M	LOC_Os01g69190.1 CDS|regulatory protein, putative, expressed	223	-
+Os03t0752300-01_S_58	POT410	c - g - - - - - - - - - - c - - - - c - c - -	4M	LOC_Os01g70950.2 CDS|spermatogenesis-associated protein 20 precursor, putative, expressed	1242	-
+Os03t0752300-01_S_58	POT411	c - g - - - - - - - - - - c - - - - c - c - -	4M	LOC_Os01g70950.1 CDS|spermatogenesis-associated protein 20 precursor, putative, expressed	1515	-
+Os03t0752300-01_S_58	POT458	- a - g - - - - g a - - - - - - g - - - - - -	5M	LOC_Os02g04760.1 CDS|cycloartenol synthase, putative, expressed	249	+
+Os03t0752300-01_S_58	POT463	- g - - - g - t - - - - - - - - - - t - c - -	4M	LOC_Os02g05370.2 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	673	-
+Os03t0752300-01_S_58	POT464	- g - - - g - t - - - - - - - - - - t - c - -	4M	LOC_Os02g05370.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	673	-
+Os03t0752300-01_S_58	POT465	- g - - - g - t - - - - - - - - - - t - c - -	4M	LOC_Os02g05440.1 CDS|expressed protein	847	-
+Os03t0752300-01_S_58	POT524	- - - - - - - - - c - - - g - t - t - - t - -	4M	LOC_Os02g14800.4 CDS|expressed protein	105	+
+Os03t0752300-01_S_58	POT525	- - - - - - - - - c - - - g - t - t - - t - -	4M	LOC_Os02g14800.5 CDS|expressed protein	105	+
+Os03t0752300-01_S_58	POT526	- - - - - - - - - c - - - g - t - t - - t - -	4M	LOC_Os02g14800.2 CDS|expressed protein	105	+
+Os03t0752300-01_S_58	POT527	- - - - - - - - - c - - - g - t - t - - t - -	4M	LOC_Os02g14800.1 CDS|expressed protein	105	+
+Os03t0752300-01_S_58	POT528	- - - - - - - - - c - - - g - t - t - - t - -	4M	LOC_Os02g14800.3 CDS|expressed protein	105	+
+Os03t0752300-01_S_58	POT709	- a c - - - - - - g - - - g - - a - - - - - -	5M	LOC_Os02g45680.1 CDS|retrotransposon protein, putative, unclassified, expressed	4708	-
+Os03t0752300-01_S_58	POT748	g c - g - - - c - - - - - - - - a - - - - - -	5M	LOC_Os02g51280.1 CDS|TCP-domain protein, putative, expressed	57	+
+Os03t0752300-01_S_58	POT915	- - g - - - - - a g - t - - - t - - - - - - -	5M	LOC_Os03g18710.1 CDS|expressed protein	1804	-
+Os03t0752300-01_S_58	POT1105	- g - c - - - - - - - - - - - - - - t - g - -	3M	LOC_Os03g51260.1 CDS|expressed protein	333	-
+Os03t0752300-01_S_58	POT1160	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	441	+
+Os03t0752300-01_S_58	POT1213	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	441	+
+Os03t0752300-01_S_58	POT1254	- - - - - - - t - g - - - c - - g - - c - - -	5M	LOC_Os03g57430.1 CDS|expressed protein	2599	+
+Os03t0752300-01_S_58	POT1586	- - t g - - - - a - - g - - - - - - - a - - -	5M	LOC_Os04g43050.1 CDS|Dicer, putative, expressed	2163	-
+Os03t0752300-01_S_58	POT1587	- - t g - - - - a - - g - - - - - - - a - - -	5M	LOC_Os04g43050.4 CDS|Dicer, putative, expressed	369	-
+Os03t0752300-01_S_58	POT1632	c c - - - c - - c - - - - - - - - g - - - - -	5M	LOC_Os04g50880.1 CDS|phosphoribulokinase/Uridine kinase family protein, expressed	38	+
+Os03t0752300-01_S_58	POT1711	c c - - t - - - - - - - - - - a - - c - - - -	5M	LOC_Os05g04350.1 CDS|retrotransposon protein, putative, unclassified, expressed	1912	-
+Os03t0752300-01_S_58	POT1713	c - - - - - a t - g - - - - - - a - - - - - -	5M	LOC_Os05g05230.1 CDS|expressed protein	1443	+
+Os03t0752300-01_S_58	POT1760	g - - - t - c - a - - - - - - t - - - - - - -	5M	LOC_Os05g13720.1 CDS|retrotransposon protein, putative, unclassified	678	+
+Os03t0752300-01_S_58	POT1830	- - - a - c c - g - - - - - - - - t - - - - -	5M	LOC_Os05g22770.1 CDS|retrotransposon protein, putative, unclassified, expressed	903	-
+Os03t0752300-01_S_58	POT2351	c - - c - - c - - c - - - - - - - - - - - - -	4M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	444	+
+Os03t0752300-01_S_58	POT2493	- - - a - - g - - - t - - - - c - - - - - a -	4M	LOC_Os07g19140.1 CDS|retrotransposon protein, putative, unclassified, expressed	1780	-
+Os03t0752300-01_S_58	POT2573	- - - - - - - - a - - - - g - - a c a - - - -	5M	LOC_Os07g30660.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1434	+
+Os03t0752300-01_S_58	POT2650	- g - a - - - - c a - - - - - - - - - a - - -	5M	LOC_Os07g40270.1 CDS|frigida, putative, expressed	195	+
+Os03t0752300-01_S_58	POT2684	- - - - g a - - - - - - a - - t - - - - - a -	4M	LOC_Os07g45510.1 CDS|expressed protein	606	+
+Os03t0752300-01_S_58	POT2694	a g - - - - - - a - - - - - t a - - - - - - -	5M	LOC_Os07g46520.1 CDS|rhythmically expressed gene 2 protein, putative, expressed	317	+
+Os03t0752300-01_S_58	POT2777	- c - - - - - - - - - - t c - - - - - - - a -	3M	LOC_Os08g07950.1 CDS|NB-ARC domain containing protein, expressed	3211	-
+Os03t0752300-01_S_58	POT2981	- g - - g a - - a - - - - - - - g - - - - - -	5M	LOC_Os08g34130.1 CDS|mitochondrial glycoprotein, putative, expressed	255	+
+Os03t0752300-01_S_58	POT3057	- - - g - a - - - - - - c - - t - - - - t - -	4M	LOC_Os08g43320.1 CDS|OsRhmbd14 - Putative Rhomboid homologue, expressed	378	-
+Os03t0752300-01_S_58	POT3171	- - t - - - - - g c - - - g - - g - - - - - -	5M	LOC_Os09g17152.1 CDS|OsFBX319 - F-box domain containing protein, expressed	471	-
+Os03t0752300-01_S_58	POT3228	g g - a - - - - - - - - - c g - - - - - - - -	5M	LOC_Os09g29284.1 CDS|MATE efflux family protein, putative, expressed	513	-
+Os03t0752300-01_S_58	POT3296	- g t a g - - - - - - - - - - c - - - - - - -	5M	LOC_Os10g04000.1 CDS|STE_MEKK_ste11_MAP3K.22 - STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed	1437	+
+Os03t0752300-01_S_58	POT3297	- g t a g - - - - - - - - - - c - - - - - - -	5M	LOC_Os10g04010.1 CDS|STE_MEKK_ste11_MAP3K.23 - STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed	1338	+
+Os03t0752300-01_S_58	POT3583	- - - c - - - - - g - - - - - - g c - a - - -	5M	LOC_Os11g16430.1 CDS|diphthamide biosynthesis protein, putative, expressed	843	+
+Os03t0752300-01_S_58	POT3654	- - - - - - - t g - - - - - - a - - - t - - -	4M	LOC_Os11g31500.1 CDS|ATP binding protein, putative, expressed	642	-
+Os03t0752300-01_S_58	POT3990	- - - - - - - - a - - - - g - - a t a - - - -	5M	LOC_Os12g29120.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1683	+
+Os03t0752300-01_S_58	POT4023	- - - - - - - - a - - - - g - - a c a - - - -	5M	LOC_Os12g33380.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1524	+

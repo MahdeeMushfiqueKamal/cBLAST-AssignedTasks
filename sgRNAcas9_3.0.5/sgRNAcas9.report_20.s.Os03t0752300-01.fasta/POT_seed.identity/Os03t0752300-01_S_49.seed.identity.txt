@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1151	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	219	+	Os03t0752300-01_S_49
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1204	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	219	+	Os03t0752300-01_S_49
+- - t c - c - g - - - - - - - - - - - - - - -	4M	POT3260	LOC_Os09g37100.1 CDS|phospholipase D, putative, expressed	645	-	Os03t0752300-01_S_49

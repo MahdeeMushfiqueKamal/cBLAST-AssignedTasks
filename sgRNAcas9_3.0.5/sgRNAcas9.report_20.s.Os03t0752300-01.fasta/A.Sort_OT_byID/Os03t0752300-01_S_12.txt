@@ -1,0 +1,31 @@
+Os03t0752300-01_S_12	POT17	- a - - - - - - t - - - g - - g - - - a - - -	5M	LOC_Os01g04920.2 CDS|glycosyl transferase, group 1 domain containing protein, expressed	120	-
+Os03t0752300-01_S_12	POT19	- a - - - - - - t - - - g - - g - - - a - - -	5M	LOC_Os01g04920.3 CDS|glycosyl transferase, group 1 domain containing protein, expressed	120	-
+Os03t0752300-01_S_12	POT21	- a - - - - - - t - - - g - - g - - - a - - -	5M	LOC_Os01g04920.1 CDS|glycosyl transferase, group 1 domain containing protein, expressed	120	-
+Os03t0752300-01_S_12	POT244	- - - - - - - a - - - c - - c - - - a t - - -	5M	LOC_Os01g42850.2 CDS|ThiF family domain containing protein, putative, expressed	3020	-
+Os03t0752300-01_S_12	POT245	- - - - - - - a - - - c - - c - - - a t - - -	5M	LOC_Os01g42850.1 CDS|ThiF family domain containing protein, putative, expressed	3023	-
+Os03t0752300-01_S_12	POT317	- - - - - - t - - a - - a - - - - c t - - - -	5M	LOC_Os01g55070.1 CDS|pentatricopeptide, putative, expressed	284	+
+Os03t0752300-01_S_12	POT390	- - - - a c - - - - - - g a - - - - - - - - -	4M	LOC_Os01g68130.1 CDS|expressed protein	938	-
+Os03t0752300-01_S_12	POT451	- g - - - c - - - - - - g - - - - - g a - - -	5M	LOC_Os02g04130.1 CDS|DUF1645 domain containing protein, putative, expressed	485	-
+Os03t0752300-01_S_12	POT737	- - - - - - - - - - c - - g - - - c g g - - -	5M	LOC_Os02g50340.1 CDS|membrane attack complex component/perforin/complement C9, putative, expressed	1257	+
+Os03t0752300-01_S_12	POT807	- - - - c a - - - a - - - - - g g - - - - - -	5M	LOC_Os03g01640.1 CDS|expansin precursor, putative, expressed	85	-
+Os03t0752300-01_S_12	POT844	t a - c a - - - - - - - g - - - - - - - - - -	5M	LOC_Os03g08200.1 CDS|DUF567 domain containing protein, putative, expressed	514	+
+Os03t0752300-01_S_12	POT988	- - g - - - - a - - - - c - - g c - - - - - -	5M	LOC_Os03g31480.1 CDS|expansin precursor, putative, expressed	456	+
+Os03t0752300-01_S_12	POT1798	c t - - - - - g - - a - - - - g - - - - - - -	5M	LOC_Os05g18970.1 CDS|expressed protein	388	+
+Os03t0752300-01_S_12	POT2085	- - - - a g - - - t - c - - - - - - - - c - -	4M	LOC_Os06g07878.1 CDS|peptidase, T1 family, putative, expressed	637	+
+Os03t0752300-01_S_12	POT2086	- - - - a g - - - t - c - - - - - - - - c - -	4M	LOC_Os06g07978.1 CDS|peptidase, T1 family, putative, expressed	637	+
+Os03t0752300-01_S_12	POT2233	- g t - - c - - - - - - - - - a - - - - g - -	4M	LOC_Os06g34350.1 CDS|expressed protein	322	+
+Os03t0752300-01_S_12	POT2624	- - a - - - - - - - - - a a t - t - - - - - -	5M	LOC_Os07g37180.1 CDS|ABC1 family domain containing protein, putative, expressed	453	-
+Os03t0752300-01_S_12	POT2625	- - a - - - - - - - - - a a t - t - - - - - -	5M	LOC_Os07g37180.2 CDS|ABC1 family domain containing protein, putative, expressed	453	-
+Os03t0752300-01_S_12	POT2723	- - - - - c - - - c - - a - - - - t - - t - -	4M	LOC_Os07g48840.1 CDS|Ser/Thr protein phosphatase family protein, putative, expressed	633	-
+Os03t0752300-01_S_12	POT2724	- - - - - c - - - c - - a - - - - t - - t - -	4M	LOC_Os07g48840.2 CDS|Ser/Thr protein phosphatase family protein, putative, expressed	633	-
+Os03t0752300-01_S_12	POT2725	- - - - - c - - - c - - a - - - - t - - t - -	4M	LOC_Os07g48840.3 CDS|Ser/Thr protein phosphatase family protein, putative, expressed	633	-
+Os03t0752300-01_S_12	POT2885	- a - - - a - - - - a - - g - - - - - - - - -	4M	LOC_Os08g20750.1 CDS|retrotransposon protein, putative, unclassified, expressed	123	+
+Os03t0752300-01_S_12	POT2947	- - - - - c - - - - - - g - - a - - g - c - -	4M	LOC_Os08g29170.1 CDS|dehydrogenase, putative, expressed	445	+
+Os03t0752300-01_S_12	POT2983	- - - - c g - c - - - - g - - - - - - - g - -	4M	LOC_Os08g34280.1 CDS|cinnamoyl-CoA reductase, putative, expressed	46	+
+Os03t0752300-01_S_12	POT3044	- g a - - a - - - - - - - - - - c - - - g - -	4M	LOC_Os08g42400.2 CDS|no apical meristem protein, putative, expressed	43	+
+Os03t0752300-01_S_12	POT3045	- g a - - a - - - - - - - - - - c - - - g - -	4M	LOC_Os08g42400.3 CDS|no apical meristem protein, putative, expressed	43	+
+Os03t0752300-01_S_12	POT3046	- g a - - a - - - - - - - - - - c - - - g - -	4M	LOC_Os08g42400.1 CDS|no apical meristem protein, putative, expressed	43	+
+Os03t0752300-01_S_12	POT3240	- - - - - - - - - a g - c - - - - - - t t - -	4M	LOC_Os09g32020.1 CDS|ubiquitin fusion degradation protein, putative, expressed	359	-
+Os03t0752300-01_S_12	POT3272	- - - - - - - g - - - - - c - - g - g a - - -	5M	LOC_Os09g39430.1 CDS|GDSL-like lipase/acylhydrolase, putative, expressed	314	-
+Os03t0752300-01_S_12	POT3622	- g t - - - - g a - - - g - - - - - - - - - -	5M	LOC_Os11g25990.1 CDS|indole-3-acetate beta-glucosyltransferase, putative, expressed	1062	+
+Os03t0752300-01_S_12	POT3712	- a - - - a - - - - a - - g - - - - - - - - -	4M	LOC_Os11g39240.1 CDS|retrotransposon, putative, centromere-specific, expressed	216	+

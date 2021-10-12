@@ -1,0 +1,33 @@
+Os03t0752300-01_S_39	POT415	- - - g t - c - - - - - - - - g - - g - - - -	5M	LOC_Os01g71250.1 CDS|expressed protein	403	+
+Os03t0752300-01_S_39	POT502	- - - - - - - - - - g - g - - g - - g g - - -	5M	LOC_Os02g10800.3 CDS|mitochondrial carrier protein, putative, expressed	1030	+
+Os03t0752300-01_S_39	POT503	- - - - - - - - - - g - g - - g - - g g - - -	5M	LOC_Os02g10800.2 CDS|mitochondrial carrier protein, putative, expressed	1030	+
+Os03t0752300-01_S_39	POT504	- - - - - - - - - - g - g - - g - - g g - - -	5M	LOC_Os02g10800.1 CDS|mitochondrial carrier protein, putative, expressed	1030	+
+Os03t0752300-01_S_39	POT600	- a - - - - t - - t - - - t - - - - - - - - -	4M	LOC_Os02g29300.1 CDS|expressed protein	233	-
+Os03t0752300-01_S_39	POT676	- - c - t c - - - a - - - - - - - - - c - - -	5M	LOC_Os02g42280.1 CDS|UDP-glucoronosyl/UDP-glucosyl transferase family protein, putative, expressed	760	+
+Os03t0752300-01_S_39	POT826	- - - - t - a - - - g - g - - - - - - - g - -	4M	LOC_Os03g05530.1 CDS|nodulin, putative, expressed	505	-
+Os03t0752300-01_S_39	POT901	- - c g - - a - - - - - - - g c - - - - - - -	5M	LOC_Os03g16880.1 CDS|DnaK family protein, putative, expressed	895	+
+Os03t0752300-01_S_39	POT934	- a - g - - - - - - - - - - t - - - - - a a -	4M	LOC_Os03g22420.1 CDS|AAA-type ATPase family protein, putative, expressed	918	-
+Os03t0752300-01_S_39	POT935	- a - g - - - - - - - - - - t - - - - - a a -	4M	LOC_Os03g22420.2 CDS|AAA-type ATPase family protein, putative, expressed	918	-
+Os03t0752300-01_S_39	POT1083	- c - g - t - - - - - - c - - a - - - - - - -	5M	LOC_Os03g46340.1 CDS|pleckstrin homology domain-containing protein, putative, expressed	1319	-
+Os03t0752300-01_S_39	POT1143	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	93	+
+Os03t0752300-01_S_39	POT1196	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	93	+
+Os03t0752300-01_S_39	POT1397	- - - a - c - - - - t - - - - - c - t - - - -	5M	LOC_Os04g14150.1 CDS|dehydration response related protein, putative, expressed	295	+
+Os03t0752300-01_S_39	POT1538	- - c - t - t - - - - - g - g - - - - - - - -	5M	LOC_Os04g35540.1 CDS|amino acid permease family protein, putative, expressed	943	+
+Os03t0752300-01_S_39	POT1680	t c - - - - - - - - - - - a - g - - - t - - -	5M	LOC_Os04g57860.1 CDS|endoglucanase precursor, putative, expressed	1195	+
+Os03t0752300-01_S_39	POT1719	- - - - c a - - g - - - - g - - - - - - g - -	4M	LOC_Os05g06660.1 CDS|OsSCP26 - Putative Serine Carboxypeptidase homologue, expressed	1061	+
+Os03t0752300-01_S_39	POT1720	- - - - c a - - g - - - - g - - - - - - g - -	4M	LOC_Os05g06660.2 CDS|OsSCP26 - Putative Serine Carboxypeptidase homologue, expressed	1061	+
+Os03t0752300-01_S_39	POT1894	c - - - - - - - - - - - g g - c - - - c - - -	5M	LOC_Os05g31740.1 CDS|cytochrome P450 86A2, putative, expressed	518	-
+Os03t0752300-01_S_39	POT2007	- - - g - - - g - - g - - t - g - - - - - - -	5M	LOC_Os05g49330.1 CDS|expressed protein	253	+
+Os03t0752300-01_S_39	POT2026	- - c - - - - g - - c - c - - - - - - g - - -	5M	LOC_Os06g01760.1 CDS|ligA, putative, expressed	1160	+
+Os03t0752300-01_S_39	POT2027	- - c - - - - g - - c - c - - - - - - g - - -	5M	LOC_Os06g01760.2 CDS|ligA, putative, expressed	1160	+
+Os03t0752300-01_S_39	POT2628	- g - - t - a - - - - - g - - g - - - - - - -	5M	LOC_Os07g38150.1 CDS|expressed protein	428	-
+Os03t0752300-01_S_39	POT2631	- - c - t c - - - - - g - - - - c - - - - - -	5M	LOC_Os07g38470.1 CDS|expressed protein	145	+
+Os03t0752300-01_S_39	POT2767	- - - g - - t - - c - t - - - - - - - - - a -	4M	LOC_Os08g06590.1 CDS|expressed protein	496	-
+Os03t0752300-01_S_39	POT3005	- - - - - - - c g - t - - g - - - - a - - - -	5M	LOC_Os08g35620.2 CDS|HD domain containing protein, putative, expressed	290	-
+Os03t0752300-01_S_39	POT3006	- - - - - - - c g - t - - g - - - - a - - - -	5M	LOC_Os08g35620.1 CDS|HD domain containing protein, putative, expressed	950	-
+Os03t0752300-01_S_39	POT3036	- a - g - - - - - - c - g - - - - - - t - - -	5M	LOC_Os08g41100.1 CDS|CHIT12 - Chitinase family protein precursor, expressed	343	+
+Os03t0752300-01_S_39	POT3041	- - - - - - t a - - t - g t - - - - - - - - -	5M	LOC_Os08g42080.1 CDS|ACR5, putative, expressed	895	+
+Os03t0752300-01_S_39	POT3042	- - - - - - - - g - t - - - - - c - g - - - -	4M	LOC_Os08g42100.1 CDS|ACT domain containing protein, expressed	373	-
+Os03t0752300-01_S_39	POT3483	- - c - g c - - - - - - - - - - - t - g - - -	5M	LOC_Os10g39740.1 CDS|glutathione S-transferase, putative, expressed	97	+
+Os03t0752300-01_S_39	POT3810	- - - - - - - - - c - t - t - - - - a - g - -	4M	LOC_Os12g05920.1 CDS|ZOS12-01 - C2H2 zinc finger protein, expressed	716	+
+Os03t0752300-01_S_39	POT3869	c - - t t - - - - - - t - - - - - - - - g - -	4M	LOC_Os12g15370.1 CDS|expressed protein	285	+

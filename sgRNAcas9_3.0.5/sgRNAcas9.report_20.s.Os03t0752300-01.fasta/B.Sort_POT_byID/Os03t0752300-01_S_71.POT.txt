@@ -1,0 +1,4 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_71_POT1174	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	662	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_71_POT1227	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	662	+	seed_ident	
+- - - - - - a c - - - a a - - - - - - - - a -	4M	Os03t0752300-01_S_71_POT2239	LOC_Os06g35050.1 CDS|arogenate dehydrogenase 1, chloroplast precursor, putative, expressed	812	+	regionI_ident	
+- - - - a c t - t - - - g - - - - - - - - - -	5M	Os03t0752300-01_S_71_POT4087	LOC_Os12g43850.1 CDS|retrotransposon protein, putative, unclassified, expressed	579	+	regionI_ident	

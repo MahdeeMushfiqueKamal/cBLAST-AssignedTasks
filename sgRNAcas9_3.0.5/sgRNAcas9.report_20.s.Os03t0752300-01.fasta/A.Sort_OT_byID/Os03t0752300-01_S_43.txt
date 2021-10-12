@@ -1,0 +1,10 @@
+Os03t0752300-01_S_43	POT237	- - t - - a - - - - - - - - - - - a a - - a -	4M	LOC_Os01g41910.1 CDS|receptor-like protein kinase 5 precursor, putative, expressed	8	+
+Os03t0752300-01_S_43	POT286	- - - - - - - g g - - - - t - c - t - - - - -	5M	LOC_Os01g48490.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2529	+
+Os03t0752300-01_S_43	POT883	- - - - - - - - - - - - - g g t - - a - g - -	4M	LOC_Os03g13550.1 CDS|oxidoreductase, putative, expressed	289	+
+Os03t0752300-01_S_43	POT1147	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	141	+
+Os03t0752300-01_S_43	POT1200	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	141	+
+Os03t0752300-01_S_43	POT2106	- t - - - - - - - c c - - - - g - t - - - - -	5M	LOC_Os06g13660.1 CDS|alanyl-tRNA synthetase, putative, expressed	2298	+
+Os03t0752300-01_S_43	POT3195	- - - - - - - g g - - - c t - c - - - - - - -	5M	LOC_Os09g22230.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2097	+
+Os03t0752300-01_S_43	POT3799	- a - - - - t - - - - g c - t - - - - - - - -	5M	LOC_Os12g03920.1 CDS|nodulin, putative, expressed	297	+
+Os03t0752300-01_S_43	POT4021	- a - - - - t - - - - g c - t - - - - - - - -	5M	LOC_Os12g33300.1 CDS|integral membrane protein DUF6 containing protein, expressed	381	+
+Os03t0752300-01_S_43	POT4100	- a - - - - t - - - - g c - t - - - - - - - -	5M	ChrSy.fgenesh.mRNA.32 CDS|expressed protein	237	+

@@ -1,0 +1,180 @@
+Os03t0752300-01_S_57	POT155	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g28000.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3195	+
+Os03t0752300-01_S_57	POT170	- - g - - - - - - - - - - - - - - c a - c a -	4M	LOC_Os01g32080.1 CDS|thiamine pyrophosphate enzyme, C-terminal TPP binding domain containing protein, expressed	1596	+
+Os03t0752300-01_S_57	POT255	- - c - g - - - - - - - a - g - g - - - - - -	5M	LOC_Os01g44069.1 CDS|glycerol-3-phosphate acyltransferase, putative, expressed	960	-
+Os03t0752300-01_S_57	POT256	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g44150.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2826	+
+Os03t0752300-01_S_57	POT259	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g45030.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2073	+
+Os03t0752300-01_S_57	POT299	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g51820.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3213	+
+Os03t0752300-01_S_57	POT302	- c - - c - g - - - - - c - - - g - - - - - -	5M	LOC_Os01g52290.1 CDS|expressed protein	498	-
+Os03t0752300-01_S_57	POT315	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g54830.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2445	+
+Os03t0752300-01_S_57	POT360	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g62320.1 CDS|retrotransposon protein, putative, unclassified, expressed	3102	+
+Os03t0752300-01_S_57	POT367	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g64080.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2967	+
+Os03t0752300-01_S_57	POT402	- - g c - g - t - - - c - - - - - - - - - - -	5M	LOC_Os01g70090.1 CDS|enoyl-CoA hydratase/isomerase family protein, putative, expressed	725	+
+Os03t0752300-01_S_57	POT408	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os01g70760.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	69	+
+Os03t0752300-01_S_57	POT462	- - g - - - - g - - - a - - g - - - - - c - -	4M	LOC_Os02g05150.1 CDS|retrotransposon protein, putative, unclassified, expressed	3000	+
+Os03t0752300-01_S_57	POT480	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g07520.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3102	+
+Os03t0752300-01_S_57	POT506	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g11660.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2514	+
+Os03t0752300-01_S_57	POT554	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g19300.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2886	+
+Os03t0752300-01_S_57	POT559	- - - - g - - - c c - a - - - c - - - - - - -	5M	LOC_Os02g20110.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3162	+
+Os03t0752300-01_S_57	POT562	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g20660.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2220	+
+Os03t0752300-01_S_57	POT573	- - - - g - - - - c - a - - - c - - - - - - -	4M	LOC_Os02g22790.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1515	+
+Os03t0752300-01_S_57	POT601	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g29730.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2229	+
+Os03t0752300-01_S_57	POT634	- - - - g - - - - c - - - - - c - - - - - a -	3M	LOC_Os02g36640.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2193	+
+Os03t0752300-01_S_57	POT719	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g47730.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3147	+
+Os03t0752300-01_S_57	POT740	g - - - g t - - - - - c - - t - - - - - - - -	5M	LOC_Os02g50620.1 CDS|dehydrogenase E1 component domain containing protein, expressed	774	+
+Os03t0752300-01_S_57	POT758	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os02g52970.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1953	+
+Os03t0752300-01_S_57	POT879	- - c - - g a g - - - - - - - - c - - - - - -	5M	LOC_Os03g12940.1 CDS|OsFBO13 - F-box and other domain containing protein, expressed	1469	-
+Os03t0752300-01_S_57	POT880	- - c - - g a g - - - - - - - - c - - - - - -	5M	LOC_Os03g12940.2 CDS|OsFBO13 - F-box and other domain containing protein, expressed	1469	-
+Os03t0752300-01_S_57	POT899	- - - - - - c a - g - - - - - - - - - - t - -	3M	LOC_Os03g16670.1 CDS|haloacid dehalogenase-like hydrolase family protein, putative, expressed	126	+
+Os03t0752300-01_S_57	POT995	- - - - g - - - - - - a - - - c - - a - - a -	4M	LOC_Os03g31986.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3030	+
+Os03t0752300-01_S_57	POT1003	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g33680.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2436	+
+Os03t0752300-01_S_57	POT1014	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g35740.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2673	+
+Os03t0752300-01_S_57	POT1024	- t - - c - - - - - - - - c - t - - c - - - -	5M	LOC_Os03g36610.1 CDS|retrotransposon protein, putative, unclassified	517	-
+Os03t0752300-01_S_57	POT1026	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g37194.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2772	+
+Os03t0752300-01_S_57	POT1043	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g39350.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2697	+
+Os03t0752300-01_S_57	POT1045	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g39500.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1191	+
+Os03t0752300-01_S_57	POT1059	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g43220.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2883	+
+Os03t0752300-01_S_57	POT1060	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g43270.1 CDS|retrotransposon protein, putative, unclassified, expressed	2931	+
+Os03t0752300-01_S_57	POT1117	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os03g52110.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2550	+
+Os03t0752300-01_S_57	POT1159	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	438	+
+Os03t0752300-01_S_57	POT1212	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	438	+
+Os03t0752300-01_S_57	POT1284	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g01400.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	948	+
+Os03t0752300-01_S_57	POT1302	- - - - g - - - - - - a - - - c - - a - - a -	4M	LOC_Os04g03250.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2550	+
+Os03t0752300-01_S_57	POT1308	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g03630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3363	+
+Os03t0752300-01_S_57	POT1365	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g09360.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1749	+
+Os03t0752300-01_S_57	POT1368	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g10070.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2235	+
+Os03t0752300-01_S_57	POT1375	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g11240.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2547	+
+Os03t0752300-01_S_57	POT1380	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g12350.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1575	+
+Os03t0752300-01_S_57	POT1391	- - - - g - - - - c - a c - - t - - - - - - -	5M	LOC_Os04g13510.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3132	+
+Os03t0752300-01_S_57	POT1392	- - - - g - - - - c - a - - - t - - - - - a -	4M	LOC_Os04g13690.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	465	+
+Os03t0752300-01_S_57	POT1410	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g16570.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3222	+
+Os03t0752300-01_S_57	POT1415	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g17390.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	408	+
+Os03t0752300-01_S_57	POT1427	- - - - a - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g18700.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2985	+
+Os03t0752300-01_S_57	POT1430	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g19090.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3039	+
+Os03t0752300-01_S_57	POT1432	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g19360.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1770	+
+Os03t0752300-01_S_57	POT1433	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g19520.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	594	+
+Os03t0752300-01_S_57	POT1447	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g21750.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1566	+
+Os03t0752300-01_S_57	POT1451	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g22200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1941	+
+Os03t0752300-01_S_57	POT1454	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g22630.1 CDS|retrotransposon protein, putative, unclassified, expressed	2091	+
+Os03t0752300-01_S_57	POT1455	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g22690.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2466	+
+Os03t0752300-01_S_57	POT1488	- - - - g - - - - - - a - - - c - - - - - a -	3M	LOC_Os04g26740.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	69	+
+Os03t0752300-01_S_57	POT1489	- - - - - c - - - - - - - - - a - t c t - - -	5M	LOC_Os04g26910.1 CDS|oxidoreductase, aldo/keto reductase family protein, putative, expressed	718	-
+Os03t0752300-01_S_57	POT1582	- - g - - - c - - - - - c a - - - t - - - - -	5M	LOC_Os04g42610.1 CDS|plant protein of unknown function DUF869 domain containing protein, expressed	630	+
+Os03t0752300-01_S_57	POT1643	- - - - - - - g a g - - - - - - g - - g - - -	5M	LOC_Os04g52060.1 CDS|transposable element protein, putative, containing Pfam profile: PF03004, Transposase_24, expressed	2571	+
+Os03t0752300-01_S_57	POT1688	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os04g59080.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2667	+
+Os03t0752300-01_S_57	POT1727	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g08170.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1887	+
+Os03t0752300-01_S_57	POT1729	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g08310.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2361	+
+Os03t0752300-01_S_57	POT1746	- a - - - t g - - - - a - - - - - g - - - - -	5M	LOC_Os05g10740.1 CDS|pollen-specific protein SF21, putative, expressed	645	+
+Os03t0752300-01_S_57	POT1747	- a - - - t g - - - - a - - - - - g - - - - -	5M	LOC_Os05g10740.2 CDS|pollen-specific protein SF21, putative, expressed	408	+
+Os03t0752300-01_S_57	POT1764	- - - - a c a - - - - - g - - - - - - - t - -	4M	LOC_Os05g14780.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	855	+
+Os03t0752300-01_S_57	POT1812	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g20160.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1935	+
+Os03t0752300-01_S_57	POT1822	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g20990.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1437	+
+Os03t0752300-01_S_57	POT1825	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g22390.1 CDS|retrotransposon protein, putative, unclassified, expressed	1710	+
+Os03t0752300-01_S_57	POT1846	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os05g24520.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	858	+
+Os03t0752300-01_S_57	POT1856	- - - - g - - - - c - a - - - t - - - - - a -	4M	LOC_Os05g26170.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2715	+
+Os03t0752300-01_S_57	POT2139	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os06g18950.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2769	+
+Os03t0752300-01_S_57	POT2152	- - - - g - - - - c - a - - - t - - - - - - -	4M	LOC_Os06g20590.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2037	+
+Os03t0752300-01_S_57	POT2162	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os06g22520.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2748	+
+Os03t0752300-01_S_57	POT2180	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os06g25760.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2319	+
+Os03t0752300-01_S_57	POT2184	- - - - - - - - - - - a - - - - g c a g - - -	5M	LOC_Os06g26130.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1476	+
+Os03t0752300-01_S_57	POT2200	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os06g30070.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2643	+
+Os03t0752300-01_S_57	POT2242	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os06g35250.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1110	+
+Os03t0752300-01_S_57	POT2249	- - - a - - - - a a t - - - - - - - - - - a -	4M	LOC_Os06g36970.1 CDS|transposon protein, putative, unclassified, expressed	1989	+
+Os03t0752300-01_S_57	POT2266	g - - - - - g - - - - - g a - - t - - - - - -	5M	LOC_Os06g41590.3 CDS|YIF1B, putative, expressed	43	-
+Os03t0752300-01_S_57	POT2267	g - - - - - g - - - - - g a - - t - - - - - -	5M	LOC_Os06g41590.2 CDS|YIF1B, putative, expressed	43	-
+Os03t0752300-01_S_57	POT2268	g - - - - - g - - - - - g a - - t - - - - - -	5M	LOC_Os06g41590.1 CDS|YIF1B, putative, expressed	43	-
+Os03t0752300-01_S_57	POT2302	t - - - - t - - - - - - - - - - g - t - t - -	4M	LOC_Os06g47000.2 CDS|external NADH-ubiquinone oxidoreductase 1, mitochondrial precursor, putative, expressed	741	+
+Os03t0752300-01_S_57	POT2303	t - - - - t - - - - - - - - - - g - t - t - -	4M	LOC_Os06g47000.3 CDS|external NADH-ubiquinone oxidoreductase 1, mitochondrial precursor, putative, expressed	375	+
+Os03t0752300-01_S_57	POT2304	t - - - - t - - - - - - - - - - g - t - t - -	4M	LOC_Os06g47000.1 CDS|external NADH-ubiquinone oxidoreductase 1, mitochondrial precursor, putative, expressed	741	+
+Os03t0752300-01_S_57	POT2350	c - - c - - c - - c - - c - - - - - - - - - -	5M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	441	+
+Os03t0752300-01_S_57	POT2431	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g11260.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2616	+
+Os03t0752300-01_S_57	POT2444	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g13120.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3294	+
+Os03t0752300-01_S_57	POT2450	- - g - g - - - - - - - - - - t - - - g - a -	4M	LOC_Os07g13560.1 CDS|retrotransposon protein, putative, unclassified, expressed	3444	+
+Os03t0752300-01_S_57	POT2464	- - - - - - - - - - - - - - - - g c a g - a -	4M	LOC_Os07g15760.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1566	+
+Os03t0752300-01_S_57	POT2472	- - g - - - - - - - - a - - g - - - - - c - -	3M	LOC_Os07g16530.1 CDS|retrotransposon protein, putative, unclassified, expressed	1539	+
+Os03t0752300-01_S_57	POT2490	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g18360.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2133	+
+Os03t0752300-01_S_57	POT2494	- a - - - - a - - g - - - t - - - - c - - - -	5M	LOC_Os07g19140.1 CDS|retrotransposon protein, putative, unclassified, expressed	1783	-
+Os03t0752300-01_S_57	POT2501	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g20670.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3102	+
+Os03t0752300-01_S_57	POT2510	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g22550.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2271	+
+Os03t0752300-01_S_57	POT2519	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g24640.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1761	+
+Os03t0752300-01_S_57	POT2533	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g25630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2100	+
+Os03t0752300-01_S_57	POT2535	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g26830.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	294	+
+Os03t0752300-01_S_57	POT2536	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g27200.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3618	+
+Os03t0752300-01_S_57	POT2541	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g27420.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3267	+
+Os03t0752300-01_S_57	POT2572	- - - - - - - - - - - a - - - - g - - a c a -	4M	LOC_Os07g30660.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1431	+
+Os03t0752300-01_S_57	POT2613	- - - - g - - - - g - - c - - - t - - - t - -	4M	LOC_Os07g36330.1 CDS|OsFBX245 - F-box domain containing protein, expressed	779	+
+Os03t0752300-01_S_57	POT2680	- c - - - - - - - - - c - - - t g - - g - - -	5M	LOC_Os07g45064.1 CDS|Phosphatidylinositol kinase and FAT containing domain protein, putative, expressed	3267	+
+Os03t0752300-01_S_57	POT2683	- - t - - - - g a - - - - - - a - - t - - - -	5M	LOC_Os07g45510.1 CDS|expressed protein	603	+
+Os03t0752300-01_S_57	POT2689	- - - - g - - - - c - a - - - c - - a - - - -	5M	LOC_Os07g45620.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3039	+
+Os03t0752300-01_S_57	POT2713	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os07g47920.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2274	+
+Os03t0752300-01_S_57	POT2752	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g04060.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1041	+
+Os03t0752300-01_S_57	POT2803	- - - - - - - - - - - a - - - - - c a g - a -	4M	LOC_Os08g12140.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1776	+
+Os03t0752300-01_S_57	POT2806	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g12650.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	84	+
+Os03t0752300-01_S_57	POT2845	- - - - g - - - - - - a - - - c - - a - - a -	4M	LOC_Os08g17480.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2403	+
+Os03t0752300-01_S_57	POT2850	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g17910.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3087	+
+Os03t0752300-01_S_57	POT2880	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g19890.1 CDS|ZOS8-03 - C2H2 zinc finger protein, expressed	2718	+
+Os03t0752300-01_S_57	POT2881	- - - - - - - - - - - a - - - - - c a g - a -	4M	LOC_Os08g19940.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	693	+
+Os03t0752300-01_S_57	POT2888	- - - - - - - t - - - a - - - - - c a g - - -	5M	LOC_Os08g20870.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1434	+
+Os03t0752300-01_S_57	POT2891	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g20982.1 CDS|retrotransposon protein, putative, unclassified, expressed	138	+
+Os03t0752300-01_S_57	POT2895	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g21460.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2202	+
+Os03t0752300-01_S_57	POT2901	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g22760.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2562	+
+Os03t0752300-01_S_57	POT2908	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g23654.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3009	+
+Os03t0752300-01_S_57	POT2946	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g28630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2088	+
+Os03t0752300-01_S_57	POT2949	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g29420.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	69	+
+Os03t0752300-01_S_57	POT2954	- c - - - - g - - - - - - - - - g - a - - - -	4M	LOC_Os08g30470.1 CDS|expressed protein	580	-
+Os03t0752300-01_S_57	POT2969	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os08g32260.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2379	+
+Os03t0752300-01_S_57	POT3058	- - c - - - g - a - - - - - - c - - t - - - -	5M	LOC_Os08g43320.1 CDS|OsRhmbd14 - Putative Rhomboid homologue, expressed	381	-
+Os03t0752300-01_S_57	POT3076	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os09g03110.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3690	+
+Os03t0752300-01_S_57	POT3090	- - - - g - - - - c - a - - - t - - - - - a -	4M	LOC_Os09g05070.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1677	+
+Os03t0752300-01_S_57	POT3099	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os09g07890.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2400	+
+Os03t0752300-01_S_57	POT3108	- - - a - - - - a a t - - - - - - - - - - a -	4M	LOC_Os09g08460.1 CDS|transposon protein, putative, unclassified, expressed	1905	+
+Os03t0752300-01_S_57	POT3189	- - - c - t - - - - - - g - - - c - - - - - -	4M	LOC_Os09g21110.1 CDS|leucyl-tRNA synthetase, cytoplasmic, putative, expressed	2509	+
+Os03t0752300-01_S_57	POT3196	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os09g22320.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1002	+
+Os03t0752300-01_S_57	POT3206	- - - a - - - - a a t - - - - - - - - - - a -	4M	LOC_Os09g25510.1 CDS|transposon protein, putative, unclassified, expressed	1968	+
+Os03t0752300-01_S_57	POT3227	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os09g29000.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1035	+
+Os03t0752300-01_S_57	POT3245	- - - - a g - - - - - a - - - - t - c - - - -	5M	LOC_Os09g32540.1 CDS|expressed protein	606	+
+Os03t0752300-01_S_57	POT3247	- - - c - c - - - - - - g - - - c - - - - - -	4M	LOC_Os09g32650.1 CDS|leucyl-tRNA synthetase, cytoplasmic, putative, expressed	2515	+
+Os03t0752300-01_S_57	POT3259	c - - - g - - g a c - - - - - - - - - - - - -	5M	LOC_Os09g36850.1 CDS|expressed protein	171	-
+Os03t0752300-01_S_57	POT3278	- - - - c - - a - - - a - - g - - - - - c - -	4M	LOC_Os10g01164.1 CDS|retrotransposon protein, putative, unclassified	276	+
+Os03t0752300-01_S_57	POT3283	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g01950.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	417	+
+Os03t0752300-01_S_57	POT3298	t - c - c - - - a - - - c - - - - - - - - - -	5M	LOC_Os10g04160.1 CDS|expressed protein	216	+
+Os03t0752300-01_S_57	POT3345	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g12590.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1446	+
+Os03t0752300-01_S_57	POT3348	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g13480.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	138	+
+Os03t0752300-01_S_57	POT3357	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g15250.1 CDS|retrotransposon protein, putative, unclassified, expressed	2697	+
+Os03t0752300-01_S_57	POT3367	- - - - g - - - - c - a - - - t - - - - - a -	4M	LOC_Os10g17850.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	69	+
+Os03t0752300-01_S_57	POT3377	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g18560.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	810	+
+Os03t0752300-01_S_57	POT3403	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g24190.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1527	+
+Os03t0752300-01_S_57	POT3417	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os10g26210.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1797	+
+Os03t0752300-01_S_57	POT3544	- - - - g - - - - - - a - - - c - - - - - a -	3M	LOC_Os11g08630.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	69	+
+Os03t0752300-01_S_57	POT3560	- - - g c - - - - - - - - - - t - c - a - - -	5M	LOC_Os11g11390.1 CDS|ribosomal protein, putative, expressed	288	-
+Os03t0752300-01_S_57	POT3569	- - - a - - - - a a t - - - - - - - - - - a -	4M	LOC_Os11g12490.1 CDS|transposon protein, putative, unclassified, expressed	3030	+
+Os03t0752300-01_S_57	POT3588	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os11g18240.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1062	+
+Os03t0752300-01_S_57	POT3590	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os11g18810.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2070	+
+Os03t0752300-01_S_57	POT3595	g - - - g - - - - c - a - - - c - - - - - - -	5M	LOC_Os11g19570.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	849	+
+Os03t0752300-01_S_57	POT3606	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os11g22336.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	519	+
+Os03t0752300-01_S_57	POT3608	- - - - g - - - - c - a - - - c - - - - - - -	4M	LOC_Os11g22530.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1653	+
+Os03t0752300-01_S_57	POT3621	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os11g25670.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1977	+
+Os03t0752300-01_S_57	POT3667	g - - a - - - g - - c a - - - - - - - - - - -	5M	LOC_Os11g34460.2 CDS|OsFBO10 - F-box and other domain containing protein, expressed	253	-
+Os03t0752300-01_S_57	POT3668	g - - a - - - g - - c a - - - - - - - - - - -	5M	LOC_Os11g34460.3 CDS|OsFBO10 - F-box and other domain containing protein, expressed	253	-
+Os03t0752300-01_S_57	POT3669	g - - a - - - g - - c a - - - - - - - - - - -	5M	LOC_Os11g34460.1 CDS|OsFBO10 - F-box and other domain containing protein, expressed	616	-
+Os03t0752300-01_S_57	POT3694	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os11g35920.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2886	+
+Os03t0752300-01_S_57	POT3701	- - - - g - - - - c - a - - - c - - - - - - -	4M	LOC_Os11g37170.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2727	+
+Os03t0752300-01_S_57	POT3815	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g06680.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1776	+
+Os03t0752300-01_S_57	POT3830	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g08510.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	3210	+
+Os03t0752300-01_S_57	POT3832	- - - - g - - - - - - a - - - c - - - - - a -	3M	LOC_Os12g09480.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2247	+
+Os03t0752300-01_S_57	POT3840	- - - a - t - - - - - - - - c - - - - a t - -	4M	LOC_Os12g10410.1 CDS|NB-ARC/LRR disease resistance protein, putative, expressed	831	-
+Os03t0752300-01_S_57	POT3841	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g10430.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1143	+
+Os03t0752300-01_S_57	POT3866	- - - - - - - - - - - a - - - - - c a g - a -	4M	LOC_Os12g14390.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	642	+
+Os03t0752300-01_S_57	POT3868	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g15030.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	138	+
+Os03t0752300-01_S_57	POT3891	- - g - c - - g - - - a - - g - - - - - - - -	5M	LOC_Os12g18400.1 CDS|retrotransposon protein, putative, unclassified, expressed	852	+
+Os03t0752300-01_S_57	POT3900	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g19650.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	69	+
+Os03t0752300-01_S_57	POT3917	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g22320.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2619	+
+Os03t0752300-01_S_57	POT3922	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g22510.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1218	+
+Os03t0752300-01_S_57	POT3935	- - - a - - - - a a t - - - - - - - - - - a -	4M	LOC_Os12g24400.1 CDS|transposon protein, putative, unclassified, expressed	1455	+
+Os03t0752300-01_S_57	POT3944	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g24830.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	69	+
+Os03t0752300-01_S_57	POT3989	- - - - - - - - - - - a - - - - g - - a t a -	4M	LOC_Os12g29120.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1680	+
+Os03t0752300-01_S_57	POT4001	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g30700.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2844	+
+Os03t0752300-01_S_57	POT4022	- - - - - - - - - - - a - - - - g - - a c a -	4M	LOC_Os12g33380.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1521	+
+Os03t0752300-01_S_57	POT4031	- - - - g - - - - c - a - - - c - - - - - a -	4M	LOC_Os12g34740.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	2067	+
+Os03t0752300-01_S_57	POT4050	g - - - - - c - - - - - g - - - - c - g - - -	5M	LOC_Os12g38730.2 CDS|expressed protein	1308	-
+Os03t0752300-01_S_57	POT4051	g - - - - - c - - - - - g - - - - c - g - - -	5M	LOC_Os12g38730.1 CDS|expressed protein	1317	-
+Os03t0752300-01_S_57	POT4096	- - - - g - - - - c - a - - - c - - - - - a -	4M	ChrUn.fgenesh.mRNA.27 CDS|expressed protein	1947	+

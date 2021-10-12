@@ -1,0 +1,5 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_35_POT1139	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	38	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_35_POT1192	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	38	+	seed_ident	
+- g - t g - - - t g - - - - - - - - - - - - -	5M	Os03t0752300-01_S_35_POT3246	LOC_Os09g32580.1 CDS|expressed protein	746	+	regionI_ident	
+- - c g - - - - - c - c a - - - - - - - - - -	5M	Os03t0752300-01_S_35_POT3445	LOC_Os10g32010.1 CDS|expressed protein	184	+	regionI_ident	
+- - - c - - t - c c - - - - - - - - - - - a -	4M	Os03t0752300-01_S_35_POT3494	LOC_Os10g42724.1 CDS|VHS and GAT domain containing protein, expressed	620	-	regionI_ident	

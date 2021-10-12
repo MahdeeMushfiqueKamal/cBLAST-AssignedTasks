@@ -1,0 +1,4 @@
+Os03t0752300-01_S_8	POT1617	- - - - c t - c c - - a - - - - - - - - - - -	5M	LOC_Os04g47860.5 CDS|ZOS4-11 - C2H2 zinc finger protein, expressed	219	+
+Os03t0752300-01_S_8	POT1618	- - - - c t - c c - - a - - - - - - - - - - -	5M	LOC_Os04g47860.6 CDS|ZOS4-11 - C2H2 zinc finger protein, expressed	219	+
+Os03t0752300-01_S_8	POT1938	g - - - c - - - - - - t - - - t - - - t - - -	5M	LOC_Os05g37100.1 CDS|retrotransposon protein, putative, unclassified, expressed	804	+
+Os03t0752300-01_S_8	POT2841	- - - - c - - g g - - - g g - - - - - - - - -	5M	LOC_Os08g17000.1 CDS|expressed protein	71	-

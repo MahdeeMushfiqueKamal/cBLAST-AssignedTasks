@@ -1,0 +1,14 @@
+Os03t0752300-01_S_63	POT227	- - - - c - - - - - c - - - c - - g - - g - -	4M	LOC_Os01g40170.1 CDS|translation initiation factor, putative, expressed	532	-
+Os03t0752300-01_S_63	POT1165	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	555	+
+Os03t0752300-01_S_63	POT1218	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	555	+
+Os03t0752300-01_S_63	POT1759	- g - - - g - t - - - a - a - - - - - - - - -	5M	LOC_Os05g13570.1 CDS|retrotransposon protein, putative, unclassified, expressed	290	+
+Os03t0752300-01_S_63	POT2636	c - - - - - - - - - t - - - - c g - g - - - -	5M	LOC_Os07g38930.1 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	1430	+
+Os03t0752300-01_S_63	POT2637	c - - - - - - - - - t - - - - c g - g - - - -	5M	LOC_Os07g38930.3 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	1430	+
+Os03t0752300-01_S_63	POT2638	c - - - - - - - - - t - - - - c g - g - - - -	5M	LOC_Os07g38930.4 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	1430	+
+Os03t0752300-01_S_63	POT2639	c - - - - - - - - - t - - - - c g - g - - - -	5M	LOC_Os07g38930.5 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	1430	+
+Os03t0752300-01_S_63	POT2640	c - - - - - - - - - t - - - - c g - g - - - -	5M	LOC_Os07g38930.2 CDS|glucan endo-1,3-beta-glucosidase precursor, putative, expressed	1430	+
+Os03t0752300-01_S_63	POT3008	- g - g g - - - - g - - - - - - - - - - a - -	4M	LOC_Os08g36470.1 CDS|transposon protein, putative, unclassified	53	+
+Os03t0752300-01_S_63	POT3013	- c c - - - - - t - - g - a - - - - - - - - -	5M	LOC_Os08g37210.1 CDS|patatin, putative, expressed	404	-
+Os03t0752300-01_S_63	POT3014	g a - - t - - - - - t - - - - - - - - - a - -	4M	LOC_Os08g37260.2 CDS|expressed protein	1216	+
+Os03t0752300-01_S_63	POT3015	g a - - t - - - - - t - - - - - - - - - a - -	4M	LOC_Os08g37260.1 CDS|expressed protein	1216	+
+Os03t0752300-01_S_63	POT3419	- g - g g - - - - g - - - - - - - - - - a - -	4M	LOC_Os10g26370.1 CDS|transposon protein, putative, CACTA, En/Spm sub-class, expressed	53	+

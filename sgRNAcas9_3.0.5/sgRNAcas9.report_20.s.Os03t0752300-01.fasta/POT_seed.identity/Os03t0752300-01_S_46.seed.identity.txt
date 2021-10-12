@@ -1,0 +1,3 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1150	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	181	+	Os03t0752300-01_S_46
+- - - - - - - - - - - - - - - - - - - - - - -	0M	POT1203	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	181	+	Os03t0752300-01_S_46
+- - - g a t - t - - - - - - - - - - - - - - -	4M	POT3491	LOC_Os10g42210.1 CDS|enoyl-CoA-hydratase, putative, expressed	775	-	Os03t0752300-01_S_46

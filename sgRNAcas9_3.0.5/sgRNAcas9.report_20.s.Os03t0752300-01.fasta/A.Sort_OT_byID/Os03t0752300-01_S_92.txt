@@ -1,0 +1,26 @@
+Os03t0752300-01_S_92	POT429	- - - - c g - - - - g - - - t g - - - - - - -	5M	LOC_Os01g74550.1 CDS|transposon protein, putative, unclassified, expressed	1295	-
+Os03t0752300-01_S_92	POT459	- t c - - - - - - - - - - - - g - - g g - - -	5M	LOC_Os02g04790.1 CDS|expressed protein	388	+
+Os03t0752300-01_S_92	POT510	c - - - - - - c - - - - c - - - - t c - - - -	5M	LOC_Os02g12890.2 CDS|cytochrome P450, putative, expressed	378	+
+Os03t0752300-01_S_92	POT511	c - - - - - - c - - - - c - - - - t c - - - -	5M	LOC_Os02g12890.1 CDS|cytochrome P450, putative, expressed	753	+
+Os03t0752300-01_S_92	POT512	- - - a - - - - - - - - t - - a g - - t - - -	5M	LOC_Os02g12910.1 CDS|receptor-like protein kinase 5 precursor, putative, expressed	2647	+
+Os03t0752300-01_S_92	POT718	- - - - - - - - c t - - - - - - g - g - c - -	4M	LOC_Os02g47510.1 CDS|9-cis-epoxycarotenoid dioxygenase 1, chloroplast precursor, putative, expressed	1612	+
+Os03t0752300-01_S_92	POT1191	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	976	+
+Os03t0752300-01_S_92	POT1244	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	976	+
+Os03t0752300-01_S_92	POT1271	g - - - - - c - - - - - - - g g - - c - - - -	5M	LOC_Os03g61200.1 CDS|expressed protein	203	-
+Os03t0752300-01_S_92	POT1272	g - - - - - c - - - - - - - g g - - c - - - -	5M	LOC_Os03g61200.2 CDS|expressed protein	203	-
+Os03t0752300-01_S_92	POT1496	- - c a a - - - - - - - a - - - - a - - - - -	5M	LOC_Os04g28020.1 CDS|expressed protein	835	-
+Os03t0752300-01_S_92	POT1613	- - t - - - c - - - - - - c - g - - - - - a -	4M	LOC_Os04g47630.1 CDS|hypothetical protein	71	-
+Os03t0752300-01_S_92	POT1630	c - c - - - - - - - - - c g - - - - - - c - -	4M	LOC_Os04g50090.1 CDS|helix-loop-helix DNA-binding protein, putative, expressed	695	-
+Os03t0752300-01_S_92	POT1695	g - - - - t - - - - g - - - - a - - g - - - -	5M	LOC_Os05g02450.2 CDS|expressed protein	18	+
+Os03t0752300-01_S_92	POT1696	g - - - - t - - - - g - - - - a - - g - - - -	5M	LOC_Os05g02450.1 CDS|expressed protein	120	+
+Os03t0752300-01_S_92	POT2108	c - t g - - - - c - - - - - g - - - - - - - -	5M	LOC_Os06g14030.1 CDS|potassium channel SKOR, putative, expressed	2480	-
+Os03t0752300-01_S_92	POT2140	- - - - a - - - c - - - - - - - t - g - c - -	4M	LOC_Os06g18960.1 CDS|embryogenesis transmembrane protein, putative, expressed	991	+
+Os03t0752300-01_S_92	POT2296	c - c - - - - - - - - - c c - - - - g - - - -	5M	LOC_Os06g45900.1 CDS|peptidyl-prolyl cis-trans isomerase-like 4, putative, expressed	20	-
+Os03t0752300-01_S_92	POT2297	c - c - - - - - - - - - c c - - - - g - - - -	5M	LOC_Os06g45910.1 CDS|peptidyl-prolyl cis-trans isomerase-like 4, putative, expressed	20	-
+Os03t0752300-01_S_92	POT2357	- - c - - - - - c - c - - - t - - - - - c - -	4M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	961	+
+Os03t0752300-01_S_92	POT3363	- - - g - - - g - - a a - - - - - - - - c - -	4M	LOC_Os10g17290.1 CDS|retrotransposon protein, putative, unclassified, expressed	280	+
+Os03t0752300-01_S_92	POT3434	- - - - a - - g - - - - - - a - - t c - - - -	5M	LOC_Os10g29230.1 CDS|MBTB49 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with Meprin and TRAF Homology MATH domain, expressed	909	+
+Os03t0752300-01_S_92	POT3469	- g - - - - - - g - - - c - - - - - c - c - -	4M	LOC_Os10g36880.1 CDS|kinesin motor domain containing protein, putative, expressed	201	+
+Os03t0752300-01_S_92	POT3690	- - - - - - - c - - - - c - - - - t c - - - -	4M	LOC_Os11g35670.1 CDS|expressed protein	12	+
+Os03t0752300-01_S_92	POT3731	- - - g - - - c c - - - - - - - g - - - c - -	4M	LOC_Os11g41860.1 CDS|OsFBX429 - F-box domain containing protein, expressed	268	+
+Os03t0752300-01_S_92	POT4091	c - - - g - - - - - c - - - a - - - - a - - -	5M	LOC_Os12g44320.1 CDS|carbohydrate binding protein, putative, expressed	1379	-

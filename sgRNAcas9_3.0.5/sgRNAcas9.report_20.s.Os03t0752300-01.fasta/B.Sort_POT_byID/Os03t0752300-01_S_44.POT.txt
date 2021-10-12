@@ -1,0 +1,4 @@
+- - - - - g g t t - c - - - - - - - - - - - -	5M	Os03t0752300-01_S_44_POT996	LOC_Os03g31992.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	411	+	regionI_ident	
+- c - - - - - - - - - - - - - c g - - - t - -	3M	Os03t0752300-01_S_44_POT1124	LOC_Os03g53080.1 CDS|zinc finger, C3HC4 type domain containing protein, expressed	1257	+	random_0_3M	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_44_POT1148	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	153	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_44_POT1201	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	153	+	seed_ident	

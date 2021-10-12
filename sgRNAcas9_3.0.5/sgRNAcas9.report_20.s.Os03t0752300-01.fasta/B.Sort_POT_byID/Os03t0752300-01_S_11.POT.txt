@@ -1,0 +1,5 @@
+c g - - g - c - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_11_POT705	LOC_Os02g45490.2 CDS|expressed protein	321	+	regionI_ident	
+c g - - g - c - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_11_POT706	LOC_Os02g45490.4 CDS|expressed protein	321	+	regionI_ident	
+c g - - g - c - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_11_POT707	LOC_Os02g45490.3 CDS|expressed protein	321	+	regionI_ident	
+c g - - g - c - - - g - - - - - - - - - - - -	5M	Os03t0752300-01_S_11_POT708	LOC_Os02g45490.1 CDS|expressed protein	321	+	regionI_ident	
+- - - - - - - - c - - a - - - - - - - - a a -	3M	Os03t0752300-01_S_11_POT2153	LOC_Os06g20840.1 CDS|retrotransposon protein, putative, unclassified, expressed	1406	+	random_0_3M	

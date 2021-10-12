@@ -1,0 +1,4 @@
+- - - g - c a g - - - - a - - - - - - - - - -	5M	Os03t0752300-01_S_37_POT743	LOC_Os02g50840.1 CDS|BAH domain containing protein, putative, expressed	629	+	regionI_ident	
+- - - g - c a g - - - - a - - - - - - - - - -	5M	Os03t0752300-01_S_37_POT745	LOC_Os02g50840.2 CDS|BAH domain containing protein, putative, expressed	629	+	regionI_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_37_POT1141	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	62	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_37_POT1194	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	62	+	seed_ident	

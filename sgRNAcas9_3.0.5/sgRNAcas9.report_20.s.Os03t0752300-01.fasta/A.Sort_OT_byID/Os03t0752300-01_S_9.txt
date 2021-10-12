@@ -1,0 +1,51 @@
+Os03t0752300-01_S_9	POT3	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os01g02380.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass, expressed	1174	+
+Os03t0752300-01_S_9	POT319	- - - - - - - - - - - c - - - g g - - - c - -	3M	LOC_Os01g55310.1 CDS|haloacid dehalogenase-like hydrolase domain-containing protein 1A, putative, expressed	6	+
+Os03t0752300-01_S_9	POT372	- - - - - - - - - - g c - c - - g g - - - - -	5M	LOC_Os01g64850.1 CDS|OsSub10 - Putative Subtilisin homologue, expressed	964	+
+Os03t0752300-01_S_9	POT377	- - - - - - - c - a - - - - c - - c - - - a -	4M	LOC_Os01g65690.2 CDS|4,5-DOPA dioxygenase extradiol, putative, expressed	289	+
+Os03t0752300-01_S_9	POT378	- - - - - - - c - a - - - - c - - c - - - a -	4M	LOC_Os01g65690.1 CDS|4,5-DOPA dioxygenase extradiol, putative, expressed	505	+
+Os03t0752300-01_S_9	POT533	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os02g16010.1 CDS|retrotransposon protein, putative, unclassified, expressed	568	+
+Os03t0752300-01_S_9	POT541	- - - g t - - g g - - - - - - - t - - - - - -	5M	LOC_Os02g17650.2 CDS|tocopherol cyclase, chloroplast precursor, putative, expressed	18	+
+Os03t0752300-01_S_9	POT542	- - - g t - - g g - - - - - - - t - - - - - -	5M	LOC_Os02g17650.1 CDS|tocopherol cyclase, chloroplast precursor, putative, expressed	364	+
+Os03t0752300-01_S_9	POT599	- - - - - - - - g a t - - - - c - - - - - - -	4M	LOC_Os02g29050.1 CDS|retrotransposon protein, putative, unclassified, expressed	1330	+
+Os03t0752300-01_S_9	POT810	- - - g g - - - - - - - - - - g c a - - - - -	5M	LOC_Os03g01930.1 CDS|retrotransposon protein, putative, unclassified, expressed	1055	-
+Os03t0752300-01_S_9	POT863	- a - g - - - t - - - - a - - - - a - - - - -	5M	LOC_Os03g10900.1 CDS|disease resistance protein, putative, expressed	730	+
+Os03t0752300-01_S_9	POT907	- - - - c - - - t - - - - t - c - - - - c - -	4M	LOC_Os03g17770.1 CDS|expressed protein	764	-
+Os03t0752300-01_S_9	POT1250	- - - c t - - - - - - - - - - g c - - - - - -	4M	LOC_Os03g56700.1 CDS|expressed protein	479	-
+Os03t0752300-01_S_9	POT1417	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os04g17500.1 CDS|expressed protein	1174	+
+Os03t0752300-01_S_9	POT1530	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os04g34110.1 CDS|retrotransposon protein, putative, unclassified, expressed	73	+
+Os03t0752300-01_S_9	POT1890	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os05g31340.1 CDS|retrotransposon protein, putative, unclassified, expressed	1018	+
+Os03t0752300-01_S_9	POT1891	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os05g31350.1 CDS|conserved hypothetical protein	760	+
+Os03t0752300-01_S_9	POT1901	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os05g32520.1 CDS|conserved hypothetical protein	73	+
+Os03t0752300-01_S_9	POT1969	c - - - - - - - - - t - - - - - c c - c - - -	5M	LOC_Os05g40420.1 CDS|2,3-bisphosphoglycerate-independent phosphoglycerate mutase, putative, expressed	1564	+
+Os03t0752300-01_S_9	POT1970	c - - - - - - - - - t - - - - - c c - c - - -	5M	LOC_Os05g40420.2 CDS|2,3-bisphosphoglycerate-independent phosphoglycerate mutase, putative, expressed	1333	+
+Os03t0752300-01_S_9	POT2009	- - - g g - - - - - a - g - - - - - - - c - -	4M	LOC_Os05g50020.1 CDS|expressed protein	413	-
+Os03t0752300-01_S_9	POT2050	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os06g04100.1 CDS|conserved hypothetical protein	1174	+
+Os03t0752300-01_S_9	POT2094	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os06g09770.1 CDS|expressed protein	130	+
+Os03t0752300-01_S_9	POT2229	- - - g g - - - - - - - - - - g - c - c - - -	5M	LOC_Os06g33720.1 CDS|flavin-containing monooxygenase family protein, putative, expressed	374	-
+Os03t0752300-01_S_9	POT2382	- - - - c - - g - - - - - c - - - - - - - - -	3M	LOC_Os07g04190.1 CDS|receptor protein kinase CLAVATA1 precursor, putative, expressed	1354	+
+Os03t0752300-01_S_9	POT2389	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os07g05780.1 CDS|conserved hypothetical protein	1018	+
+Os03t0752300-01_S_9	POT2438	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os07g11990.1 CDS|conserved hypothetical protein	1018	+
+Os03t0752300-01_S_9	POT2486	- - - - g - - - - - - - g - - g g - g - - - -	5M	LOC_Os07g17490.1 CDS|expressed protein	497	-
+Os03t0752300-01_S_9	POT2487	- - - - g - - - - - - - g - - g g - g - - - -	5M	LOC_Os07g17520.1 CDS|expressed protein	545	-
+Os03t0752300-01_S_9	POT2618	- - - g g - - g - - - - - t - c - - - - - - -	5M	LOC_Os07g37010.2 CDS|cyclin, putative, expressed	347	-
+Os03t0752300-01_S_9	POT2619	- - - g g - - g - - - - - t - c - - - - - - -	5M	LOC_Os07g37010.1 CDS|cyclin, putative, expressed	347	-
+Os03t0752300-01_S_9	POT2755	- - - g - - - - - - - - g g - g - - - c - - -	5M	LOC_Os08g04470.1 CDS|U box protein 8, putative, expressed	854	-
+Os03t0752300-01_S_9	POT2859	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18220.1 CDS|retrotransposon protein, putative, unclassified, expressed	892	+
+Os03t0752300-01_S_9	POT2860	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18720.1 CDS|retrotransposon protein, putative, unclassified	892	+
+Os03t0752300-01_S_9	POT2861	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18730.1 CDS|retrotransposon protein, putative, unclassified, expressed	3412	+
+Os03t0752300-01_S_9	POT2862	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18740.1 CDS|zinc knuckle family protein, expressed	871	+
+Os03t0752300-01_S_9	POT2863	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os08g18750.1 CDS|conserved hypothetical protein	901	+
+Os03t0752300-01_S_9	POT2864	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os08g18770.1 CDS|retrotransposon protein, putative, unclassified, expressed	73	+
+Os03t0752300-01_S_9	POT2865	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18800.1 CDS|conserved hypothetical protein	1135	+
+Os03t0752300-01_S_9	POT2866	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18810.1 CDS|conserved hypothetical protein	1135	+
+Os03t0752300-01_S_9	POT2867	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18820.1 CDS|zinc knuckle family protein, expressed	1135	+
+Os03t0752300-01_S_9	POT2868	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g18820.1 CDS|zinc knuckle family protein, expressed	3277	+
+Os03t0752300-01_S_9	POT3023	- - t - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os08g39410.1 CDS|retrotransposon protein, putative, unclassified, expressed	625	+
+Os03t0752300-01_S_9	POT3072	- t - - - g - - - a t - - - - - - - t - - - -	5M	LOC_Os09g02790.1 CDS|zinc-binding protein, putative, expressed	400	+
+Os03t0752300-01_S_9	POT3075	- t - - - g - - - a t - - - - - - - t - - - -	5M	LOC_Os09g03080.1 CDS|conserved hypothetical protein	580	+
+Os03t0752300-01_S_9	POT3202	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os09g24390.1 CDS|zinc knuckle family protein, expressed	1174	+
+Os03t0752300-01_S_9	POT3213	- a - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os09g26640.1 CDS|retrotransposon protein, putative, unclassified, expressed	508	+
+Os03t0752300-01_S_9	POT3254	- - a - - - - - t - - - g c a - - - - - - - -	5M	LOC_Os09g36090.1 CDS|plus-3 domain containing protein, expressed	3976	+
+Os03t0752300-01_S_9	POT3381	t - - - - a - - a - a - - - a - - - - - - - -	5M	LOC_Os10g18670.1 CDS|retrotransposon protein, putative, unclassified, expressed	877	+
+Os03t0752300-01_S_9	POT3620	- - - g - - t - - - - - g - - - g g - - - - -	5M	LOC_Os11g25510.1 CDS|protein kinase domain containing protein, expressed	166	+
+Os03t0752300-01_S_9	POT4044	- - - - - a - - a - a - - - a - - - - - - - -	4M	LOC_Os12g37470.1 CDS|conserved hypothetical protein	1018	+

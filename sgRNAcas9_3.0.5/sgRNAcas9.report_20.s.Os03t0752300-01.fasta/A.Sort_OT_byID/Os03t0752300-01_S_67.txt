@@ -1,0 +1,9 @@
+Os03t0752300-01_S_67	POT309	- - a - c - g - - - - - - - c a - - - - - - -	5M	LOC_Os01g54560.1 CDS|trehalose synthase, putative, expressed	2311	+
+Os03t0752300-01_S_67	POT310	- - a - c - g - - - - - - - c a - - - - - - -	5M	LOC_Os01g54560.2 CDS|trehalose synthase, putative, expressed	2224	+
+Os03t0752300-01_S_67	POT311	- - a - c - g - - - - - - - c a - - - - - - -	5M	LOC_Os01g54560.3 CDS|trehalose synthase, putative, expressed	2080	+
+Os03t0752300-01_S_67	POT1169	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	597	+
+Os03t0752300-01_S_67	POT1222	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	597	+
+Os03t0752300-01_S_67	POT1573	- - - a - c - - - - - a - - - - - - - t - - -	4M	LOC_Os04g41330.1 CDS|expressed protein	994	-
+Os03t0752300-01_S_67	POT1726	- - - a a - - - - - - - - a - t - g - - - - -	5M	LOC_Os05g07960.1 CDS|F-box protein interaction domain containing protein, expressed	1135	-
+Os03t0752300-01_S_67	POT2256	- - - g - - - - c - - - - - - - - g g t - - -	5M	LOC_Os06g39480.1 CDS|SPOC domain containing protein, putative, expressed	163	+
+Os03t0752300-01_S_67	POT2352	- - - g - - g g - g - - - - - - - - g - - - -	5M	LOC_Os07g01810.1 CDS|potassium channel protein, putative, expressed	582	+

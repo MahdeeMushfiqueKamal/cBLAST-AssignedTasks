@@ -1,0 +1,19 @@
+Os03t0752300-01_S_10	POT151	- - - g - - - - - - - c - - - - c c c - - - -	5M	LOC_Os01g27050.1 CDS|flavin-containing monooxygenase family protein, putative, expressed	943	-
+Os03t0752300-01_S_10	POT493	- - - c g - - - - - c c - - - - - - t - - - -	5M	LOC_Os02g08330.1 CDS|gp176, putative, expressed	1639	-
+Os03t0752300-01_S_10	POT499	g - - - - - - - - - - c c g - - - - - - g - -	4M	LOC_Os02g10550.1 CDS|expressed protein	277	-
+Os03t0752300-01_S_10	POT500	g - - - - - - - - - - c c g - - - - - - - - -	4M	LOC_Os02g10580.1 CDS|NB-ARC domain containing disease resistance protein, putative, expressed	319	-
+Os03t0752300-01_S_10	POT579	- t - - - - t - - - - - - g - - - - - t - a -	4M	LOC_Os02g24860.1 CDS|retrotransposon protein, putative, unclassified, expressed	3086	+
+Os03t0752300-01_S_10	POT896	- - - c - - - - a g - - - g - - g - - - - - -	5M	LOC_Os03g16334.1 CDS|fringe-related protein, putative, expressed	1401	-
+Os03t0752300-01_S_10	POT906	g - - g - - - - - - - c - - - c - - t - - - -	5M	LOC_Os03g17610.1 CDS|OsTOP6A3 - Topoisomerase 6 subunit A homolog 3, expressed	319	+
+Os03t0752300-01_S_10	POT1091	- - - c - - - t - t t g - - - - - - - - - - -	5M	LOC_Os03g47860.1 CDS|transferase family protein, putative, expressed	646	-
+Os03t0752300-01_S_10	POT1521	- - - - - - - - - - a c - c - - - - - t g - -	4M	LOC_Os04g31880.1 CDS|expressed protein	541	-
+Os03t0752300-01_S_10	POT1871	g - c - - - - a - - - c c - - - - - - - - - -	5M	LOC_Os05g28320.1 CDS|myb-like DNA-binding domain containing protein, putative, expressed	541	-
+Os03t0752300-01_S_10	POT2117	- g - - - c t - - - - - - - - - - - a t - - -	5M	LOC_Os06g15730.1 CDS|expressed protein	500	+
+Os03t0752300-01_S_10	POT2383	c - - g - - - - - c - - - - - - - - - - - a -	3M	LOC_Os07g04190.1 CDS|receptor protein kinase CLAVATA1 precursor, putative, expressed	1358	+
+Os03t0752300-01_S_10	POT2830	- - - c - - - - g t - g - g - - - - - - - - -	5M	LOC_Os08g15420.1 CDS|CSLC3 - cellulose synthase-like family C, expressed	1930	-
+Os03t0752300-01_S_10	POT2964	t g - - - - - - - t - g - - - - g - - - - - -	5M	LOC_Os08g31580.1 CDS|ethylene-responsive transcription factor, putative, expressed	172	-
+Os03t0752300-01_S_10	POT3073	g t - - - - - - - t - c t - - - - - - - - - -	5M	LOC_Os09g02830.1 CDS|OsMADS78 - MADS-box family gene with M-alpha type-box, expressed	533	+
+Os03t0752300-01_S_10	POT3425	c - - c - - - - g c - g - - - - - - - - - - -	5M	LOC_Os10g28240.1 CDS|calcium-transporting ATPase, plasma membrane-type, putative, expressed	1440	-
+Os03t0752300-01_S_10	POT3427	c - - - - - - - g - - - - g g a - - - - - - -	5M	LOC_Os10g28640.1 CDS|RIO1 family protein, expressed	347	+
+Os03t0752300-01_S_10	POT4052	- - - t t - - a - - - - - - - - - - t - - - -	4M	LOC_Os12g38770.1 CDS|nucleotide pyrophosphatase/phosphodiesterase, putative, expressed	695	-
+Os03t0752300-01_S_10	POT4097	- - - g - - - - - - - c - - - - c c c - - - -	5M	ChrUn.fgenesh.mRNA.86 CDS|expressed protein	1027	-

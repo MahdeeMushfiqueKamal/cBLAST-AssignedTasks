@@ -1,0 +1,23 @@
+Os03t0752300-01_S_23	POT103	- - c - a - - - - - - - - c - g - - c - - - -	5M	LOC_Os01g18410.1 CDS|expressed protein	27	+
+Os03t0752300-01_S_23	POT625	- - c - - - a - g - - g - - - - - c - - - - -	5M	LOC_Os02g35020.1 CDS|glycosyl transferase, putative, expressed	523	-
+Os03t0752300-01_S_23	POT699	c - - - - - - - - g g c - - - - g - - - - - -	5M	LOC_Os02g45000.1 CDS|expressed protein	479	-
+Os03t0752300-01_S_23	POT715	- g - - - - a t - - - - - - - - - - t - a - -	4M	LOC_Os02g46690.1 CDS|OsFBD8 - F-box and FBD domain containing protein, expressed	1214	+
+Os03t0752300-01_S_23	POT726	c - - - - - - - - g g c - - - - g - - - - - -	5M	LOC_Os02g48430.1 CDS|expressed protein	994	+
+Os03t0752300-01_S_23	POT1644	g - - - - - - - - g - - - - - - g c - - g - -	4M	LOC_Os04g52110.1 CDS|late embryogenesis abundant protein, group 3, putative, expressed	657	+
+Os03t0752300-01_S_23	POT1738	- - c - - - - - - - - - - - - - g c - g t - -	4M	LOC_Os05g09150.1 CDS|AGAP006957-PA, putative, expressed	1166	+
+Os03t0752300-01_S_23	POT1739	- - c - - - - - - - - - - - - - g c - g t - -	4M	LOC_Os05g09240.1 CDS|AGAP006957-PA, putative, expressed	491	+
+Os03t0752300-01_S_23	POT1740	- - c - - - - - - - - - - - - - g c - g t - -	4M	LOC_Os05g09280.1 CDS|AGAP006957-PA, putative, expressed	1106	+
+Os03t0752300-01_S_23	POT1749	- - - - - t - - - - - - - - c t c - - - g - -	4M	LOC_Os05g11414.1 CDS|OsMADS58 - MADS-box family gene with MIKCc type-box, expressed	91	+
+Os03t0752300-01_S_23	POT1903	- - c - - - - - - - - g - c - - g - - g - - -	5M	LOC_Os05g33570.1 CDS|pyruvate, phosphate dikinase, chloroplast precursor, putative, expressed	151	+
+Os03t0752300-01_S_23	POT2411	g - c - - - - - - - g - c - - - c - - - - - -	5M	LOC_Os07g08780.1 CDS|expressed protein	155	-
+Os03t0752300-01_S_23	POT2578	- - - - - a - - - - - t - - c - t - - a - - -	5M	LOC_Os07g31450.1 CDS|CHR4/MI-2-LIKE, putative, expressed	6181	-
+Os03t0752300-01_S_23	POT2594	- - c - - - - - - a g - - - - - c - c - - - -	5M	LOC_Os07g33570.1 CDS|retrotransposon protein, putative, unclassified, expressed	262	-
+Os03t0752300-01_S_23	POT2794	g - - - - a - - a - - - - - - - - - c - - a -	4M	LOC_Os08g10410.1 CDS|expressed protein	93	+
+Os03t0752300-01_S_23	POT2826	c - - - - - - - - g - t - - t - - c - - - - -	5M	LOC_Os08g15090.1 CDS|diacylglycerol kinase catalytic domain family protein, expressed	471	+
+Os03t0752300-01_S_23	POT2840	g - - - a - - - - g - - - - t - - - - - - - -	4M	LOC_Os08g16940.1 CDS|ZOS8-01 - C2H2 zinc finger protein, expressed	146	-
+Os03t0752300-01_S_23	POT3198	- - - - c - a t g c - - - - - - - - - - - - -	5M	LOC_Os09g23595.1 CDS|expressed protein	179	+
+Os03t0752300-01_S_23	POT3393	- - - - - a - - g - - - - - - - - a - a a - -	4M	LOC_Os10g20890.1 CDS|LTPL137 - Protease inhibitor/seed storage/LTP family protein precursor, expressed	24	-
+Os03t0752300-01_S_23	POT3512	- - t - - g - - - - - t - - - - - - - c - a -	4M	LOC_Os11g02650.1 CDS|fringe-related protein, putative, expressed	75	+
+Os03t0752300-01_S_23	POT4048	- - g - - - t - - - - g t - t - - - - - - - -	5M	LOC_Os12g38090.1 CDS|OsFBX456 - F-box domain containing protein, expressed	926	+
+Os03t0752300-01_S_23	POT4073	g - - - a - - - - g - - - - - - g - - - - - -	4M	LOC_Os12g42100.1 CDS|phosphonate metabolism protein-related, putative, expressed	143	-
+Os03t0752300-01_S_23	POT4075	g - - - a - - - - g - - - - - - g - - - - - -	4M	LOC_Os12g42110.1 CDS|phosphonate metabolism protein-related, putative, expressed	158	-

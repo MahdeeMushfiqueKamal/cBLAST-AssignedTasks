@@ -1,0 +1,12 @@
+Os03t0752300-01_S_66	POT233	- - - - - t a - - a - t - t - - - - - - - - -	5M	LOC_Os01g40820.1 CDS|peptidase family M41 containing protein, expressed	848	-
+Os03t0752300-01_S_66	POT613	- - a - - - - - - - a - - g - - - - - a c - -	4M	LOC_Os02g32690.2 CDS|pleiotropic drug resistance protein 15, putative, expressed	1652	+
+Os03t0752300-01_S_66	POT614	- - a - - - - - - - a - - g - - - - - a c - -	4M	LOC_Os02g32690.1 CDS|pleiotropic drug resistance protein 15, putative, expressed	1652	+
+Os03t0752300-01_S_66	POT1168	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	590	+
+Os03t0752300-01_S_66	POT1221	- - - - - - - - - - - - - - - - - - - - - - -	0M	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	590	+
+Os03t0752300-01_S_66	POT1491	- - - t - - - - - - - - a t a - - - - - a - -	4M	LOC_Os04g27270.1 CDS|retrotransposon protein, putative, Ty3-gypsy subclass	1076	+
+Os03t0752300-01_S_66	POT2542	c - - - - - - a - - a t - - - - - - - - - a -	4M	LOC_Os07g27490.1 CDS|Regulator of chromosome condensation domain containing protein, expressed	1394	-
+Os03t0752300-01_S_66	POT2543	c - - - - - - a - - a t - - - - - - - - - a -	4M	LOC_Os07g27490.2 CDS|Regulator of chromosome condensation domain containing protein, expressed	1139	-
+Os03t0752300-01_S_66	POT2585	- - - - g a - - - - - t - - - - - - - a g - -	4M	LOC_Os07g31800.1 CDS|NB-ARC domain containing protein, expressed	804	-
+Os03t0752300-01_S_66	POT3026	- - - - - a - - - - - - - g c - - - - c c - -	4M	LOC_Os08g39760.1 CDS|retrotransposon protein, putative, unclassified, expressed	5231	+
+Os03t0752300-01_S_66	POT3857	- - - - - - - - - - t - - - a - - t - - g a -	4M	LOC_Os12g13150.1 CDS|expressed protein	1308	-
+Os03t0752300-01_S_66	POT3925	- - - - - - - - - - a - - t - - a - c c - - -	5M	LOC_Os12g23040.1 CDS|transposon protein, putative, Mutator sub-class, expressed	1617	-

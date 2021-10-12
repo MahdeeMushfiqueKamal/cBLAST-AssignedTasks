@@ -1,0 +1,1 @@
+- - c - - - t - - a a - - - - - - - - - c - -	4M	Os03t0752300-01_S_22_POT3187	LOC_Os09g20220.1 CDS|glutathione S-transferase, putative, expressed	355	+	regionI_ident	

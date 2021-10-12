@@ -1,0 +1,5 @@
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_42_POT1146	LOC_Os03g54100.1 CDS|potassium channel protein, putative, expressed	121	+	seed_ident	
+- - - - - - - - - - - - - - - - - - - - - - -	0M	Os03t0752300-01_S_42_POT1199	LOC_Os03g54100.2 CDS|potassium channel protein, putative, expressed	121	+	seed_ident	
+- - - - - - a - t - - t t - - - - - - - t - -	4M	Os03t0752300-01_S_42_POT2706	LOC_Os07g47360.3 CDS|CW-type Zinc Finger, putative, expressed	186	-	regionI_ident	
+- - - - - - a - t - - t t - - - - - - - t - -	4M	Os03t0752300-01_S_42_POT2707	LOC_Os07g47360.1 CDS|CW-type Zinc Finger, putative, expressed	186	-	regionI_ident	
+- - - - - - a - t - - t t - - - - - - - t - -	4M	Os03t0752300-01_S_42_POT2708	LOC_Os07g47360.2 CDS|CW-type Zinc Finger, putative, expressed	186	-	regionI_ident	
